@@ -963,3 +963,74 @@ cbfcb70f-a855-4068-b02f-816804042029	Bombs Away		Aggression	2	Event		AERIAL. 
 cbfcb70f-a855-4068-b02f-816804042030	Eyes in the Sky		Justice	0	Upgrade		AERIAL. PREPARATION.
 cbfcb70f-a855-4068-b02f-816804042031	Flying Formation		Leadership	4	Event		AERIAL. TACTIC.
 cbfcb70f-a855-4068-b02f-816804042032	X-Force Recruit		Basic	0	Upgrade		TITLE.
+75156e6a-46eb-4164-9986-e46621043002	X-23's Claws		Hero	-	Upgrade		WEAPON.
+75156e6a-46eb-4164-9986-e46621043003	Honey Badger: Gabby Kinney		Hero	2	Ally		X-MEN.
+75156e6a-46eb-4164-9986-e46621043004	Animal Instinct		Hero	0	Event		SKILL.
+75156e6a-46eb-4164-9986-e46621043005	Claw Mastery		Hero	1	Event		SKILL.
+75156e6a-46eb-4164-9986-e46621043006	Regenerative Longevity		Hero	1	Event		SUPERPOWER.
+75156e6a-46eb-4164-9986-e46621043007	Sisterly Bond		Hero	0	Event		CONDITION.
+75156e6a-46eb-4164-9986-e46621043008	Sisterhood		Hero	2	Support		CONDITION.
+75156e6a-46eb-4164-9986-e46621043009	Adamantium Lacing		Hero	1	Upgrade		
+75156e6a-46eb-4164-9986-e46621043010	Grim Resolve		Hero	1	Upgrade		CONDITION.
+75156e6a-46eb-4164-9986-e46621043011	Pain Tolerance		Hero	2	Upgrade		SUPERPOWER.
+75156e6a-46eb-4164-9986-e46621043012	Puncture Wound		Hero	0	Upgrade		CONDITION.
+75156e6a-46eb-4164-9986-e46621043013	Boom Boom: Tabitha Smith		Aggression	3	Ally		X-FORCE.
+75156e6a-46eb-4164-9986-e46621043014	Rictor: Julio Richter		Aggression	3	Ally		X-FORCE.
+75156e6a-46eb-4164-9986-e46621043015	Shatterstar: Gaveedra Seven		Aggression	4	Ally		X-FORCE.
+75156e6a-46eb-4164-9986-e46621043016	Critical Hit		Aggression	2	Event		
+75156e6a-46eb-4164-9986-e46621043018	Keep Them Busy		Aggression	1	Player Side Scheme		
+75156e6a-46eb-4164-9986-e46621043019	"Now I'm Mad"		Aggression	1	Upgrade		CONDITION.
+75156e6a-46eb-4164-9986-e46621043020	The Direct Approach		Aggression	1	Upgrade		TACTIC.
+75156e6a-46eb-4164-9986-e46621043021	Specialized Training		Basic	1	Player Side Scheme		
+75156e6a-46eb-4164-9986-e46621043034	Combat Specialist		Basic	2	Upgrade		SPECIALIZATION.
+75156e6a-46eb-4164-9986-e46621043035	Defense Specialist		Basic	2	Upgrade		SPECIALIZATION.
+75156e6a-46eb-4164-9986-e46621043036	Front Line Specialist		Basic	2	Upgrade		SPECIALIZATION.
+75156e6a-46eb-4164-9986-e46621043037	Surveillance Specialist		Basic	2	Upgrade		SPECIALIZATION.
+75156e6a-46eb-4164-9986-e46621043038	Predictable Ploy		Justice	2	Event		
+75156e6a-46eb-4164-9986-e46621043039	Rally the Troops		Leadership	0	Player Side Scheme		
+75156e6a-46eb-4164-9986-e46621043040	Anticipated Attack		Protection	2	Event		DEFENSE.
+03bdcc46-22c1-4a7f-8ca7-e212d5044002	Cable: Nathan Summers		Hero	3	Ally		PSIONIC. X-FORCE.
+03bdcc46-22c1-4a7f-8ca7-e212d5044003	Exhausting Personality		Hero	0	Event		
+03bdcc46-22c1-4a7f-8ca7-e212d5044004	Maximum Effort		Hero	0	Event		ATTACK.
+03bdcc46-22c1-4a7f-8ca7-e212d5044005	Metaknowledge		Hero	1	Event		
+03bdcc46-22c1-4a7f-8ca7-e212d5044006	"Yoo-Hoo!"		Hero	1	Event		THWART.
+03bdcc46-22c1-4a7f-8ca7-e212d5044007	Montage		Hero	-	Resource		
+03bdcc46-22c1-4a7f-8ca7-e212d5044008	Chimichanga Truck		Hero	2	Support		LOCATION.
+03bdcc46-22c1-4a7f-8ca7-e212d5044009	Armed to the Teeth		Hero	2	Upgrade		
+03bdcc46-22c1-4a7f-8ca7-e212d5044010	Deadpool's Katana		Hero	2	Upgrade		WEAPON.
+03bdcc46-22c1-4a7f-8ca7-e212d5044011	It Ain't Over...		Hero	1	Upgrade		CONDITION.
+03bdcc46-22c1-4a7f-8ca7-e212d5044012	This Card is Fire		Hero	3	Event		ATTACK.
+03bdcc46-22c1-4a7f-8ca7-e212d5044013	Dogpool: Wilson		'Pool	3	Ally		DEADPOOL CORPS.
+03bdcc46-22c1-4a7f-8ca7-e212d5044014	Headpool: Wade "Shorty" Wilson		'Pool	3	Ally		DEADPOOL CORPS. ZOMBIE.
+03bdcc46-22c1-4a7f-8ca7-e212d5044015	Kidpool: Wade "Tito" Wilson		'Pool	3	Ally		DEADPOOL CORPS.
+03bdcc46-22c1-4a7f-8ca7-e212d5044016	Lady Deadpool: Wanda Wilson		'Pool	4	Ally		DEADPOOL CORPS.
+03bdcc46-22c1-4a7f-8ca7-e212d5044017	Barely a Scratch		'Pool	0	Event		DEFENSE.
+03bdcc46-22c1-4a7f-8ca7-e212d5044018	Cutupper		'Pool	3	Event		ATTACK.
+03bdcc46-22c1-4a7f-8ca7-e212d5044019	Da Bomb		'Pool	6	Event		
+03bdcc46-22c1-4a7f-8ca7-e212d5044020	Get Rage-y		'Pool	0	Event		
+03bdcc46-22c1-4a7f-8ca7-e212d5044021	"I Got This"		'Pool	1	Event		
+03bdcc46-22c1-4a7f-8ca7-e212d5044022	Not my Responsibility		'Pool	0	Event		
+03bdcc46-22c1-4a7f-8ca7-e212d5044023	'Pool Inspection		'Pool	6	Event		THWART.
+03bdcc46-22c1-4a7f-8ca7-e212d5044024	Live Dangerously		'Pool	0	Player Side Scheme		
+03bdcc46-22c1-4a7f-8ca7-e212d5044025	Self Confidence		'Pool	-	Resource		
+03bdcc46-22c1-4a7f-8ca7-e212d5044026	Self Control		'Pool	-	Resource		
+03bdcc46-22c1-4a7f-8ca7-e212d5044027	Self Preservation		'Pool	-	Resource		
+03bdcc46-22c1-4a7f-8ca7-e212d5044028	Git Gud		'Pool	2	Upgrade		
+03bdcc46-22c1-4a7f-8ca7-e212d5044029	Healing Factor		'Pool	3	Upgrade		SUPERPOWER.
+03bdcc46-22c1-4a7f-8ca7-e212d5044030	Stick-To-Itiveness		'Pool	2	Upgrade		CONDITION.
+03bdcc46-22c1-4a7f-8ca7-e212d5044043	Bob, Agent of Hydra: Bob Dobalina		'Pool	2	Ally		HYDRA.
+03bdcc46-22c1-4a7f-8ca7-e212d5044044	Negasonic Teenage Warhead: Ellie Phimister		'Pool	4	Ally		PSIONIC. X-FORCE.
+03bdcc46-22c1-4a7f-8ca7-e212d5044045	Pandapool		'Pool	4	Ally		DEADPOOL CORPS.
+03bdcc46-22c1-4a7f-8ca7-e212d5044046	Break Time		'Pool	3	Event		
+03bdcc46-22c1-4a7f-8ca7-e212d5044047	Get in Front of Me!		'Pool	1	Event		
+03bdcc46-22c1-4a7f-8ca7-e212d5044048	Mulligan		'Pool	3	Event		
+03bdcc46-22c1-4a7f-8ca7-e212d5044049	Deadpool Corps Ship		'Pool	1	Support		VEHICLE.
+03bdcc46-22c1-4a7f-8ca7-e212d5044050	Plot Convenience		'Pool	2	Support		
+03bdcc46-22c1-4a7f-8ca7-e212d5044051	Ambush		'Pool	1	Upgrade		TACTIC.
+03bdcc46-22c1-4a7f-8ca7-e212d5044052	Bazooka		'Pool	2	Upgrade		WEAPON.
+03bdcc46-22c1-4a7f-8ca7-e212d5044053	Blackout		'Pool	0	Upgrade		METAGAME.
+03bdcc46-22c1-4a7f-8ca7-e212d5044054	Distraction		'Pool	0	Upgrade		
+03bdcc46-22c1-4a7f-8ca7-e212d5044055	Laser Swords		'Pool	3	Upgrade		WEAPON.
+03bdcc46-22c1-4a7f-8ca7-e212d5044056	Rock, Paper, Scissors		'Pool	1	Upgrade		METAGAME.
+03bdcc46-22c1-4a7f-8ca7-e212d5044057	Tic-Tac-Toe		'Pool	0	Upgrade		METAGAME.
+03bdcc46-22c1-4a7f-8ca7-e212d5044058	War		'Pool	1	Upgrade		METAGAME.
