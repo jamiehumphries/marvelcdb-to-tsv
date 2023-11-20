@@ -1,4 +1,4 @@
-471e5531-48c9-4b6c-8417-7158b81f4287	Black Cat: Felicia Hardy		Hero	2	Ally		HERO FOR HIRE.
+471e5531-48c9-4b6c-8417-7158b81f4287	Black Cat (Felicia Hardy)		Hero	2	Ally		HERO FOR HIRE.
 942a87e3-0ab3-4544-85ff-473cfdf622ba	Backflip		Hero	0	Event		DEFENSE. SKILL.
 816c6c4a-0745-4610-81f5-29dc97865873	Enhanced Spider-Sense		Hero	1	Event		SUPERPOWER.
 933069ad-ebd7-4813-a058-4729d1db1ca7	Swinging Web Kick		Hero	3	Event		AERIAL. ATTACK. SUPERPOWER.
@@ -6,7 +6,7 @@
 feead700-3e37-4ecb-9f14-15a17a6f0d70	Spider-Tracer		Hero	1	Upgrade		ITEM. TECH.
 ab2d0f0d-5df7-4269-876d-99fe1f1d25d4	Web-Shooter		Hero	1	Upgrade		ITEM. TECH.
 6bd78cc3-bc7f-4382-b063-5d69a70a0cdc	Webbed Up		Hero	4	Upgrade		CONDITION.
-66c3024c-28aa-4803-b772-b21c5397fa64	Spider-Woman: Jessica Drew		Hero	3	Ally		AVENGER. SPY.
+66c3024c-28aa-4803-b772-b21c5397fa64	Spider-Woman (Jessica Drew)		Hero	3	Ally		AVENGER. SPY.
 dd9fbd85-7a49-4bb5-bcb2-7ef92333ce33	Crisis Interdiction		Hero	2	Event		THWART.
 9843b01c-f11d-4a3f-9bc0-f20a9bbc48cd	Photonic Blast		Hero	3	Event		ATTACK. SUPERPOWER.
 5fd7d61f-d44e-43cc-b5a2-982d0e68c3aa	Energy Absorption		Hero	-	Resource		
@@ -14,7 +14,7 @@ fa6f18d7-8d43-4a69-9eaf-a9b5b6577fce	Alpha Flight Station		Hero	1	Support	
 4a0711af-292a-4fb5-8e1c-23c726465354	Captain Marvel's Helmet		Hero	2	Upgrade		ARMOR. TECH.
 5b294403-a4c7-4786-867e-cc8bced674f6	Cosmic Flight		Hero	2	Upgrade		SUPERPOWER.
 88a66ea4-d071-463e-8c43-24f53350ea4c	Energy Channel		Hero	0	Upgrade		SUPERPOWER.
-c7bff565-c40b-4ed7-a46f-a8c28ce6c589	Hellcat: Patsy Walker		Hero	3	Ally		AVENGER.
+c7bff565-c40b-4ed7-a46f-a8c28ce6c589	Hellcat (Patsy Walker)		Hero	3	Ally		AVENGER.
 c7be5de7-441e-4077-a21a-211b8552bcb2	Gamma Slam		Hero	4	Event		ATTACK. SUPERPOWER.
 2546232b-5f39-43d5-8427-69bd1fbb9da8	Ground Stomp		Hero	2	Event		SUPERPOWER.
 2d07f30d-9abe-49a3-8e8e-09a7fa925a41	Legal Practice		Hero	0	Event		SKILL. THWART.
@@ -23,7 +23,7 @@ c7be5de7-441e-4077-a21a-211b8552bcb2	Gamma Slam		Hero	4	Event		ATTACK. SUPERP
 316e8579-6ef0-476a-b449-eda0d05ecdd2	Superhuman Law Division		Hero	1	Support		LOCATION.
 b37aeafa-227b-4edf-8b00-7326ae1b45db	Focused Rage		Hero	3	Upgrade		SKILL.
 562fbca4-2d38-4b65-96ba-4e933b0cea2f	Superhuman Strength		Hero	2	Upgrade		SUPERPOWER.
-091b226f-5285-40f1-9aa0-a4b7a9449a7c	War Machine: James Rhodes		Hero	4	Ally		S.H.I.E.L.D. SOLDIER.
+091b226f-5285-40f1-9aa0-a4b7a9449a7c	War Machine (James Rhodes)		Hero	4	Ally		S.H.I.E.L.D. SOLDIER.
 08234002-9dd8-4a63-b012-7a9647b49b8a	Repulsor Blast		Hero	1	Event		ATTACK. SUPERPOWER.
 98a1d5d7-e576-4da3-8d13-82fbb2042bfc	Supersonic Punch		Hero	2	Event		ATTACK.
 e7e08f4c-7505-46fa-be88-9e9e71c2470a	Pepper Potts		Hero	3	Support		PERSONA.
@@ -45,15 +45,15 @@ cfbadb2e-90cc-4898-b760-0fa7f971fcfe	Energy Daggers		Hero	2	Upgrade		BLACK PA
 576fa771-26be-497f-b5b2-ff86edb09bfa	Panther Claws		Hero	2	Upgrade		BLACK PANTHER. WEAPON.
 6f0c70e1-1b39-4ec8-89f5-62dcd9b406a7	Tactical Genius		Hero	2	Upgrade		BLACK PANTHER. SKILL.
 a9469ef7-c792-4b2b-a2ed-d46684cf67a5	Vibranium Suit		Hero	2	Upgrade		ARMOR. BLACK PANTHER.
-a690f1b8-7ffc-4330-b715-298e76851f71	Hulk: Bruce Banner		Aggression	2	Ally		AVENGER. GAMMA.
-ce90e714-7f44-4343-9d2e-a67ff71c119c	Tigra: Greer Grant Nelson		Aggression	3	Ally		AVENGER.
+a690f1b8-7ffc-4330-b715-298e76851f71	Hulk (Bruce Banner)		Aggression	2	Ally		AVENGER. GAMMA.
+ce90e714-7f44-4343-9d2e-a67ff71c119c	Tigra (Greer Grant Nelson)		Aggression	3	Ally		AVENGER.
 2e4ddba3-8b3f-479b-bf64-c2c25b5b6fef	Chase Them Down		Aggression	0	Event		THWART.
 540a11a4-a630-4a18-b59b-d11f60191b92	Relentless Assault		Aggression	2	Event		ATTACK.
 30d53042-f68d-4607-afad-257f33099788	Uppercut		Aggression	3	Event		ATTACK.
 e81c8970-6e8f-4dff-ac6b-b2a913329e8e	The Power of Aggression		Aggression	-	Resource		
 8c19e625-e6b4-4b77-ae79-2ef6e946511d	Tac Team		Aggression	3	Support		S.H.I.E.L.D.
 55102c6c-0197-41af-999d-47df7f8ce521	Combat Training		Aggression	2	Upgrade		SKILL.
-9db3e447-9429-4641-8dfd-2f34e3ca64cc	Daredevil: Matt Murdock		Justice	4	Ally		DEFENDER.
+9db3e447-9429-4641-8dfd-2f34e3ca64cc	Daredevil (Matt Murdock)		Justice	4	Ally		DEFENDER.
 0edd43ce-a861-4352-aea7-8a53a100f6cd	Jessica Jones		Justice	3	Ally		DEFENDER.
 8c071923-f2b1-44e9-a579-db84bb823cc0	For Justice!		Justice	2	Event		THWART.
 48acb22e-8bb3-4e0c-ae62-696bbf5830ac	Great Responsibility		Justice	0	Event		
@@ -61,7 +61,7 @@ e026becd-b30b-42de-b699-dfc9041c3e87	The Power of Justice		Justice	-	Resource	�
 4ba26dae-aba7-49ad-b32f-ac8f7082dd65	Interrogation Room		Justice	1	Support		LOCATION.
 32d2a72b-c11b-4269-99c8-83bf6ec3633a	Surveillance Team		Justice	2	Support		S.H.I.E.L.D.
 c7bb3cde-ddd6-415d-a999-29fc98c841d8	Heroic Intuition		Justice	2	Upgrade		SKILL.
-132a6e25-8d70-416a-aede-2e9cc243de66	Hawkeye: Clint Barton		Leadership	3	Ally		AVENGER.
+132a6e25-8d70-416a-aede-2e9cc243de66	Hawkeye (Clint Barton)		Leadership	3	Ally		AVENGER.
 ae2b89a1-2c67-4207-9281-21bdae5c176b	Maria Hill		Leadership	2	Ally		S.H.I.E.L.D.
 a19ba47a-07f7-4521-9d50-5367e375cb01	Vision		Leadership	4	Ally		ANDROID. AVENGER.
 6d82a251-a132-4b20-a941-fc04b1cf10ef	Get Ready		Leadership	0	Event		
@@ -70,7 +70,7 @@ a19ba47a-07f7-4521-9d50-5367e375cb01	Vision		Leadership	4	Ally		ANDROID. A
 ba5d2c1f-2fb8-4e92-9c77-c50222bc1a9c	The Power of Leadership		Leadership	-	Resource		
 f8d06472-2828-4a79-8ffc-4234025efd14	The Triskelion		Leadership	1	Support		LOCATION. S.H.I.E.L.D.
 9c6681b7-42bf-4ae8-a123-8ca9a8a28ac3	Inspired		Leadership	1	Upgrade		CONDITION.
-5a7fee35-ad78-4763-ae4a-8455f8872289	Black Widow: Natasha Romanoff		Protection	3	Ally		S.H.I.E.L.D. SPY.
+5a7fee35-ad78-4763-ae4a-8455f8872289	Black Widow (Natasha Romanoff)		Protection	3	Ally		S.H.I.E.L.D. SPY.
 03db5a4b-3bdf-4a8e-8569-d9641ee4565f	Luke Cage		Protection	4	Ally		DEFENDER.
 d9099ad2-c654-411f-8e9b-080bee245ef4	Counter-Punch		Protection	0	Event		ATTACK.
 67148069-a6e4-4f69-856c-a08c8c4ae5e1	Get Behind Me!		Protection	1	Event		
@@ -78,7 +78,7 @@ a0390985-df47-494a-85fc-f92a83518e34	The Power of Protection		Protection	-	Resou
 b7c500ec-9b58-43cb-9310-0ac806a102c8	Med Team		Protection	3	Support		S.H.I.E.L.D.
 2bd1068a-73f7-4c58-a212-55cde44e09b1	Armored Vest		Protection	1	Upgrade		ARMOR.
 0b68b17c-bf82-446c-933a-e6fafbca360e	Indomitable		Protection	1	Upgrade		CONDITION.
-07bcfd3b-b6a0-4d70-8f6e-b5f152adf98d	Mockingbird: Bobbi Morse		Basic	3	Ally		S.H.I.E.L.D. SPY.
+07bcfd3b-b6a0-4d70-8f6e-b5f152adf98d	Mockingbird (Bobbi Morse)		Basic	3	Ally		S.H.I.E.L.D. SPY.
 81144a13-02ef-4873-b0b8-bb8544d62c10	Nick Fury		Basic	4	Ally		S.H.I.E.L.D. SPY.
 cef2d14c-8e58-48e3-9330-5342b583f532	Emergency		Basic	0	Event		THWART.
 559ea4da-8bb7-4021-b4ed-ebb7c8d9bc2c	First Aid		Basic	1	Event		
@@ -89,7 +89,7 @@ a3fcb7fc-5fbf-4566-b29f-4abdd841e2cc	Strength		Basic	-	Resource	
 f5ab3190-a2d1-4f1f-be25-de0085706eff	Avengers Mansion		Basic	4	Support		AVENGER. LOCATION.
 1350f98c-921d-4594-9189-c1f852526870	Helicarrier		Basic	3	Support		LOCATION. S.H.I.E.L.D.
 c5cfd294-2e88-4ec8-a2e8-b51309f94bb6	Tenacity		Basic	2	Upgrade		CONDITION.
-5107e3f0-75cd-4472-96c2-59a8dbf508db	Agent 13: Sharon Carter		Hero	3	Ally		S.H.I.E.L.D.
+5107e3f0-75cd-4472-96c2-59a8dbf508db	Agent 13 (Sharon Carter)		Hero	3	Ally		S.H.I.E.L.D.
 9d70e70b-d878-4f62-aebf-10f4e6e9f378	Fearless Determination		Hero	0	Event		SUPERPOWER.
 9b47c698-4b9b-4f77-8fa1-cf89219cfc7c	Heroic Strike		Hero	3	Event		ATTACK.
 cc0c1ee8-936f-4e33-825d-0b0ffec6acf5	Shield Block		Hero	0	Event		DEFENSE.
@@ -98,9 +98,9 @@ ffe47983-735a-44de-b9c1-8ae26cb6f3e4	Shield Toss		Hero	0	Event		ATTACK. SUPER
 13ca6feb-7020-4a30-9492-36bde06cad26	Captain America's Helmet		Hero	1	Upgrade		ITEM.
 7a661d63-e889-4c3e-9e6f-2655676d7d9d	Captain America's Shield		Hero	1	Upgrade		ITEM.
 bc87714b-a44a-49f5-a24f-769e22bd6545	Super-Soldier Serum		Hero	2	Upgrade		ITEM.
-1fa82660-21b8-418c-a5c8-af1156338572	Falcon: Sam Wilson		Leadership	4	Ally		AERIAL. AVENGER.
-a9461524-590d-4547-9678-a8cef09a8760	Squirrel Girl: Doreen Green		Leadership	2	Ally		AVENGER.
-d2a467b2-d9b8-416f-b8f7-b470997657e6	Wonder Man: Simon Williams		Leadership	2	Ally		AVENGER.
+1fa82660-21b8-418c-a5c8-af1156338572	Falcon (Sam Wilson)		Leadership	4	Ally		AERIAL. AVENGER.
+a9461524-590d-4547-9678-a8cef09a8760	Squirrel Girl (Doreen Green)		Leadership	2	Ally		AVENGER.
+d2a467b2-d9b8-416f-b8f7-b470997657e6	Wonder Man (Simon Williams)		Leadership	2	Ally		AVENGER.
 84167f22-c123-45dd-9fb5-625aaf3d63e5	Avengers Assemble!		Leadership	4	Event		
 8d7aae51-045d-4dd8-a8a3-9f16be4eb08e	Strength In Numbers		Leadership	0	Event		
 6016a632-63e8-4ea7-b464-abdccc660b3c	Quinjet		Leadership	1	Support		AVENGER. VEHICLE.
@@ -112,23 +112,23 @@ d6d98813-2703-46ea-b7ab-30010d75af86	Honorary Avenger		Basic	0	Upgrade		TITLE
 e798e771-db92-4108-8cf5-81019e16cb3c	Enhanced Awareness		Basic	2	Upgrade		CONDITION.
 d2e3f2e7-e5c9-4a61-9d32-69255e0ee928	Hawkeye's Bow		Hero	0	Upgrade		WEAPON.
 d30595b9-78d8-4f0c-a311-e7e8eb8d950f	Hawkeye's Quiver		Hero	1	Upgrade		ITEM.
-9e48c3cc-5128-4702-a0bc-c95fae5f3b78	Mockingbird: Bobbi Morse		Hero	3	Ally		AVENGER. S.H.I.E.L.D.
+9e48c3cc-5128-4702-a0bc-c95fae5f3b78	Mockingbird (Bobbi Morse)		Hero	3	Ally		AVENGER. S.H.I.E.L.D.
 2ab11521-8653-4aaf-95e9-b4f2863d2d1a	Sonic Arrow		Hero	2	Event		ARROW. ATTACK.
 e8401508-8d55-4179-8c98-fbae7eac5b0d	Explosive Arrow		Hero	1	Event		ARROW.
 a97379f2-9c00-4d62-8974-ef99941f94a8	Electric Arrow		Hero	2	Event		ARROW. ATTACK.
 1f22194a-5efd-478d-829d-a79ae7e6fe9d	Cable Arrow		Hero	1	Event		ARROW. THWART.
 fa82bc4b-1de1-42c3-a370-bc9342941e09	Vibranium Arrow		Hero	2	Event		ARROW. ATTACK.
 dd9db590-05af-421e-b4a4-59f8bcecab20	Expert Marksman		Hero	1	Upgrade		SKILL.
-2602d2d2-fb99-4ea5-96dc-21df27fea272	Hawkeye: Kate Bishop		Leadership	2	Ally		AVENGER.
-68d39c57-1f2e-4720-b4ef-60b3b8566b58	Black Knight: Dane Whitman		Leadership	3	Ally		AVENGER.
-5169baa5-eeab-4d55-85da-c2b3351cccc8	Goliath: Bill Foster		Leadership	4	Ally		AVENGER.
-01101fde-ac58-4b5d-b816-8e70bc2ea852	U.S. Agent: John Walker		Leadership	3	Ally		AVENGER.
+2602d2d2-fb99-4ea5-96dc-21df27fea272	Hawkeye (Kate Bishop)		Leadership	2	Ally		AVENGER.
+68d39c57-1f2e-4720-b4ef-60b3b8566b58	Black Knight (Dane Whitman)		Leadership	3	Ally		AVENGER.
+5169baa5-eeab-4d55-85da-c2b3351cccc8	Goliath (Bill Foster)		Leadership	4	Ally		AVENGER.
+01101fde-ac58-4b5d-b816-8e70bc2ea852	U.S. Agent (John Walker)		Leadership	3	Ally		AVENGER.
 758cb6f1-b4ff-46bf-8460-f9bc861072dc	Sky Cycle		Leadership	1	Upgrade		VEHICLE.
 df868759-964a-422c-8add-edc9c07b8727	Team Training		Leadership	2	Support		CONDITION.
 92d4fd67-f3e6-49d1-92f0-1dc114e4b455	Ready for Action		Leadership	1	Event		TACTIC.
-abbc4f3a-5c0b-481a-8c0d-af62e16e09aa	War Machine: James Rhodes		Basic	4	Ally		AVENGER. S.H.I.E.L.D.
+abbc4f3a-5c0b-481a-8c0d-af62e16e09aa	War Machine (James Rhodes)		Basic	4	Ally		AVENGER. S.H.I.E.L.D.
 de67aee9-64bd-4a75-922f-8b00b7f3d92c	Earth's Mightiest Heroes		Basic	0	Event		
-d6c02f6f-530f-4789-badd-035ff0cfe7e9	Captain Marvel: Carol Danvers		Hero	4	Ally		AVENGER.
+d6c02f6f-530f-4789-badd-035ff0cfe7e9	Captain Marvel (Carol Danvers)		Hero	4	Ally		AVENGER.
 cf022fad-9bad-481f-a468-de45925ce176	Finesse		Hero	2	Upgrade		CONDITION.
 95445075-c813-4298-8a42-070215d5cb52	Jessica Drew's Apartment		Hero	1	Support		LOCATION.
 c09267c9-37a7-4a41-bc64-3cf58dd877de	Venom Blast		Aggression	2	Event		ATTACK. SUPERPOWER.
@@ -136,10 +136,10 @@ f583e099-817c-4594-9683-896af732145c	Pheromones		Leadership	2	Event		SUPERPOW
 2e55477c-5a2a-45a1-a163-ff1a577090a7	Contaminant Immunity		Protection	2	Event		SUPERPOWER.
 9abfa8aa-bb66-470c-8f57-57543e4cc57b	Inconspicuous		Justice	1	Event		SKILL. THWART.
 5f0ac7ee-918e-4288-b921-e235bfdbcacb	Self-Propelled Glide		Hero	1	Event		SUPERPOWER.
-05d10c63-21c8-45cd-b023-95c11959e459	Spider-Girl: Anya Corazon		Aggression	2	Ally		AVENGER.
+05d10c63-21c8-45cd-b023-95c11959e459	Spider-Girl (Anya Corazon)		Aggression	2	Ally		AVENGER.
 a760b58b-4d79-4810-ad67-9efd9ed0fc85	Press the Advantage		Aggression	1	Event		ATTACK.
 324f6089-58b2-4a76-a969-832700f5726b	Piercing Strike		Aggression	2	Event		ATTACK.
-4a3575c8-e08b-4150-aefb-b67043ed6aec	Spider-Man: Peter Parker		Justice	5	Ally		AVENGER.
+4a3575c8-e08b-4150-aefb-b67043ed6aec	Spider-Man (Peter Parker)		Justice	5	Ally		AVENGER.
 2e61816d-d995-427e-8449-5a6daf7c41c4	Skilled Investigator		Justice	0	Upgrade		SKILL.
 38bd55fd-0e98-4cb5-9375-4ae5d83907d0	Clear the Area		Justice	1	Event		THWART.
 6ec2c3ed-fc82-454a-8c56-cd93d4926975	Red Dagger		Hero	3	Ally		CHAMPION.
@@ -152,7 +152,7 @@ fa0f33a5-2ee8-43ea-a7a2-442f7add0ba3	Aamir Khan		Hero	1	Support		PERSONA.
 c7683cc8-6d07-4a41-b957-9fbdacea155f	Biokinetic Polymer Suit		Hero	1	Upgrade		ARMOR.
 8aeb282b-3993-4954-b510-2bf9eec7e814	Embiggen!		Hero	2	Upgrade		CONDITION. SUPERPOWER.
 59a8fc5b-9ad8-4588-9133-63205e88a265	Shrink		Hero	2	Upgrade		CONDITION. SUPERPOWER.
-3dd36671-199a-4204-aefc-55d8fbf0ffd2	Nova: Sam Alexander		Protection	4	Ally		CHAMPION.
+3dd36671-199a-4204-aefc-55d8fbf0ffd2	Nova (Sam Alexander)		Protection	4	Ally		CHAMPION.
 7b4355da-df6f-471b-bd5b-08930a931f53	Preemptive Strike		Protection	1	Event		DEFENSE.
 25194236-dc9e-49a3-b43d-1d3efe0a4f86	Tackle		Protection	3	Event		ATTACK.
 9738f524-63e0-4053-a26e-0ec8cdedf8e3	Energy Barrier		Protection	2	Upgrade		ITEM. TECH.
@@ -185,7 +185,7 @@ b29ba2be-60f0-4e64-963e-ae5f7f6d72d1	Invulnerability		Basic	3	Event		SUPERPOW
 c468f6ce-4830-4064-a8af-906193e6d64a	Teamwork		Leadership	0	Event		TACTIC.
 2b08e7da-38d9-4af8-a23f-518210e21774	Second Wind		Protection	3	Event		
 624a0395-9a76-4b47-a72d-c2cfb82208a0	Enhanced Physique		Basic	2	Upgrade		CONDITION.
-6a2041f1-18d4-4dbd-819f-8aaf1e1ea1cb	Winter Soldier: Bucky Barnes		Hero	4	Ally		AVENGER. SPY.
+6a2041f1-18d4-4dbd-819f-8aaf1e1ea1cb	Winter Soldier (Bucky Barnes)		Hero	4	Ally		AVENGER. SPY.
 1f58d2a7-5b24-4d9b-95ca-8bdf77821831	Covert Ops		Hero	3	Event		THWART.
 4a71cfeb-0787-4e58-8628-c03f539e9e0f	Dance of Death		Hero	3	Event		ATTACK.
 5e5ba6f1-9905-4ac4-8373-fdea887c334b	Safe House #29		Hero	1	Support		LOCATION. S.H.I.E.L.D.
@@ -195,7 +195,7 @@ fe99e1a0-8c51-4625-9ea6-034bb006a205	Attacrobatics		Hero	1	Upgrade		ATTACK. P
 80abd601-51b8-495f-b87a-0068c17dda10	Synth-Suit		Hero	3	Upgrade		ARMOR. TECH.
 59666723-7622-4ff7-b396-413434e60c14	Widow's Bite		Hero	1	Upgrade		PREPARATION. TECH.
 40f11faa-8d0a-4b9b-96a7-857c285e4215	Agent Coulson		Justice	3	Ally		S.H.I.E.L.D. SPY.
-78e81bfc-9eae-47de-a92d-dc0f7501e419	Quake: Daisy Johnson		Justice	2	Ally		AVENGER. S.H.I.E.L.D.
+78e81bfc-9eae-47de-a92d-dc0f7501e419	Quake (Daisy Johnson)		Justice	2	Ally		AVENGER. S.H.I.E.L.D.
 f3a9ca4f-a0f5-4462-a43c-343122cc77aa	Stealth Strike		Justice	3	Event		ATTACK.
 084e6172-d001-4cfa-97b8-395744902e71	Counterintelligence		Justice	2	Upgrade		PREPARATION. SKILL.
 352b4ecd-ecf1-4c35-ae0b-3bb5bc0804ce	Spycraft		Justice	1	Upgrade		PREPARATION. SKILL.
@@ -215,9 +215,9 @@ c3e34f43-2ab1-4063-a3f4-79fc96a79e3c	Sanctum Sanctorum		Hero	1	Support		LO
 c0caf3ba-0baa-4364-a6f7-e7527218392a	Cloak of Levitation		Hero	2	Upgrade		ARTIFACT. ITEM.
 d91c62ab-3343-4569-9707-9a1e28ebfcd9	Magical Enhancements		Hero	1	Upgrade		CONDITION. SPELL.
 807e3d24-b8e8-49ed-a4b7-a21728a22876	The Eye of Agamotto		Hero	2	Upgrade		ARTIFACT. ITEM.
-9f38da0e-c873-4a68-869d-760f6c20e692	Brother Voodoo: Jericho Drumm		Protection	3	Ally		AVENGER. MYSTIC.
+9f38da0e-c873-4a68-869d-760f6c20e692	Brother Voodoo (Jericho Drumm)		Protection	3	Ally		AVENGER. MYSTIC.
 5bdde0e7-90c1-40a4-a973-480ffe6eb02a	Clea		Protection	2	Ally		MYSTIC.
-7df162e3-e603-4aaf-b56a-48cc10274eb6	Iron Fist: Danny Rand		Protection	4	Ally		DEFENDER.
+7df162e3-e603-4aaf-b56a-48cc10274eb6	Iron Fist (Danny Rand)		Protection	4	Ally		DEFENDER.
 8bacc1ad-2cd6-485b-9470-81d91ed047e5	Desperate Defense		Protection	1	Event		DEFENSE.
 196aaf1c-4356-4d89-a28a-e9021edf510f	Momentum Shift		Protection	2	Event		ATTACK.
 1518044d-a532-4cfa-aa11-c7f5427ece3e	The Night Nurse		Protection	1	Support		PERSONA.
@@ -226,7 +226,7 @@ a85dbb1d-e5ba-4f6b-8276-1f911f8ea1bd	Warning		Basic	0	Event		DEFENSE.
 b63402ba-906e-4119-a302-4a8dac229df0	The Sorcerer Supreme		Basic	2	Upgrade		TITLE.
 41e072f8-3735-48dd-800e-8e078060797a	Skilled Strike		Aggression	0	Event		SKILL.
 bff7d04b-37c7-43c8-949a-5d1410b0b46d	Foiled!		Justice	0	Event		
-f5a2d616-e2a4-496e-987c-b35541ebc732	Iron Man: Tony Stark		Leadership	4	Ally		AVENGER.
+f5a2d616-e2a4-496e-987c-b35541ebc732	Iron Man (Tony Stark)		Leadership	4	Ally		AVENGER.
 84d20867-4dda-40cf-933e-825536b36e58	Crushing Blow		Hero	1	Event		ATTACK.
 71df8e60-1f21-48f3-b84e-c3d56be2b97c	Hulk Smash		Hero	3	Event		SUPERPOWER.
 da0f8fe1-f1d1-41bf-b2bb-6ea6846b34f3	Sub-Orbital Leap		Hero	3	Event		SUPERPOWER. THWART.
@@ -237,8 +237,8 @@ da0f8fe1-f1d1-41bf-b2bb-6ea6846b34f3	Sub-Orbital Leap		Hero	3	Event		SUPERPOW
 8f33e4c1-ef4a-494d-bd26-a1e11d0d76fc	Boundless Rage		Hero	1	Upgrade		CONDITION. GAMMA.
 a707ffc2-4117-4a90-bc0f-03f530a0300b	Immovable Object		Hero	3	Upgrade		CONDITION.
 f0c00ac5-9ea0-4d72-8c7b-0de7723d16bd	Brawn		Aggression	3	Ally		CHAMPION. GAMMA.
-5b8e59a0-7db5-4662-80cf-ad47918ee39a	Sentry: Robert Reynolds		Aggression	4	Ally		AVENGER.
-5f8a5b37-579c-4d64-8934-bb7132f29698	She-Hulk: Jennifer Walters		Aggression	4	Ally		AVENGER. GAMMA.
+5b8e59a0-7db5-4662-80cf-ad47918ee39a	Sentry (Robert Reynolds)		Aggression	4	Ally		AVENGER.
+5f8a5b37-579c-4d64-8934-bb7132f29698	She-Hulk (Jennifer Walters)		Aggression	4	Ally		AVENGER. GAMMA.
 76e8d62a-a9c3-4ea3-b17c-ebfa8e4701ce	Drop Kick		Aggression	3	Event		ATTACK.
 70654e42-12e9-4701-af8d-42811e9637de	Toe to Toe		Aggression	1	Event		ATTACK.
 117434d6-e46a-4805-88c0-e10f66b026ec	"You'll Pay for That!"		Aggression	1	Event		THWART.
@@ -248,7 +248,7 @@ dd1fcbeb-e838-423f-957d-de5ade950623	Beat Cop		Justice	3	Support		PERSONA.
 7cf97ea8-ca36-4fbd-ba71-eadda487d991	Inspiring Presence		Leadership	1	Event		
 242d3ed7-b2ce-4534-9585-632bee7a06ee	Electrostatic Armor		Protection	1	Upgrade		ARMOR. TECH.
 80f5a63d-30f5-49aa-b4c9-02c6dc67fe88	Resourceful		Basic	1	Upgrade		SKILL.
-3cf56d4e-541c-474e-b616-edc565aba395	Wasp: Nadia Van Dyne		Hero	3	Ally		AERIAL. AVENGER.
+3cf56d4e-541c-474e-b616-edc565aba395	Wasp (Nadia Van Dyne)		Hero	3	Ally		AERIAL. AVENGER.
 54c9ced5-8fb5-434c-a1c7-4f31122e690d	Giant Stomp		Hero	3	Event		ATTACK. GIANT.
 61fcdc9f-8872-43fb-9b81-aeeb103bee13	Hive Mind		Hero	2	Event		THWART. TINY.
 0169f065-9db3-412c-bcc1-ee2fead7f2d8	Resize		Hero	0	Event		SUPERPOWER.
@@ -257,10 +257,10 @@ df4e1c52-a557-4f8b-8c1e-7917f2865206	Army of Ants		Hero	1	Support		ANTS. TINY
 85ab04b9-dcfd-46db-ad8f-10ea85af4176	Ant-Man's Helmet		Hero	3	Upgrade		ARMOR. TECH.
 d3d22d21-d2ff-4544-b393-2e279d16d0fe	Giant Strength		Hero	1	Upgrade		CONDITION. GIANT.
 0a10a308-04f4-45e7-a03c-1037cbd548a0	Wrist Gauntlets		Hero	1	Upgrade		ITEM. TECH.
-558aee47-2f62-46c7-81c4-105b0d8a172a	Ant-Man: Hank Pym		Leadership	0	Ally		AVENGER.
+558aee47-2f62-46c7-81c4-105b0d8a172a	Ant-Man (Hank Pym)		Leadership	0	Ally		AVENGER.
 b96a8ed5-d3f1-4551-b4f1-e83066f33bc9	Giant-Man		Leadership	5	Ally		AVENGER. GIANT.
 5abc80ea-c570-425b-a1b8-c3ebd0416f65	Ronin		Leadership	3	Ally		AVENGER.
-4b69cce3-c36b-434d-9271-7fd46b247c78	Stinger: Cassie Lang		Leadership	1	Ally		AVENGER.
+4b69cce3-c36b-434d-9271-7fd46b247c78	Stinger (Cassie Lang)		Leadership	1	Ally		AVENGER.
 7bdea0eb-63dd-4ad4-9ae2-020025b1ba66	Call for Aid		Leadership	0	Event		
 37e94c8d-86a7-4d7e-8f7d-78bdf4cdf3e4	Moxie		Leadership	0	Event		
 39ae6b91-9241-422f-9b2f-1a264d3b9bfc	Power Gloves		Leadership	1	Upgrade		ARMOR. TECH.
@@ -271,7 +271,7 @@ b96a8ed5-d3f1-4551-b4f1-e83066f33bc9	Giant-Man		Leadership	5	Ally		AVENGER
 462a3566-0e02-4d38-aff4-a57d124a49ea	Lay Down the Law		Justice	1	Event		THWART.
 d89dbe12-3c4e-4ae0-90df-2dccddb83f9b	Muster Courage		Protection	3	Event		
 6f9cf666-7b7d-464f-8add-3dcd00d9ee30	Assess the Situation		Basic	0	Event		TACTIC.
-758ac2df-7a2a-4b06-80ce-fbbb80c0daf7	Ant-Man: Scott Lang		Hero	4	Ally		AVENGER.
+758ac2df-7a2a-4b06-80ce-fbbb80c0daf7	Ant-Man (Scott Lang)		Hero	4	Ally		AVENGER.
 842235f4-fb08-43ba-a1c9-854c4eb881ba	Giant Help		Hero	2	Event		THWART.
 57c714d2-74bf-4f43-b4a2-cfb0069c3e8e	Pinpoint Strike		Hero	3	Event		ATTACK.
 5ace2ab2-739f-4e84-8265-6af9c77bbb95	Rapid Growth		Hero	1	Event		GIANT. SUPERPOWER.
@@ -280,20 +280,20 @@ be1f0ae1-e6c1-4fa1-8016-0488876f7ba3	Wasp Sting		Hero	2	Event		ATTACK.
 501fc788-74fc-4984-b2db-8784b3ef738e	Red Room Training		Hero	2	Upgrade		SKILL.
 8ae9ee58-80bb-4099-a39f-8b9a59043b26	Bio-Synthetic Wings		Hero	2	Upgrade		ITEM. TECH.
 ab835ea6-17dd-4015-84a5-3c3565ce1adf	Wasp's Helmet		Hero	2	Upgrade		ARMOR. TECH.
-f0a837c2-2bd5-45bd-8597-c2914b1f4101	Thor: Jane Foster		Aggression	4	Ally		ASGARD. AVENGER.
-068bf7bb-4f04-42f6-8f60-912ce83cc65e	Wasp: Janet Van Dyne		Aggression	0	Ally		AERIAL. AVENGER.
+f0a837c2-2bd5-45bd-8597-c2914b1f4101	Thor (Jane Foster)		Aggression	4	Ally		ASGARD. AVENGER.
+068bf7bb-4f04-42f6-8f60-912ce83cc65e	Wasp (Janet Van Dyne)		Aggression	0	Ally		AERIAL. AVENGER.
 307bbc05-3bac-474f-8f9c-2a8bb3056d59	Into the Fray		Aggression	3	Event		ATTACK.
 2d68d089-17ae-4186-97d0-e946238844fd	Surprise Attack		Aggression	1	Event		ATTACK.
 797125f6-ccc0-4f27-afaf-faefd0bb80c1	Boot Camp		Aggression	3	Support		LOCATION.
 c4f454f7-5f35-41c1-92d0-ca5dd86521d6	Lie in Wait		Aggression	1	Upgrade		PREPARATION.
 80916caf-8e48-4618-b738-1cc933232d95	Ironheart		Basic	2	Ally		CHAMPION.
-0eb621b6-6efd-4f77-98e6-b028205e2f06	Spider-Man: Miles Morales		Basic	3	Ally		CHAMPION.
+0eb621b6-6efd-4f77-98e6-b028205e2f06	Spider-Man (Miles Morales)		Basic	3	Ally		CHAMPION.
 9e2948fa-8002-4795-8859-3fd6d8619de1	The Power in All of Us		Basic	-	Resource		
 056105f7-90ff-40ff-98ef-8254e4048983	Running Interference		Justice	2	Event		THWART.
 dc29242b-a8c7-4c8b-bf04-76e12cc241ec	All for One		Leadership	2	Event		ATTACK.
 98ae186d-4bcf-4a5a-879d-a3671f1a3f31	Perseverance		Protection	1	Event		TACTIC.
 a9411fcb-bb5e-4d78-a77d-420969795b0c	Athletic Conditioning		Basic	1	Event		
-27563ec3-deff-45b4-ba0f-4b0efc505260	Scarlet Witch: Wanda Maximoff		Hero	3	Ally		AVENGER.
+27563ec3-deff-45b4-ba0f-4b0efc505260	Scarlet Witch (Wanda Maximoff)		Hero	3	Ally		AVENGER.
 4cbbd1d0-b9b3-4174-8fe4-0d4d40601b68	Always Be Running		Hero	1	Event		SUPERPOWER.
 dbc87f51-a14a-4c5e-8c7c-eb10b1ed0359	Double Time		Hero	2	Event		SUPERPOWER.
 15db42a4-697a-4b74-99a9-ee9f416cc3aa	Maximum Velocity		Hero	2	Event		SUPERPOWER.
@@ -315,7 +315,7 @@ b6118d0f-06ef-476f-8840-6955bd936fc3	Civic Duty		Basic	1	Upgrade		TACTIC.
 4eb5d1fe-76c4-4109-a12e-9a1aeb21b440	Sense of Justice		Justice	2	Upgrade		SKILL.
 32abb61c-5319-4294-94df-47ab0fc8d39d	United We Stand		Leadership	0	Event		
 6450a08d-951a-4ce3-ab77-11ef49b4d47a	Beat 'Em Up		Basic	2	Event		TACTIC.
-35ca30d8-ff32-47d3-ae13-acd548ec2858	Quicksilver: Pietro Maximoff		Hero	4	Ally		AVENGER.
+35ca30d8-ff32-47d3-ae13-acd548ec2858	Quicksilver (Pietro Maximoff)		Hero	4	Ally		AVENGER.
 7065d650-584d-48ca-b5f6-e32b38987525	Chaos Magic		Hero	0	Event		SPELL. SUPERPOWER.
 94b023e7-231c-46fd-90de-65b6ed5ba088	Hex Bolt		Hero	2	Event		SPELL. SUPERPOWER.
 85852232-b0a6-452f-893d-bb913574de74	Molecular Decay		Hero	3	Event		ATTACK. SPELL.
@@ -323,8 +323,8 @@ f8be01b0-e952-46e8-8b89-dab89c339eeb	Warp Reality		Hero	1	Event		SPELL. SUPER
 c437ca24-2641-4be5-a357-3dfaeaaae02e	Agatha Harkness		Hero	1	Support		PERSONA.
 bc108a42-a9b7-4066-9174-a142050e8a42	Magic Shield		Hero	1	Upgrade		SPELL.
 80e91eb1-0ac3-4ad3-9021-99902fb3c701	Scarlet Witch's Crest		Hero	2	Upgrade		ITEM.
-44494ef5-7132-4d14-95f1-d3532b87dfbe	Speed: Thomas Shepherd		Justice	4	Ally		AVENGER.
-c2aabe6d-2f40-4d97-81d5-14695e77fb25	Wiccan: William Kaplan		Justice	2	Ally		AVENGER.
+44494ef5-7132-4d14-95f1-d3532b87dfbe	Speed (Thomas Shepherd)		Justice	4	Ally		AVENGER.
+c2aabe6d-2f40-4d97-81d5-14695e77fb25	Wiccan (William Kaplan)		Justice	2	Ally		AVENGER.
 82e9a226-d6ce-4d32-a35a-a066e1c54268	Crisis Averted		Justice	3	Event		THWART.
 97d4f4a2-dfa6-4bcf-b00f-1af6d419ad40	Multitasking		Justice	1	Event		THWART.
 62fa25fe-f0b1-475d-b801-0428cb832159	Swift Retribution		Justice	1	Event		ATTACK.
@@ -367,7 +367,7 @@ d9ea4e9a-9962-4bba-819e-ab1762dda84b	Looking for Trouble		Aggression	0	Event	
 af617ca4-988e-463e-9f16-036a85f8d4cc	Hand Cannon		Aggression	2	Upgrade		TECH. WEAPON.
 cc3aae31-0bbb-48d7-a0ce-dc175b829784	Groot		Basic	3	Ally		GUARDIAN.
 c47ea801-fa55-4d82-b128-15fa6e474e5a	Booster Boots		Basic	1	Upgrade		ARMOR. TECH.
-753f440f-5c74-4c76-9268-b8e293a528f2	Nova Prime: Richard Rider		Hero	5	Ally		AERIAL. NOVA CORPS.
+753f440f-5c74-4c76-9268-b8e293a528f2	Nova Prime (Richard Rider)		Hero	5	Ally		AERIAL. NOVA CORPS.
 081ae9ca-9c97-4741-8e63-ad767e4792a0	Daring Escape		Hero	0	Event		
 967fa445-fa20-4227-80e3-b7ec49ab4984	Gutsy Move		Hero	2	Event		THWART.
 3856d26a-cb62-47e4-9abc-1795908055b2	Sliding Shot		Hero	3	Event		ATTACK.
@@ -399,7 +399,7 @@ a58e509c-e282-47b3-8a25-3534020b5464	Forward Momentum		Hero	2	Event		THWART.
 e4f92a7b-3e28-4441-80fb-b86ce4d2f6b5	Conditioning Room		Hero	1	Support		LOCATION.
 d3d33f44-c935-47df-8613-1d57f1065358	Keen Instincts		Hero	1	Upgrade		SKILL.
 fb41a4d9-b680-4a86-b9b5-e8a32deffd8d	Gamora's Sword		Hero	3	Upgrade		WEAPON.
-cff8c19b-b43e-4b03-92d3-6759a88b723e	Angela: Aldrif Odinsdottir		Aggression	0	Ally		ASGARD. GUARDIAN.
+cff8c19b-b43e-4b03-92d3-6759a88b723e	Angela (Aldrif Odinsdottir)		Aggression	0	Ally		ASGARD. GUARDIAN.
 bece405a-357d-4d53-9892-44a876aba485	Clobber		Aggression	2	Event		ATTACK.
 27d82195-7308-4770-9e12-60eae702aca0	Plan of Attack		Aggression	0	Event		TACTIC.
 841bda0d-45c9-4094-b549-8b34b7761cbf	First Hit		Protection	1	Event		ATTACK.
@@ -420,8 +420,8 @@ f4f9beec-9440-4f98-a394-73ce6e4445ea	Payback		Hero	0	Event		ATTACK.
 8be66ee0-4d85-4640-874c-1e9611b40d9c	Drax's Other Knife		Hero	1	Upgrade		WEAPON.
 215f6776-10c4-401a-aa25-db91c61dcf03	DWI Theet Mastery		Hero	1	Upgrade		SKILL.
 047d5592-f263-43a9-a534-f9fc6ef7a00e	Too Stubborn to Die		Hero	2	Upgrade		CONDITION.
-66aec268-3b35-4ea5-9aa7-7963e7b08052	Martyr: Phyla-Vell		Protection	4	Ally		GUARDIAN.
-f0c4d0a7-f603-41ee-9f89-18aacb8a73a3	Moondragon: Heather Douglas		Protection	3	Ally		GUARDIAN.
+66aec268-3b35-4ea5-9aa7-7963e7b08052	Martyr (Phyla-Vell)		Protection	4	Ally		GUARDIAN.
+f0c4d0a7-f603-41ee-9f89-18aacb8a73a3	Moondragon (Heather Douglas)		Protection	3	Ally		GUARDIAN.
 ae13e129-0871-451b-8906-beb366573153	Deflection		Protection	2	Event		SKILL.
 dada65ab-62fe-46c5-92d3-2dc487616346	Hard Knocks		Protection	3	Event		ATTACK.
 2088cdf0-edbc-435b-a7ee-6416ff1f4411	Leading Blow		Protection	0	Event		TACTIC.
@@ -439,11 +439,11 @@ f0a0d79f-ec52-441a-9825-921ae369fa1a	Project Rebirth 2.0		Hero	1	Support	
 c6561946-791f-4ad6-9612-883565ecaf49	Multi-Gun		Hero	3	Upgrade		TECH. WEAPON.
 3f493847-97dc-453d-b632-23b92c4a6b8b	Spider-Sense		Hero	2	Upgrade		SUPERPOWER.
 c9ec5dc1-5d40-42a4-9651-18267d8cba69	Venom's Pistol		Hero	1	Upgrade		TECH. WEAPON.
-7c8041e6-39e8-4926-bf56-1954f94f09c0	Jack Flag: Jack Harrison		Justice	4	Ally		GUARDIAN.
+7c8041e6-39e8-4926-bf56-1954f94f09c0	Jack Flag (Jack Harrison)		Justice	4	Ally		GUARDIAN.
 0808a8ec-d5d1-480b-bff9-7ebc68623665	Scare Tactic		Justice	1	Event		ATTACK.
 8e1cd1e0-456d-4eae-8011-966be15ee5ef	Making an Entrance		Justice	1	Event		SKILL.
 6bf7f67f-fe6d-41a1-a0b9-7ffc939ed4e4	Sonic Rifle		Justice	3	Upgrade		TECH. WEAPON.
-c91fcd20-0824-4d2b-ae99-f3e9a7942cd0	Star-Lord: Peter Quill		Basic	2	Ally		GUARDIAN.
+c91fcd20-0824-4d2b-ae99-f3e9a7942cd0	Star-Lord (Peter Quill)		Basic	2	Ally		GUARDIAN.
 a9549f3d-bcfb-4cb1-ad5b-24dd84331b10	Side Holster		Basic	0	Upgrade		ITEM.
 350663ba-6a99-42f7-b7c8-280a079c2cc3	Plasma Pistol		Basic	2	Upgrade		TECH. WEAPON.
 2a514e47-8013-4629-b26f-9ba2df7c17d8	Fusillade		Aggression	2	Event		ATTACK.
@@ -453,20 +453,20 @@ f1349e68-10c9-4436-9a5f-a4ddf63b68e4	Shake it Off		Protection	1	Event		SKILL.
 57d7233d-48c0-4b82-b171-a41c76740c58	Gamma		Hero	-	Upgrade		
 5e15bae5-f88a-4fcb-b003-85ada6a3974d	Photon		Hero	-	Upgrade		
 3689c80d-0bd7-4848-8e6a-9860fca79da7	Pulsar		Hero	-	Upgrade		
-59155153-c3ab-471f-8256-03c004799f57	Blue Marvel: Adam Brashear		Hero	3	Ally		AERIAL. AVENGER.
+59155153-c3ab-471f-8256-03c004799f57	Blue Marvel (Adam Brashear)		Hero	3	Ally		AERIAL. AVENGER.
 e75679d2-cf9e-4a38-bb0a-c4a7040de7e4	Energy Duplication		Hero	2	Upgrade		SUPERPOWER.
 abd94aba-5e67-46de-8d26-9129441b8198	Gamma Blast		Hero	3	Event		ATTACK. SUPERPOWER.
 b0135b06-a7fb-46b5-a699-10321e34929c	Photon Speed		Hero	2	Event		THWART. SUPERPOWER.
 dc0d3450-4c41-45da-b5ec-4f4f4b4c1ff9	Pulsar Shield		Hero	1	Event		DEFENSE. SUPERPOWER.
 d140dc55-1775-437b-a757-73dcbc91945b	Speed of Light		Hero	0	Event		SUPERPOWER.
-9485a827-2104-4478-8524-66eca7c6cec0	Captain America: Steve Rogers		Leadership	6	Ally		AVENGER.
-596d89f5-a63c-4f7e-9763-a9dc9ae93f3c	Power Man: Victor Alvarez		Leadership	3	Ally		AVENGER.
-4c6e2031-5212-49d7-be93-00783b589b18	White Tiger: Ava Ayala		Leadership	3	Ally		AVENGER.
+9485a827-2104-4478-8524-66eca7c6cec0	Captain America (Steve Rogers)		Leadership	6	Ally		AVENGER.
+596d89f5-a63c-4f7e-9763-a9dc9ae93f3c	Power Man (Victor Alvarez)		Leadership	3	Ally		AVENGER.
+4c6e2031-5212-49d7-be93-00783b589b18	White Tiger (Ava Ayala)		Leadership	3	Ally		AVENGER.
 d00a562d-02c9-4559-a92a-65dfd74f4203	Kaluu		Leadership	2	Ally		AVENGER. MYSTIC.
 44ee89d6-917b-4989-a665-61150442d7a9	Mighty Avengers		Leadership	3	Support		TEAM.
 fbdaf129-619a-444a-9dba-9911bbe93b9f	Mass Attack		Leadership	3	Event		ATTACK.
 ed746929-b0d4-4d1a-86ef-049e16cf5033	Band Together		Leadership	-	Resource		
-c2a503da-c6b4-4783-8a75-b5647ca09374	Blade: Eric Brooks		Basic	1	Ally		AVENGER. VAMPIRE.
+c2a503da-c6b4-4783-8a75-b5647ca09374	Blade (Eric Brooks)		Basic	1	Ally		AVENGER. VAMPIRE.
 197d14ac-f3ab-44a5-b0c9-7ba45b3dbeb5	Ready to Rumble		Basic	1	Upgrade		CONDITION.
 d42f7ae2-9238-44ec-9683-a293b9dc9280	Pip the Troll		Hero	2	Ally		MYSTIC.
 ae4d80a3-a781-4e50-a4a3-5b91933bc913	Soul World		Hero	1	Support		LOCATION.
@@ -477,15 +477,15 @@ ae4d80a3-a781-4e50-a4a3-5b91933bc913	Soul World		Hero	1	Support		LOCATION.
 6c05b39c-7c72-4767-b0b6-b0c6c0e6998e	Karmic Blast		Hero	2	Event		ATTACK. SUPERPOWER.
 0b7936e6-6ea0-40af-aad4-ef568b725843	Cosmic Awareness		Hero	2	Event		THWART. SUPERPOWER.
 c401910d-f176-46e3-bd16-bbcff2921b41	Quantum Magic		Hero	1	Event		SPELL.
-1488fbbe-4cfd-45db-8493-b25d47f143c6	Marvel Boy: Noh-Var		Aggression	2	Ally		GUARDIAN. KREE.
+1488fbbe-4cfd-45db-8493-b25d47f143c6	Marvel Boy (Noh-Var)		Aggression	2	Ally		GUARDIAN. KREE.
 8e82c64a-5aeb-490f-ac1a-91ed12253344	In-Betweener		Aggression	2	Event		COSMIC ENTITY.
 a585b4fe-1e79-46f8-a59d-d645a49101d4	Magic Attack		Aggression	1	Event		ATTACK. SPELL.
 5eff1a95-a88f-4608-ab0a-70efe2ee1a0e	Audacity		Aggression	-	Resource		
-4b5a4920-c895-44e3-8d1c-587eb99666f2	Quasar: Wendell Vaughn		Justice	3	Ally		AERIAL. GUARDIAN.
+4b5a4920-c895-44e3-8d1c-587eb99666f2	Quasar (Wendell Vaughn)		Justice	3	Ally		AERIAL. GUARDIAN.
 5ec043d9-ca31-4ae9-bb55-df2261685511	Living Tribunal		Justice	2	Event		COSMIC ENTITY.
 d6d14a8b-4dd9-49e6-b237-61a93ba2146b	Zone of Silence		Justice	1	Event		SPELL. THWART.
 3b36448f-e676-4d84-9967-fda482eff070	Determination		Justice	-	Resource		
-529df565-6c1f-4393-aff6-f64e22f27c11	Major Victory: Vance Astro		Leadership	2	Ally		GUARDIAN.
+529df565-6c1f-4393-aff6-f64e22f27c11	Major Victory (Vance Astro)		Leadership	2	Ally		GUARDIAN.
 02826f77-6dc0-48d9-820d-17c008135b09	Eternity		Leadership	2	Event		COSMIC ENTITY.
 723523a2-08d0-4e97-bd64-d3358e9f3cb2	Summoning Spell		Leadership	2	Event		SPELL.
 4a08dfa2-ed3c-4451-a5fd-0f91c44d4107	Innovation		Leadership	-	Resource		
@@ -493,7 +493,7 @@ d86cd6b8-da85-49c2-b70a-e6da387a6a95	Charlie-27		Protection	4	Ally		GUARDI
 84e03b4e-b89a-42b8-9573-03ec7a9cae96	The Gardener		Protection	2	Event		COSMIC ENTITY.
 7f474c15-26fd-4963-b73d-07f58ffa2d4e	Shield Spell		Protection	0	Event		DEFENSE. SPELL.
 86aa5c22-5f26-4e7c-b5c4-ddfbcaf4d476	Preservation		Protection	-	Resource		
-654900ac-f104-4a22-ad0f-4c9322a61a17	Martinex: T'Naga		Basic	3	Ally		GUARDIAN.
+654900ac-f104-4a22-ad0f-4c9322a61a17	Martinex (T'Naga)		Basic	3	Ally		GUARDIAN.
 40463491-a25f-477c-bbe9-c2843b35d542	Gamora		Hero	3	Ally		GUARDIAN.
 ff61c3f8-4008-4f28-a0cb-41beccf0ef7d	Nebula's Ship		Hero	2	Support		VEHICLE.
 037e5a23-0dc2-432e-94e5-352a81ffd453	Cutthroat Ambition		Hero	1	Upgrade		TECHNIQUE.
@@ -504,8 +504,8 @@ f17173b9-5fd1-4e29-a87d-8b8a9a9715b9	Evasive Maneuvering		Hero	1	Upgrade		TEC
 aaaef31d-d4ed-4806-8962-f6ebc74ca1ff	Combat Ready		Hero	0	Event		SKILL.
 a7da2de1-575e-40c7-8999-0167d32074cf	Lethal Intent		Hero	0	Event		
 fbb949b6-7701-4d07-bf8d-55107e42331d	Eros		Justice	2	Ally		GUARDIAN.
-aa271dac-d953-4956-ae37-bda1bfaa053e	Wraith: Zak-Del		Justice	3	Ally		GUARDIAN.
-1145c7a1-6fbd-469a-9850-27306021dd14	Venom: Flash Thompson		Justice	4	Ally		GUARDIAN.
+aa271dac-d953-4956-ae37-bda1bfaa053e	Wraith (Zak-Del)		Justice	3	Ally		GUARDIAN.
+1145c7a1-6fbd-469a-9850-27306021dd14	Venom (Flash Thompson)		Justice	4	Ally		GUARDIAN.
 60b33368-4a60-4ff3-8cbb-81a952bb0b9f	Justice Served		Justice	1	Upgrade		
 d956a342-512c-43eb-b7f2-838b01a731f1	One Way or Another		Justice	0	Event		
 d3cde9f8-0447-422b-b151-5388eae0c88e	Brains Over Brawn		Justice	2	Event		ATTACK.
@@ -514,7 +514,7 @@ d3cde9f8-0447-422b-b151-5388eae0c88e	Brains Over Brawn		Justice	2	Event		ATTA
 b1aa41f3-5144-4e44-a62f-bb2c748082ed	Guardians of the Galaxy		Leadership	2	Support		TEAM.
 55f8e335-98a2-40e3-a71b-a09e264d8d5e	Defensive Training		Protection	1	Support		CONDITION.
 c0a19e2c-a596-4f96-a6f4-5f8292e18815	Honorary Guardian		Basic	0	Upgrade		TITLE.
-ba790d01-7fdb-410d-85cd-965b3f645bbc	Iron Man: Tony Stark		Hero	3	Ally		AVENGER.
+ba790d01-7fdb-410d-85cd-965b3f645bbc	Iron Man (Tony Stark)		Hero	3	Ally		AVENGER.
 d355a119-239c-42c1-af78-43c68e4422ed	Munitions Bunker		Hero	2	Support		LOCATION. S.H.I.E.L.D.
 da6f401b-06b4-4af6-94b5-8507e4463e27	Upgraded Chassis		Hero	3	Upgrade		ARMOR. TECH.
 6c58c0e8-ee0d-405e-9c2a-9c14532e72ec	Gauntlet Gun		Hero	2	Upgrade		TECH. WEAPON.
@@ -524,8 +524,8 @@ da6f401b-06b4-4af6-94b5-8507e4463e27	Upgraded Chassis		Hero	3	Upgrade		ARMOR.
 3442d20a-e339-4c73-8821-eef4f5a58d1a	Targeted Strike		Hero	1	Event		THWART.
 b4059b13-cde7-47f8-ac57-9482032e32a8	Scorched Earth		Hero	3	Event		TACTIC.
 94e2a62b-960d-4c74-9168-fb67fe50e604	Full Auto		Hero	2	Event		ATTACK.
-b39ca70e-b5c3-44b7-aa2c-e825f506561c	Black Panther: T'Challa		Leadership	4	Ally		AVENGER. WAKANDA.
-9f77e053-6efd-4163-a679-e85d92fd885b	Captain Marvel: Carol Danvers		Leadership	5	Ally		AERIAL. AVENGER.
+b39ca70e-b5c3-44b7-aa2c-e825f506561c	Black Panther (T'Challa)		Leadership	4	Ally		AVENGER. WAKANDA.
+9f77e053-6efd-4163-a679-e85d92fd885b	Captain Marvel (Carol Danvers)		Leadership	5	Ally		AERIAL. AVENGER.
 9c3a7e52-6a17-4816-a9ee-3d1b23fee8db	Command Team		Leadership	2	Support		S.H.I.E.L.D.
 9f225531-e7ea-4783-b16b-81e04553528c	Sneak Attack		Leadership	1	Event		TACTIC.
 21aa2db6-0349-4bca-9252-aa0756e0612c	Save the Day		Leadership	1	Event		TACTIC.
@@ -546,8 +546,8 @@ d850c4fe-f757-4e33-a49b-718e526687e1	Visit Valhalla		Hero	0	Event	
 645f17e8-e5b3-4055-814d-9eb7995233a4	Chooser of the Slain		Hero	0	Event		
 f56eda29-059a-44b9-a03c-02d5b8cfe0ad	Shieldmaiden		Hero	1	Event		
 a652d56e-1df5-4987-9a3f-d62817ed53a0	Have at Thee!		Hero	3	Event		ATTACK.
-aa54dcd2-33b5-4d76-8928-e2425e45bc29	Thor: Odinson		Aggression	3	Ally		ASGARD. AVENGER.
-3e61e952-0f84-4e8f-aeb2-f73f2b94cc88	Throg: Puddlegulp		Aggression	2	Ally		ASGARD. GUARDIAN.
+aa54dcd2-33b5-4d76-8928-e2425e45bc29	Thor (Odinson)		Aggression	3	Ally		ASGARD. AVENGER.
+3e61e952-0f84-4e8f-aeb2-f73f2b94cc88	Throg (Puddlegulp)		Aggression	2	Ally		ASGARD. GUARDIAN.
 b051d27f-a51d-4ee5-ab1e-5270abe3bc52	Quick Strike		Aggression	2	Event		ATTACK.
 e5eef58c-45b2-44d7-a3c0-46da414c711a	Smash the Problem		Aggression	1	Event		THWART.
 f1f60d8f-87fe-4b33-b249-4535017b8047	The Best Defense…		Aggression	0	Event		DEFENSE.
@@ -569,11 +569,11 @@ b9e95b63-e9ec-4628-9953-322042480b52	Just Passing Through		Hero	1	Event		SUPE
 dcada36b-953d-4e55-9e3a-c2711edae368	Phase Disruption		Hero	2	Event		SUPERPOWER.
 bc4aea4b-e32d-4ab8-b57f-d08e1f5a6aa3	Mass Increase		Hero	1	Event		DEFENSE. SUPERPOWER.
 af9710a2-6810-4620-900f-564363d28a8e	Jocasta		Protection	3	Ally		ANDROID. AVENGER.
-59fe0592-f975-4f9c-a05c-68e4bfcb187c	Protector: Alexis		Protection	4	Ally		ANDROID. AVENGER.
+59fe0592-f975-4f9c-a05c-68e4bfcb187c	Protector (Alexis)		Protection	4	Ally		ANDROID. AVENGER.
 ec423871-8156-4679-bed3-d93ebb19006f	Victor Mancha		Protection	2	Ally		ANDROID. AVENGER.
 5943c28a-c27f-481a-a404-2ead37f3cf3f	Flow Like Water		Protection	2	Upgrade		CONDITION.
 bd860027-02e4-4860-9e37-38528714d7d9	Defiance		Protection	0	Event		DEFENSE.
-bf9f2a36-886a-4810-8796-696d1b902edf	Machine Man: Aaron Stack		Basic	2	Ally		ANDROID.
+bf9f2a36-886a-4810-8796-696d1b902edf	Machine Man (Aaron Stack)		Basic	2	Ally		ANDROID.
 4661e468-d91d-4659-8141-5a11a4ae2470	Reboot		Basic	1	Event		
 ea37a37f-d010-4a16-b29e-dafb9091dd9e	Assault Training		Aggression	1	Support		CONDITION.
 0b12d814-614b-4947-a995-f6e6750e86aa	Chance Encounter		Justice	0	Upgrade		CONDITION.
@@ -587,13 +587,13 @@ d7a07831-7502-4661-8b07-247fdb1203a7	Parental Guidance		Hero	0	Event	
 41667007-8774-4148-8406-f5b3a11c59d8	George Stacy		Hero	1	Support		PERSONA.
 12843d60-3eb1-4909-8821-983c83c6b314	Ticket to the Multiverse		Hero	3	Upgrade		ITEM.
 bc24ec84-9a2e-4c46-800d-f866f5032a45	Web-Bracelet		Hero	2	Upgrade		ITEM. TECH.
-a8138037-224d-482a-af39-b064b6cf62f2	Silk: Cindy Moon		Protection	2	Ally		WEB-WARRIOR.
-9113604f-fc1f-424a-9f60-88b9a3bb205b	Spider-Man: Miles Morales		Protection	4	Ally		WEB-WARRIOR.
-3f7f92de-9201-49bc-b3e5-e9850bc98442	Spider-UK: Billy Braddock		Protection	3	Ally		WEB-WARRIOR.
+a8138037-224d-482a-af39-b064b6cf62f2	Silk (Cindy Moon)		Protection	2	Ally		WEB-WARRIOR.
+9113604f-fc1f-424a-9f60-88b9a3bb205b	Spider-Man (Miles Morales)		Protection	4	Ally		WEB-WARRIOR.
+3f7f92de-9201-49bc-b3e5-e9850bc98442	Spider-UK (Billy Braddock)		Protection	3	Ally		WEB-WARRIOR.
 7c88e6b8-68fb-4d8e-a851-12308c475789	Jump Flip		Protection	1	Event		DEFENSE.
 348ce452-3e85-413d-a4af-ab52e6e3799e	Return the Favor		Protection	0	Event		ATTACK.
 54dcfbee-4c91-44bc-a73b-1bc271a89d40	What Doesn't Kill Me		Protection	2	Event		
-b97396f0-5f80-418f-b38c-fa2737e19713	Spider-Man: Hobie Brown		Basic	3	Ally		WEB-WARRIOR.
+b97396f0-5f80-418f-b38c-fa2737e19713	Spider-Man (Hobie Brown)		Basic	3	Ally		WEB-WARRIOR.
 dd8b54b7-fdd3-4a5e-a9af-dacfe6e38d8a	Across the Spider-Verse		Basic	2	Event		
 2c76d38c-9750-4e13-8bce-f1361fd17251	Young Love		Basic	1	Event		
 6642f87f-201c-4c91-bc3e-50a4a4ce0afe	Web of Life and Destiny		Basic	3	Support		LOCATION. WEB-WARRIOR.
@@ -608,19 +608,19 @@ da3eb3b9-b550-43b5-9928-039b109e5389	Power Within		Hero	1	Upgrade		SUPERPOWER
 167cf405-e918-4e1f-bfe7-ca16c412f649	Defense Mechanism		Hero	1	Upgrade		SUPERPOWER.
 7d13f04b-3271-4896-985b-93c4b7ececda	Web-Shooter		Hero	1	Upgrade		ITEM. TECH.
 2f6ab954-a891-4444-8d27-cebe050cc92d	Monica Chang		Justice	3	Ally		S.H.I.E.L.D.
-d20e17a1-d387-4ae3-91a5-9d07b7e00fba	Spider-Woman: Jessica Drew		Justice	3	Ally		S.H.I.E.L.D. WEB-WARRIOR.
+d20e17a1-d387-4ae3-91a5-9d07b7e00fba	Spider-Woman (Jessica Drew)		Justice	3	Ally		S.H.I.E.L.D. WEB-WARRIOR.
 9a6f48de-9a65-4904-bf0e-b3e9062ecb7e	Homeland Intervention		Justice	0	Event		S.H.I.E.L.D. TACTIC.
 33e50406-96bb-4b00-8765-2a59aa516990	Global Logistics		Justice	0	Event		S.H.I.E.L.D. TACTIC.
 898831f2-83d0-470c-a6cb-cb77cea26c70	Field Agent		Justice	1	Support		PERSONA. S.H.I.E.L.D.
-3ce28169-17c6-40e5-9ce5-d7252c32a807	Agent 13: Sharon Carter		Basic	4	Ally		S.H.I.E.L.D. SPY.
+3ce28169-17c6-40e5-9ce5-d7252c32a807	Agent 13 (Sharon Carter)		Basic	4	Ally		S.H.I.E.L.D. SPY.
 aa8abddf-4a56-4caa-9881-2acdcc6add5f	Dum Dum Dugan		Basic	5	Ally		S.H.I.E.L.D.
-f7f86509-9c5b-44de-ae5c-bb071285dd8a	Ghost-Spider: Gwen Stacy		Basic	3	Ally		WEB-WARRIOR.
-56ee5f79-c097-4fe0-83b1-f0ef76f7ad17	Spider-Man: Peter Parker		Basic	3	Ally		WEB-WARRIOR.
+f7f86509-9c5b-44de-ae5c-bb071285dd8a	Ghost-Spider (Gwen Stacy)		Basic	3	Ally		WEB-WARRIOR.
+56ee5f79-c097-4fe0-83b1-f0ef76f7ad17	Spider-Man (Peter Parker)		Basic	3	Ally		WEB-WARRIOR.
 bc85bac2-a76b-4cbf-a9ef-866ab34cb28e	Government Liaison		Basic	2	Support		PERSONA. S.H.I.E.L.D.
 36770b85-5114-4c14-aa24-ff41116ed4a5	Sky-Destroyer		Basic	3	Support		S.H.I.E.L.D. VEHICLE.
-f8a7865d-a43d-4b6f-bf29-5c9039b973cc	Venom: Eddie Brock		Basic	4	Ally		SYMBIOTE.
+f8a7865d-a43d-4b6f-bf29-5c9039b973cc	Venom (Eddie Brock)		Basic	4	Ally		SYMBIOTE.
 dc32c7e5-bed3-4bc3-a76b-eddd0d7d844a	Symbiote Suit		Basic	4	Upgrade		SYMBIOTE.
-27ca3f3d-d6c5-44e1-a654-355da5efb679	Ms. Marvel: Kamala Khan		Hero	3	Ally		CHAMPION. INHUMAN.
+27ca3f3d-d6c5-44e1-a654-355da5efb679	Ms. Marvel (Kamala Khan)		Hero	3	Ally		CHAMPION. INHUMAN.
 a5c6671e-e075-4a7e-9d00-908c91539758	Forcefield Projection		Hero	1	Event		SUPERPOWER.
 9efd02f1-485f-4304-b6d0-04b6c701a475	Lightspeed Flight		Hero	2	Event		SUPERPOWER. THWART.
 63d48598-0994-4374-a9d0-a767d6a51cd9	Pot Shot		Hero	2	Event		ATTACK. SUPERPOWER.
@@ -628,18 +628,18 @@ ccf92fc5-7e77-4070-ae41-d112e507585f	Unleash Nova Force		Hero	1	Event		SUPERP
 71d5eaf1-5ef9-4b7f-9c2b-a580eb0845df	Connection to the Worldmind		Hero	-	Resource		
 69f7bac0-e287-4f65-b1f5-8258fd26e4da	Jesse Alexander		Hero	2	Support		PERSONA.
 2ede2b5e-d768-49f2-9bb4-1884724b4f78	Supernova Helmet		Hero	1	Upgrade		ARMOR.
-d933187f-5904-4b55-8f95-7d07c8ee725a	The Locust: Fernanda Rodriguez		Aggression	2	Ally		CHAMPION.
+d933187f-5904-4b55-8f95-7d07c8ee725a	The Locust (Fernanda Rodriguez)		Aggression	2	Ally		CHAMPION.
 02803989-817e-46fa-bec9-22ebd413797d	Pitchback		Aggression	1	Event		AERIAL. ATTACK.
 467bb268-f5b0-4e8b-9f1d-af89884d9cd1	No Quarter		Aggression	2	Event		ATTACK.
 00ce2f12-1554-45e1-9b56-505bac8367af	One by One		Aggression	1	Event		ATTACK.
 b90865cf-8358-4f10-bda1-c32d689cfbb9	Fluid Motion		Aggression	1	Upgrade		SKILL.
 73d69dc0-0957-4876-a7c9-9c6e63676ea5	Honed Technique		Aggression	3	Upgrade		SKILL.
-c7126feb-f097-4e98-b154-17693ba482f8	Moon Girl: Lunella Lafayette		Basic	3	Ally		CHAMPION. GENIUS.
+c7126feb-f097-4e98-b154-17693ba482f8	Moon Girl (Lunella Lafayette)		Basic	3	Ally		CHAMPION. GENIUS.
 96a2155d-3ec0-417c-82b9-fe7eb4e5716d	Everyday Hero		Basic	-	Resource		
 ab44bbb1-f160-4e47-8cba-ae8e8afc7729	Champions Mobile Bunker		Basic	2	Support		CHAMPION. VEHICLE.
 6f2986b8-342b-47f8-ad1e-d1b89837c1c1	Yaw and Roll		Justice	1	Event		AERIAL. THWART.
 eab687cf-2fd8-4941-8e8f-7198545f803a	Height Advantage		Protection	1	Upgrade		AERIAL. TACTIC.
-37888118-f6e0-4b35-bbac-4039acfee5e6	Brawn: Amadeus Cho		Hero	4	Ally		CHAMPION. GAMMA.
+37888118-f6e0-4b35-bbac-4039acfee5e6	Brawn (Amadeus Cho)		Hero	4	Ally		CHAMPION. GAMMA.
 5196a1d5-caa7-454f-a05c-07d4a0ff9422	Fly Over		Hero	2	Event		THWART.
 2fcf9ca1-d450-48ed-9038-352451152d0a	Photon Beam		Hero	2	Event		ATTACK.
 bc853266-253a-490c-825c-e9330afb0f18	New and Improved		Hero	3	Event		SKILL.
@@ -649,20 +649,20 @@ bc853266-253a-490c-825c-e9330afb0f18	New and Improved		Hero	3	Event		SKILL.
 98ebf86a-a379-48d4-8723-c20237ea4df7	Tony Stark A.I.		Hero	2	Support		PERSONA.
 16459e01-b371-4012-8a52-effe8ce1e163	Photon Blasters		Hero	2	Upgrade		TECH. WEAPON.
 9168004c-fc9a-4610-8f81-b85a08e9193b	Propulsion Jets		Hero	2	Upgrade		TECH.
-55c38950-042b-4ec1-a07d-1d6ba9f9da5d	Cloud 9: Abby Boylen		Leadership	3	Ally		AERIAL. CHAMPION.
-d255aa3d-8747-4a1d-9490-fc1887630d83	Falcon: Joaquin Torres		Leadership	4	Ally		AERIAL. CHAMPION.
-0707b91c-2b67-4746-bf2f-ae14c25d9796	Patriot: Rayshaun Lucas		Leadership	3	Ally		CHAMPION.
+55c38950-042b-4ec1-a07d-1d6ba9f9da5d	Cloud 9 (Abby Boylen)		Leadership	3	Ally		AERIAL. CHAMPION.
+d255aa3d-8747-4a1d-9490-fc1887630d83	Falcon (Joaquin Torres)		Leadership	4	Ally		AERIAL. CHAMPION.
+0707b91c-2b67-4746-bf2f-ae14c25d9796	Patriot (Rayshaun Lucas)		Leadership	3	Ally		CHAMPION.
 0234136e-f616-4ed4-9e67-123196846729	Go All Out		Leadership	2	Event		ATTACK.
 b8014cdc-e819-4312-8290-15ad8acfe64d	Push Ahead		Leadership	3	Event		THWART.
 cb08b82e-8b84-4d4e-8aed-a7455b767441	R&D Facility		Leadership	3	Support		LOCATION. S.H.I.E.L.D.
-c22f2b49-d7dd-440d-b1df-cfd1f058455a	Snowguard: Amka Aliyak		Basic	4	Ally		CHAMPION.
+c22f2b49-d7dd-440d-b1df-cfd1f058455a	Snowguard (Amka Aliyak)		Basic	4	Ally		CHAMPION.
 cdf2039d-073d-4fbc-a6ad-144ffd977a77	Vivian		Basic	2	Ally		AERIAL. ANDROID. CHAMPION.
 9d1ed258-ee76-47e7-8f1d-b9dd590fd293	"Go for Champions!"		Basic	3	Event		
 db7e7914-1cf7-4f25-b1fb-70cb41c11025	Ingenuity		Basic	2	Upgrade		SKILL.
-530c5583-ede8-4069-9a86-546973dcb375	Bombshell: Lana Baumgartner		Aggression	4	Ally		CHAMPION.
-b38cea4b-2753-4d7a-b6f8-c68c80069766	Wasp: Nadia Van Dyne		Justice	2	Ally		CHAMPION.
-add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint: Qureshi Gupta		Protection	2	Ally		CHAMPION.
-5f189d1d-2352-41cc-b285-a4c687030002	Captain Americat: Steve Mouser		Hero	3	Ally		CARTOON.
+530c5583-ede8-4069-9a86-546973dcb375	Bombshell (Lana Baumgartner)		Aggression	4	Ally		CHAMPION.
+b38cea4b-2753-4d7a-b6f8-c68c80069766	Wasp (Nadia Van Dyne)		Justice	2	Ally		CHAMPION.
+add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint (Qureshi Gupta)		Protection	2	Ally		CHAMPION.
+5f189d1d-2352-41cc-b285-a4c687030002	Captain Americat (Steve Mouser)		Hero	3	Ally		CARTOON.
 5f189d1d-2352-41cc-b285-a4c687030003	Ham It Up		Hero	0	Event		CARTOON. THWART.
 5f189d1d-2352-41cc-b285-a4c687030004	Hogwashed		Hero	1	Event		CARTOON.
 5f189d1d-2352-41cc-b285-a4c687030005	"I Don't Think So!"		Hero	1	Event		CARTOON.
@@ -672,14 +672,14 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint: Qureshi Gupta		Protection	2	Al
 5f189d1d-2352-41cc-b285-a4c687030009	Cartoon Physics		Hero	1	Upgrade		CARTOON. SUPERPOWER.
 5f189d1d-2352-41cc-b285-a4c687030010	Huge Wooden Hammer		Hero	2	Upgrade		CARTOON. WEAPON.
 5f189d1d-2352-41cc-b285-a4c687030011	Organic Webbing		Hero	2	Upgrade		CARTOON. SUPERPOWER.
-5f189d1d-2352-41cc-b285-a4c687030012	Lady Spider: May Reilly		Justice	4	Ally		WEB-WARRIOR.
-5f189d1d-2352-41cc-b285-a4c687030013	Spider-Man: Pavitr Prabhakar		Justice	3	Ally		WEB-WARRIOR.
+5f189d1d-2352-41cc-b285-a4c687030012	Lady Spider (May Reilly)		Justice	4	Ally		WEB-WARRIOR.
+5f189d1d-2352-41cc-b285-a4c687030013	Spider-Man (Pavitr Prabhakar)		Justice	3	Ally		WEB-WARRIOR.
 5f189d1d-2352-41cc-b285-a4c687030014	Even the Odds		Justice	2	Event		THWART.
 5f189d1d-2352-41cc-b285-a4c687030019	Overwatch		Justice	0	Upgrade		
-5f189d1d-2352-41cc-b285-a4c687030020	Scarlet Spider: Kaine		Basic	4	Ally		WEB-WARRIOR.
-5f189d1d-2352-41cc-b285-a4c687030021	SP//dr: Peni Parker		Basic	2	Ally		WEB-WARRIOR.
+5f189d1d-2352-41cc-b285-a4c687030020	Scarlet Spider (Kaine)		Basic	4	Ally		WEB-WARRIOR.
+5f189d1d-2352-41cc-b285-a4c687030021	SP//dr (Peni Parker)		Basic	2	Ally		WEB-WARRIOR.
 5f189d1d-2352-41cc-b285-a4c687030029	Warrior of the Great Web		Basic	1	Upgrade		TITLE.
-5b7da011-412e-452a-9edd-24618a031003	VEN#m: Addy Brock		Hero	4	Ally		
+5b7da011-412e-452a-9edd-24618a031003	VEN#m (Addy Brock)		Hero	4	Ally		
 5b7da011-412e-452a-9edd-24618a031004	All Systems Go!		Hero	1	Event		
 5b7da011-412e-452a-9edd-24618a031005	Rapid Deployment		Hero	2	Event		THWART.
 5b7da011-412e-452a-9edd-24618a031006	Web-Trap		Hero	2	Event		ATTACK.
@@ -696,12 +696,12 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint: Qureshi Gupta		Protection	2	Al
 5b7da011-412e-452a-9edd-24618a031017	Thwip! Thwip!		Protection	2	Event		SUPERPOWER.
 5b7da011-412e-452a-9edd-24618a031019	Forcefield Generator		Protection	3	Upgrade		TECH.
 5b7da011-412e-452a-9edd-24618a031020	Spider-Tingle		Protection	1	Upgrade		SUPERPOWER.
-5b7da011-412e-452a-9edd-24618a031021	Spider-Ham: Peter Porker		Basic	3	Ally		CARTOON. WEB-WARRIOR.
-5b7da011-412e-452a-9edd-24618a031022	Spider-Man: Otto Octavius		Basic	2	Ally		WEB-WARRIOR.
+5b7da011-412e-452a-9edd-24618a031021	Spider-Ham (Peter Porker)		Basic	3	Ally		CARTOON. WEB-WARRIOR.
+5b7da011-412e-452a-9edd-24618a031022	Spider-Man (Otto Octavius)		Basic	2	Ally		WEB-WARRIOR.
 5b7da011-412e-452a-9edd-24618a031023	Limitless Stamina		Basic	1	Event		SUPERPOWER.
 5b7da011-412e-452a-9edd-24618a031024	Unshakable		Basic	1	Upgrade		CONDITION. SUPERPOWER.
 5b7da011-412e-452a-9edd-24618a031029	Clarity of Purpose		Leadership	1	Upgrade		CONDITION.
-47d34c5d-5319-45a9-a2d6-1fb975032002	Shadowcat: Kitty Pryde		Hero	3	Ally		X-MEN.
+47d34c5d-5319-45a9-a2d6-1fb975032002	Shadowcat (Kitty Pryde)		Hero	3	Ally		X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032003	Piotr's Studio		Hero	1	Support		LOCATION.
 47d34c5d-5319-45a9-a2d6-1fb975032004	Iron Will		Hero	2	Upgrade		SUPERPOWER.
 47d34c5d-5319-45a9-a2d6-1fb975032005	Titanium Muscles		Hero	2	Upgrade		SUPERPOWER.
@@ -710,14 +710,14 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint: Qureshi Gupta		Protection	2	Al
 47d34c5d-5319-45a9-a2d6-1fb975032008	Steel Fist		Hero	2	Event		ATTACK. SUPERPOWER.
 47d34c5d-5319-45a9-a2d6-1fb975032009	Bulletproof Protector		Hero	0	Event		SUPERPOWER.
 47d34c5d-5319-45a9-a2d6-1fb975032010	Armor Up		Hero	0	Event		SUPERPOWER.
-47d34c5d-5319-45a9-a2d6-1fb975032011	Nightcrawler: Kurt Wagner		Protection	3	Ally		X-MEN.
-47d34c5d-5319-45a9-a2d6-1fb975032012	Polaris: Lorna Dane		Protection	3	Ally		X-MEN.
+47d34c5d-5319-45a9-a2d6-1fb975032011	Nightcrawler (Kurt Wagner)		Protection	3	Ally		X-MEN.
+47d34c5d-5319-45a9-a2d6-1fb975032012	Polaris (Lorna Dane)		Protection	3	Ally		X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032013	Protective Training		Protection	1	Upgrade		TRAINING.
 47d34c5d-5319-45a9-a2d6-1fb975032014	Powerful Punch		Protection	2	Event		ATTACK. DEFENSE.
 47d34c5d-5319-45a9-a2d6-1fb975032016	Perseverance		Protection	1	Event		TACTIC.
 47d34c5d-5319-45a9-a2d6-1fb975032017	Mutant Protectors		Protection	1	Event		DEFENSE.
 47d34c5d-5319-45a9-a2d6-1fb975032018	Defensive Energy		Protection	-	Resource		
-47d34c5d-5319-45a9-a2d6-1fb975032019	Professor X: Charles Xavier		Basic	3	Ally		PSIONIC. X-MEN.
+47d34c5d-5319-45a9-a2d6-1fb975032019	Professor X (Charles Xavier)		Basic	3	Ally		PSIONIC. X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032020	The X-Jet		Basic	3	Support		VEHICLE. X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032021	Shadow and Steel		Basic	2	Event		ATTACK. DEFENSE.
 47d34c5d-5319-45a9-a2d6-1fb975032031	Solid		Hero	-	Upgrade		
@@ -730,8 +730,8 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint: Qureshi Gupta		Protection	2	Al
 47d34c5d-5319-45a9-a2d6-1fb975032038	Phase Strike		Hero	3	Event		ATTACK. SUPERPOWER.
 47d34c5d-5319-45a9-a2d6-1fb975032039	Airwalk		Hero	1	Event		SUPERPOWER. THWART.
 47d34c5d-5319-45a9-a2d6-1fb975032040	Quick Shift		Hero	0	Event		DEFENSE. SUPERPOWER.
-47d34c5d-5319-45a9-a2d6-1fb975032041	Wolverine: Logan		Aggression	4	Ally		X-MEN.
-47d34c5d-5319-45a9-a2d6-1fb975032042	Magik: Illyana Rasputin		Aggression	3	Ally		MYSTIC. X-MEN.
+47d34c5d-5319-45a9-a2d6-1fb975032041	Wolverine (Logan)		Aggression	4	Ally		X-MEN.
+47d34c5d-5319-45a9-a2d6-1fb975032042	Magik (Illyana Rasputin)		Aggression	3	Ally		MYSTIC. X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032043	Attack Training		Aggression	1	Upgrade		TRAINING.
 47d34c5d-5319-45a9-a2d6-1fb975032044	Gatekeeper		Aggression	0	Upgrade		CONDITION.
 47d34c5d-5319-45a9-a2d6-1fb975032045	Team Strike		Aggression	1	Event		ATTACK.
@@ -739,7 +739,7 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint: Qureshi Gupta		Protection	2	Al
 47d34c5d-5319-45a9-a2d6-1fb975032048	Colossus		Basic	4	Ally		X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032049	X-Mansion		Basic	2	Support		LOCATION. X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032051	Ready to Rumble		Basic	1	Upgrade		CONDITION.
-7da2a29c-3abd-4e3b-b36e-9f140c033002	Phoenix: Jean Grey		Hero	3	Ally		PSIONIC. X-MEN.
+7da2a29c-3abd-4e3b-b36e-9f140c033002	Phoenix (Jean Grey)		Hero	3	Ally		PSIONIC. X-MEN.
 7da2a29c-3abd-4e3b-b36e-9f140c033003	Ruby Quartz Visor		Hero	2	Upgrade		ITEM.
 7da2a29c-3abd-4e3b-b36e-9f140c033004	Field Commander		Hero	1	Upgrade		TITLE.
 7da2a29c-3abd-4e3b-b36e-9f140c033005	Exploit Weakness		Hero	1	Upgrade		TACTIC.
@@ -748,14 +748,14 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint: Qureshi Gupta		Protection	2	Al
 7da2a29c-3abd-4e3b-b36e-9f140c033008	Full Blast		Hero	1	Event		SUPERPOWER.
 7da2a29c-3abd-4e3b-b36e-9f140c033009	Ricochet Beam		Hero	2	Event		ATTACK. SUPERPOWER.
 7da2a29c-3abd-4e3b-b36e-9f140c033010	Tactical Brilliance		Hero	2	Event		THWART.
-7da2a29c-3abd-4e3b-b36e-9f140c033011	Beast: Hank McCoy		Leadership	4	Ally		GENIUS. X-MEN.
-7da2a29c-3abd-4e3b-b36e-9f140c033012	Dust: Sooraya Qadir		Aggression	3	Ally		X-MEN.
-7da2a29c-3abd-4e3b-b36e-9f140c033013	Rockslide: Santo Vaccarro		Protection	4	Ally		X-MEN.
-7da2a29c-3abd-4e3b-b36e-9f140c033014	Blindfold: Ruth Aldine		Justice	3	Ally		PSIONIC. X-MEN.
+7da2a29c-3abd-4e3b-b36e-9f140c033011	Beast (Hank McCoy)		Leadership	4	Ally		GENIUS. X-MEN.
+7da2a29c-3abd-4e3b-b36e-9f140c033012	Dust (Sooraya Qadir)		Aggression	3	Ally		X-MEN.
+7da2a29c-3abd-4e3b-b36e-9f140c033013	Rockslide (Santo Vaccarro)		Protection	4	Ally		X-MEN.
+7da2a29c-3abd-4e3b-b36e-9f140c033014	Blindfold (Ruth Aldine)		Justice	3	Ally		PSIONIC. X-MEN.
 7da2a29c-3abd-4e3b-b36e-9f140c033015	Danger Room Training		Leadership	1	Upgrade		TRAINING.
 7da2a29c-3abd-4e3b-b36e-9f140c033016	Coordinated Attack		Leadership	0	Upgrade		TACTIC.
 7da2a29c-3abd-4e3b-b36e-9f140c033018	Effective Leadership		Leadership	-	Resource		
-7da2a29c-3abd-4e3b-b36e-9f140c033019	Angel: Warren Worthington III		Basic	3	Ally		AERIAL. X-MEN.
+7da2a29c-3abd-4e3b-b36e-9f140c033019	Angel (Warren Worthington III)		Basic	3	Ally		AERIAL. X-MEN.
 7da2a29c-3abd-4e3b-b36e-9f140c033020	Utopia		Basic	2	Support		LOCATION. X-MEN.
 7da2a29c-3abd-4e3b-b36e-9f140c033021	Danger Room		Basic	2	Support		LOCATION. X-MEN.
 7da2a29c-3abd-4e3b-b36e-9f140c033022	Game Time		Basic	0	Event		TACTIC.
@@ -765,7 +765,7 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint: Qureshi Gupta		Protection	2	Al
 7da2a29c-3abd-4e3b-b36e-9f140c033034	Pinned Down		Protection	0	Upgrade		TACTIC.
 7da2a29c-3abd-4e3b-b36e-9f140c033035	Honorary X-Men		Basic	0	Upgrade		TITLE.
 9b407333-e221-495f-a145-e5a9b4034002	Phoenix Force		Hero	-	Upgrade		RESTRAINED.
-9b407333-e221-495f-a145-e5a9b4034003	Cyclops: Scott Summers		Hero	3	Ally		X-MEN.
+9b407333-e221-495f-a145-e5a9b4034003	Cyclops (Scott Summers)		Hero	3	Ally		X-MEN.
 9b407333-e221-495f-a145-e5a9b4034004	White Hot Room		Hero	2	Support		LOCATION. PHOENIX.
 9b407333-e221-495f-a145-e5a9b4034005	Phoenix Suit		Hero	2	Upgrade		ITEM.
 9b407333-e221-495f-a145-e5a9b4034006	Rise from the Ashes		Hero	3	Upgrade		PHOENIX.
@@ -776,20 +776,20 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint: Qureshi Gupta		Protection	2	Al
 9b407333-e221-495f-a145-e5a9b4034011	Psychic Blast		Hero	2	Event		PSIONIC.
 9b407333-e221-495f-a145-e5a9b4034012	Telepathic Trickery		Hero	2	Event		PSIONIC. THWART.
 9b407333-e221-495f-a145-e5a9b4034013	Phoenix Firebird		Hero	1	Event		PHOENIX.
-9b407333-e221-495f-a145-e5a9b4034014	Banshee: Sean Cassidy		Justice	4	Ally		AERIAL. X-MEN.
-9b407333-e221-495f-a145-e5a9b4034015	Marvel Girl: Rachel Summers		Justice	3	Ally		PSIONIC. X-MEN.
+9b407333-e221-495f-a145-e5a9b4034014	Banshee (Sean Cassidy)		Justice	4	Ally		AERIAL. X-MEN.
+9b407333-e221-495f-a145-e5a9b4034015	Marvel Girl (Rachel Summers)		Justice	3	Ally		PSIONIC. X-MEN.
 9b407333-e221-495f-a145-e5a9b4034016	Mission Training		Justice	1	Upgrade		TRAINING.
 9b407333-e221-495f-a145-e5a9b4034017	Psychic Manipulation		Justice	3	Event		PSIONIC. THWART.
 9b407333-e221-495f-a145-e5a9b4034018	Mutant Peacekeepers		Justice	1	Event		THWART.
 9b407333-e221-495f-a145-e5a9b4034020	Passion for Justice		Justice	-	Resource		
-9b407333-e221-495f-a145-e5a9b4034021	Storm: Ororo Munroe		Basic	5	Ally		AERIAL. X-MEN.
+9b407333-e221-495f-a145-e5a9b4034021	Storm (Ororo Munroe)		Basic	5	Ally		AERIAL. X-MEN.
 9b407333-e221-495f-a145-e5a9b4034022	Cerebro		Basic	1	Support		LOCATION. X-MEN.
 9b407333-e221-495f-a145-e5a9b4034032	Psychic Assault		Aggression	2	Event		ATTACK. PSIONIC.
 9b407333-e221-495f-a145-e5a9b4034033	Psychic Misdirection		Protection	2	Event		DEFENSE. PSIONIC.
 9b407333-e221-495f-a145-e5a9b4034034	Psychic Kicker		Leadership	0	Event		PSIONIC.
 9b407333-e221-495f-a145-e5a9b4034035	Soul Sisters		Basic	1	Event		
 663cb632-e6c8-4e94-8676-a8e0ca035002	Wolverine's Claws		Hero	-	Upgrade		WEAPON.
-663cb632-e6c8-4e94-8676-a8e0ca035003	Jubilee: Jubilation Lee		Hero	2	Ally		X-MEN.
+663cb632-e6c8-4e94-8676-a8e0ca035003	Jubilee (Jubilation Lee)		Hero	2	Ally		X-MEN.
 663cb632-e6c8-4e94-8676-a8e0ca035004	Adamantium Skeleton		Hero	2	Upgrade		
 663cb632-e6c8-4e94-8676-a8e0ca035005	Berserker Frenzy		Hero	2	Upgrade		CONDITION.
 663cb632-e6c8-4e94-8676-a8e0ca035006	"I Got Better"		Hero	4	Upgrade		SUPERPOWER.
@@ -799,8 +799,8 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint: Qureshi Gupta		Protection	2	Al
 663cb632-e6c8-4e94-8676-a8e0ca035010	Lunging Strike		Hero	3	Event		ATTACK.
 663cb632-e6c8-4e94-8676-a8e0ca035011	Track by Scent		Hero	2	Event		SUPERPOWER. THWART.
 663cb632-e6c8-4e94-8676-a8e0ca035012	Regenerative Healing		Hero	1	Event		SUPERPOWER.
-663cb632-e6c8-4e94-8676-a8e0ca035013	Psylocke: Betsy Braddock		Aggression	4	Ally		PSIONIC. X-MEN.
-663cb632-e6c8-4e94-8676-a8e0ca035014	Sunfire: Shiro Yoshida		Aggression	2	Ally		X-MEN.
+663cb632-e6c8-4e94-8676-a8e0ca035013	Psylocke (Betsy Braddock)		Aggression	4	Ally		PSIONIC. X-MEN.
+663cb632-e6c8-4e94-8676-a8e0ca035014	Sunfire (Shiro Yoshida)		Aggression	2	Ally		X-MEN.
 663cb632-e6c8-4e94-8676-a8e0ca035015	Battle Fury		Aggression	1	Upgrade		CONDITION.
 663cb632-e6c8-4e94-8676-a8e0ca035016	Warrior Skill		Aggression	2	Upgrade		SKILL.
 663cb632-e6c8-4e94-8676-a8e0ca035017	Outta My Way!		Aggression	2	Event		ATTACK.
@@ -818,17 +818,17 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint: Qureshi Gupta		Protection	2	Al
 775cc394-70e0-4a37-bb3b-5a13b4036011	Lightning Bolt		Hero	3	Event		ATTACK. SUPERPOWER.
 775cc394-70e0-4a37-bb3b-5a13b4036012	Flash Freeze		Hero	1	Event		DEFENSE. SUPERPOWER.
 775cc394-70e0-4a37-bb3b-5a13b4036013	Blast of Wind		Hero	3	Event		SUPERPOWER.
-775cc394-70e0-4a37-bb3b-5a13b4036014	Havok: Alex Summers		Leadership	4	Ally		X-MEN.
-775cc394-70e0-4a37-bb3b-5a13b4036015	Mirage: Dani Moonstar		Leadership	3	Ally		PSIONIC. X-MEN.
-775cc394-70e0-4a37-bb3b-5a13b4036016	Gentle: Nezhno Abidemi		Leadership	3	Ally		X-MEN.
-775cc394-70e0-4a37-bb3b-5a13b4036017	Pixie: Megan Gwynn		Leadership	2	Ally		AERIAL. X-MEN.
+775cc394-70e0-4a37-bb3b-5a13b4036014	Havok (Alex Summers)		Leadership	4	Ally		X-MEN.
+775cc394-70e0-4a37-bb3b-5a13b4036015	Mirage (Dani Moonstar)		Leadership	3	Ally		PSIONIC. X-MEN.
+775cc394-70e0-4a37-bb3b-5a13b4036016	Gentle (Nezhno Abidemi)		Leadership	3	Ally		X-MEN.
+775cc394-70e0-4a37-bb3b-5a13b4036017	Pixie (Megan Gwynn)		Leadership	2	Ally		AERIAL. X-MEN.
 775cc394-70e0-4a37-bb3b-5a13b4036018	Uncanny X-Men		Leadership	3	Support		TEAM.
 775cc394-70e0-4a37-bb3b-5a13b4036019	Leadership Skill		Leadership	1	Upgrade		SKILL.
 775cc394-70e0-4a37-bb3b-5a13b4036020	"To Me, My X-Men!"		Leadership	1	Event		TACTIC.
 775cc394-70e0-4a37-bb3b-5a13b4036022	Forge		Basic	2	Ally		X-MEN.
 775cc394-70e0-4a37-bb3b-5a13b4036026	Endurance		Basic	1	Upgrade		CONDITION.
 775cc394-70e0-4a37-bb3b-5a13b4036035	Hangar Bay		Protection	1	Support		LOCATION.
-f3ee0950-3220-468c-9735-3b1dcb037002	Rogue: Anna Marie		Hero	4	Ally		AERIAL. X-MEN.
+f3ee0950-3220-468c-9735-3b1dcb037002	Rogue (Anna Marie)		Hero	4	Ally		AERIAL. X-MEN.
 f3ee0950-3220-468c-9735-3b1dcb037003	The Thieves Guild		Hero	1	Support		GUILD.
 f3ee0950-3220-468c-9735-3b1dcb037004	Gambit's Staff		Hero	1	Upgrade		ITEM. WEAPON.
 f3ee0950-3220-468c-9735-3b1dcb037005	Gambit's Guild Armor		Hero	1	Upgrade		ARMOR. ITEM.
@@ -837,8 +837,8 @@ f3ee0950-3220-468c-9735-3b1dcb037007	Royal Flush		Hero	3	Event		ATTACK. SUPER
 f3ee0950-3220-468c-9735-3b1dcb037008	Natural Agility		Hero	0	Event		DEFENSE. SUPERPOWER.
 f3ee0950-3220-468c-9735-3b1dcb037009	Creole Charmer		Hero	2	Event		THWART.
 f3ee0950-3220-468c-9735-3b1dcb037010	Molecular Acceleration		Hero	-	Resource		
-f3ee0950-3220-468c-9735-3b1dcb037011	Bishop: Lucas Bishop		Justice	3	Ally		X-MEN.
-f3ee0950-3220-468c-9735-3b1dcb037012	Dazzler: Alison Blaire		Justice	4	Ally		X-MEN.
+f3ee0950-3220-468c-9735-3b1dcb037011	Bishop (Lucas Bishop)		Justice	3	Ally		X-MEN.
+f3ee0950-3220-468c-9735-3b1dcb037012	Dazzler (Alison Blaire)		Justice	4	Ally		X-MEN.
 f3ee0950-3220-468c-9735-3b1dcb037013	Operative Skill		Justice	2	Upgrade		SKILL.
 f3ee0950-3220-468c-9735-3b1dcb037015	Breaking and Entering		Justice	2	Event		THWART.
 f3ee0950-3220-468c-9735-3b1dcb037019	Beauty and the Thief		Basic	2	Event		ATTACK. THWART.
@@ -846,16 +846,16 @@ f3ee0950-3220-468c-9735-3b1dcb037021	Mutant Education		Basic	0	Event	
 f3ee0950-3220-468c-9735-3b1dcb037030	War Room		Aggression	1	Support		LOCATION.
 f3ee0950-3220-468c-9735-3b1dcb037031	X-Men Instruction		Basic	0	Event		
 eb5252a6-d631-49b7-a562-b88b23038002	Touched		Hero	-	Upgrade		CONDITION.
-eb5252a6-d631-49b7-a562-b88b23038003	Gambit: Remy LeBeau		Hero	3	Ally		X-MEN.
+eb5252a6-d631-49b7-a562-b88b23038003	Gambit (Remy LeBeau)		Hero	3	Ally		X-MEN.
 eb5252a6-d631-49b7-a562-b88b23038004	Rogue's Jacket		Hero	1	Upgrade		ITEM.
 eb5252a6-d631-49b7-a562-b88b23038005	Goin' Rogue		Hero	2	Event		SUPERPOWER. THWART.
 eb5252a6-d631-49b7-a562-b88b23038006	Southern Cross		Hero	3	Event		ATTACK. SUPERPOWER.
 eb5252a6-d631-49b7-a562-b88b23038007	Energy Transfer		Hero	2	Event		SUPERPOWER.
 eb5252a6-d631-49b7-a562-b88b23038008	Bulletproof Belle		Hero	1	Event		DEFENSE. SUPERPOWER.
 eb5252a6-d631-49b7-a562-b88b23038009	Superpower Adaptation		Hero	0	Event		SUPERPOWER.
-eb5252a6-d631-49b7-a562-b88b23038010	Iceman: Bobby Drake		Protection	3	Ally		X-MEN.
-eb5252a6-d631-49b7-a562-b88b23038011	Karma: Xi'an Coy Manh		Protection	4	Ally		PSIONIC. X-MEN.
-eb5252a6-d631-49b7-a562-b88b23038012	Armor: Hisako Ichiki		Protection	2	Ally		X-MEN.
+eb5252a6-d631-49b7-a562-b88b23038010	Iceman (Bobby Drake)		Protection	3	Ally		X-MEN.
+eb5252a6-d631-49b7-a562-b88b23038011	Karma (Xi'an Coy Manh)		Protection	4	Ally		PSIONIC. X-MEN.
+eb5252a6-d631-49b7-a562-b88b23038012	Armor (Hisako Ichiki)		Protection	2	Ally		X-MEN.
 eb5252a6-d631-49b7-a562-b88b23038014	Judoka Skill		Protection	2	Upgrade		SKILL.
 eb5252a6-d631-49b7-a562-b88b23038016	Not Today!		Protection	1	Event		DEFENSE.
 eb5252a6-d631-49b7-a562-b88b23038018	Moira MacTaggert		Basic	2	Support		PERSONA.
@@ -874,8 +874,8 @@ eb5252a6-d631-49b7-a562-b88b23038028	Med Lab		Leadership	1	Support		LOCATION.
 104e1218-df9b-43f7-93e0-ca2ef9040012	Telekinetic Force Field		Hero	2	Upgrade		PSIONIC. SUPERPOWER.
 104e1218-df9b-43f7-93e0-ca2ef9040013	Temporal Leap		Hero	2	Upgrade		TACTIC.
 104e1218-df9b-43f7-93e0-ca2ef9040014	Caliban		Leadership	3	Ally		PSIONIC. X-FORCE.
-104e1218-df9b-43f7-93e0-ca2ef9040015	Fantomex: Charlie Cluster-7		Leadership	4	Ally		PSIONIC. X-FORCE.
-104e1218-df9b-43f7-93e0-ca2ef9040016	Sunspot: Bobby Da Costa		Leadership	3	Ally		AERIAL. X-FORCE.
+104e1218-df9b-43f7-93e0-ca2ef9040015	Fantomex (Charlie Cluster-7)		Leadership	4	Ally		PSIONIC. X-FORCE.
+104e1218-df9b-43f7-93e0-ca2ef9040016	Sunspot (Bobby Da Costa)		Leadership	3	Ally		AERIAL. X-FORCE.
 104e1218-df9b-43f7-93e0-ca2ef9040017	Mission Planning		Leadership	2	Event		
 104e1218-df9b-43f7-93e0-ca2ef9040018	Call for Backup		Leadership	1	Player Side Scheme		
 104e1218-df9b-43f7-93e0-ca2ef9040019	Lock and Load		Aggression	1	Player Side Scheme		
@@ -883,15 +883,15 @@ eb5252a6-d631-49b7-a562-b88b23038028	Med Lab		Leadership	1	Support		LOCATION.
 104e1218-df9b-43f7-93e0-ca2ef9040021	E.V.A.		Leadership	0	Support		VEHICLE.
 104e1218-df9b-43f7-93e0-ca2ef9040022	Uncanny X-Force		Leadership	2	Support		TEAM.
 104e1218-df9b-43f7-93e0-ca2ef9040023	Mission Leader		Leadership	2	Upgrade		TITLE.
-104e1218-df9b-43f7-93e0-ca2ef9040024	Deadpool: Wade Wilson		Basic	3	Ally		MERCENARY. X-FORCE.
-104e1218-df9b-43f7-93e0-ca2ef9040025	Deathlok: Unit L17		Basic	4	Ally		CYBORG. X-FORCE.
+104e1218-df9b-43f7-93e0-ca2ef9040024	Deadpool (Wade Wilson)		Basic	3	Ally		MERCENARY. X-FORCE.
+104e1218-df9b-43f7-93e0-ca2ef9040025	Deathlok (Unit L17)		Basic	4	Ally		CYBORG. X-FORCE.
 104e1218-df9b-43f7-93e0-ca2ef9040026	Frenemies		Basic	1	Event		THWART.
 104e1218-df9b-43f7-93e0-ca2ef9040027	Build Support		Basic	1	Player Side Scheme		
 104e1218-df9b-43f7-93e0-ca2ef9040028	The Power of the Mind		Basic	-	Resource		
 104e1218-df9b-43f7-93e0-ca2ef9040029	Psimitar		Basic	2	Upgrade		PSIONIC. WEAPON.
 104e1218-df9b-43f7-93e0-ca2ef9040030	Sidearm		Basic	1	Upgrade		WEAPON.
-104e1218-df9b-43f7-93e0-ca2ef9040038	Diamondback: Rachel Leighton		Hero	2	Ally		POSSE.
-104e1218-df9b-43f7-93e0-ca2ef9040039	Outlaw: Inez Temple		Hero	3	Ally		OUTLAW. POSSE.
+104e1218-df9b-43f7-93e0-ca2ef9040038	Diamondback (Rachel Leighton)		Hero	2	Ally		POSSE.
+104e1218-df9b-43f7-93e0-ca2ef9040039	Outlaw (Inez Temple)		Hero	3	Ally		OUTLAW. POSSE.
 104e1218-df9b-43f7-93e0-ca2ef9040040	A Good Workout		Hero	2	Event		
 104e1218-df9b-43f7-93e0-ca2ef9040041	Luck Be a Lady		Hero	1	Event		
 104e1218-df9b-43f7-93e0-ca2ef9040042	Right Place, Right Time		Hero	2	Event		SUPERPOWER. THWART.
@@ -902,19 +902,19 @@ eb5252a6-d631-49b7-a562-b88b23038028	Med Lab		Leadership	1	Support		LOCATION.
 104e1218-df9b-43f7-93e0-ca2ef9040047	Lucky and Good		Hero	1	Upgrade		SUPERPOWER.
 104e1218-df9b-43f7-93e0-ca2ef9040048	Lucky Break		Hero	0	Upgrade		SUPERPOWER.
 104e1218-df9b-43f7-93e0-ca2ef9040049	Probability Field		Hero	2	Upgrade		SUPERPOWER.
-104e1218-df9b-43f7-93e0-ca2ef9040050	Feral: Maria Callasantos		Justice	4	Ally		X-FORCE.
-104e1218-df9b-43f7-93e0-ca2ef9040051	Wolfsbane: Rahne Sinclair		Justice	3	Ally		X-FORCE.
+104e1218-df9b-43f7-93e0-ca2ef9040050	Feral (Maria Callasantos)		Justice	4	Ally		X-FORCE.
+104e1218-df9b-43f7-93e0-ca2ef9040051	Wolfsbane (Rahne Sinclair)		Justice	3	Ally		X-FORCE.
 104e1218-df9b-43f7-93e0-ca2ef9040053	Team Investigation		Justice	2	Event		
 104e1218-df9b-43f7-93e0-ca2ef9040054	Take Out the Guards		Justice	0	Player Side Scheme		
-104e1218-df9b-43f7-93e0-ca2ef9040056	Atlas Bear: Shoon'kwa		Basic	3	Ally		POSSE. WAKANDA.
-104e1218-df9b-43f7-93e0-ca2ef9040057	White Fox: Ami Han		Basic	3	Ally		POSSE.
+104e1218-df9b-43f7-93e0-ca2ef9040056	Atlas Bear (Shoon'kwa)		Basic	3	Ally		POSSE. WAKANDA.
+104e1218-df9b-43f7-93e0-ca2ef9040057	White Fox (Ami Han)		Basic	3	Ally		POSSE.
 104e1218-df9b-43f7-93e0-ca2ef9040058	The Posse		Basic	2	Event		POSSE.
 104e1218-df9b-43f7-93e0-ca2ef9040059	Superpower Training		Basic	1	Player Side Scheme		
 104e1218-df9b-43f7-93e0-ca2ef9040060	Digging Deep		Basic	-	Resource		
 104e1218-df9b-43f7-93e0-ca2ef9040064	Sharpshooter		Basic	2	Upgrade		SKILL.
 104e1218-df9b-43f7-93e0-ca2ef9040204	Hope Summers		Basic	4	Ally		X-FORCE.
 f7eaac08-b459-4b76-a5e4-a87bce041002	Psi-Knife		Hero	-	Upgrade		PSI-ENERGY. WEAPON.
-f7eaac08-b459-4b76-a5e4-a87bce041003	Angel: Warren Worthington III		Hero	3	Ally		AERIAL. X-FORCE.
+f7eaac08-b459-4b76-a5e4-a87bce041003	Angel (Warren Worthington III)		Hero	3	Ally		AERIAL. X-FORCE.
 f7eaac08-b459-4b76-a5e4-a87bce041004	Flurry of Blades		Hero	3	Event		ATTACK. PSIONIC.
 f7eaac08-b459-4b76-a5e4-a87bce041005	Mental Detection		Hero	2	Event		PSIONIC. THWART.
 f7eaac08-b459-4b76-a5e4-a87bce041006	Psionic Redirect		Hero	2	Event		DEFENSE. PSIONIC.
@@ -923,8 +923,8 @@ f7eaac08-b459-4b76-a5e4-a87bce041008	Training Regimen		Hero	1	Support		TRAINI
 f7eaac08-b459-4b76-a5e4-a87bce041009	Martial Arts Training		Hero	1	Upgrade		SKILL.
 f7eaac08-b459-4b76-a5e4-a87bce041010	Psionic Training		Hero	1	Upgrade		SKILL.
 f7eaac08-b459-4b76-a5e4-a87bce041011	Weapons Training		Hero	2	Upgrade		SKILL.
-f7eaac08-b459-4b76-a5e4-a87bce041012	Captain Britain: Brian Braddock		Justice	4	Ally		AERIAL. EXCALIBUR.
-f7eaac08-b459-4b76-a5e4-a87bce041013	Cypher: Doug Ramsey		Justice	2	Ally		X-FORCE.
+f7eaac08-b459-4b76-a5e4-a87bce041012	Captain Britain (Brian Braddock)		Justice	4	Ally		AERIAL. EXCALIBUR.
+f7eaac08-b459-4b76-a5e4-a87bce041013	Cypher (Doug Ramsey)		Justice	2	Ally		X-FORCE.
 f7eaac08-b459-4b76-a5e4-a87bce041015	Upside the Head		Justice	1	Event		SKILL.
 f7eaac08-b459-4b76-a5e4-a87bce041016	Lay the Trap		Justice	1	Player Side Scheme		
 f7eaac08-b459-4b76-a5e4-a87bce041017	Float Like a Butterfly		Justice	2	Upgrade		SKILL.
@@ -935,10 +935,10 @@ f7eaac08-b459-4b76-a5e4-a87bce041022	IPAC		Basic	1	Support		VEHICLE. X-FOR
 f7eaac08-b459-4b76-a5e4-a87bce041023	X-Bunker		Basic	2	Support		LOCATION. X-FORCE.
 f7eaac08-b459-4b76-a5e4-a87bce041024	Telepathy		Basic	1	Upgrade		PSIONIC. SUPERPOWER.
 f7eaac08-b459-4b76-a5e4-a87bce041030	Psi-Bow Attack		Aggression	2	Event		ATTACK. PSIONIC.
-f7eaac08-b459-4b76-a5e4-a87bce041031	Domino: Neena Thurman		Leadership	3	Ally		POSSE. X-FORCE.
+f7eaac08-b459-4b76-a5e4-a87bce041031	Domino (Neena Thurman)		Leadership	3	Ally		POSSE. X-FORCE.
 f7eaac08-b459-4b76-a5e4-a87bce041032	Psi-Flail Strike		Protection	2	Event		ATTACK. PSIONIC.
 f7eaac08-b459-4b76-a5e4-a87bce041033	Telekinesis		Basic	1	Upgrade		PSIONIC. SUPERPOWER.
-cbfcb70f-a855-4068-b02f-816804042002	Psylocke: Betsy Braddock		Hero	3	Ally		PSIONIC. X-FORCE.
+cbfcb70f-a855-4068-b02f-816804042002	Psylocke (Betsy Braddock)		Hero	3	Ally		PSIONIC. X-FORCE.
 cbfcb70f-a855-4068-b02f-816804042003	Adaptive Plummage		Hero	3	Event		AERIAL. ATTACK. THWART.
 cbfcb70f-a855-4068-b02f-816804042004	Aerial Agility		Hero	1	Event		AERIAL. DEFENSE.
 cbfcb70f-a855-4068-b02f-816804042005	Metamorphosis		Hero	2	Event		AERIAL.
@@ -947,16 +947,16 @@ cbfcb70f-a855-4068-b02f-816804042007	Razor Dive		Hero	3	Event		AERIAL. ATTACK
 cbfcb70f-a855-4068-b02f-816804042008	Avian Anatomy		Hero	-	Resource		
 cbfcb70f-a855-4068-b02f-816804042009	Worthington Industries		Hero	1	Support		LOCATION.
 cbfcb70f-a855-4068-b02f-816804042010	Techno-Organic Wings		Hero	3	Upgrade		SUPERPOWER. TECH.
-cbfcb70f-a855-4068-b02f-816804042011	Elixir: Josh Foley		Protection	4	Ally		X-FORCE.
-cbfcb70f-a855-4068-b02f-816804042012	Siryn: Theresa Cassidy		Protection	4	Ally		AERIAL. X-FORCE.
-cbfcb70f-a855-4068-b02f-816804042013	Warpath: James Proudstar		Protection	4	Ally		AERIAL. X-FORCE.
+cbfcb70f-a855-4068-b02f-816804042011	Elixir (Josh Foley)		Protection	4	Ally		X-FORCE.
+cbfcb70f-a855-4068-b02f-816804042012	Siryn (Theresa Cassidy)		Protection	4	Ally		AERIAL. X-FORCE.
+cbfcb70f-a855-4068-b02f-816804042013	Warpath (James Proudstar)		Protection	4	Ally		AERIAL. X-FORCE.
 cbfcb70f-a855-4068-b02f-816804042014	Aerial Intervention		Protection	0	Event		AERIAL.
 cbfcb70f-a855-4068-b02f-816804042015	Ever Vigilant		Protection	2	Event		AERIAL. SKILL.
 cbfcb70f-a855-4068-b02f-816804042016	Taunt		Protection	1	Event		
 cbfcb70f-a855-4068-b02f-816804042017	Render Medical Aid		Protection	0	Player Side Scheme		
 cbfcb70f-a855-4068-b02f-816804042018	Angel's Aerie		Protection	1	Support		LOCATION.
 cbfcb70f-a855-4068-b02f-816804042019	Containment Strategy		Protection	1	Upgrade		TACTIC.
-cbfcb70f-a855-4068-b02f-816804042020	Cannonball: Sam Guthrie		Basic	3	Ally		AERIAL. X-FORCE.
+cbfcb70f-a855-4068-b02f-816804042020	Cannonball (Sam Guthrie)		Basic	3	Ally		AERIAL. X-FORCE.
 cbfcb70f-a855-4068-b02f-816804042022	The Power of Flight		Basic	-	Resource		
 cbfcb70f-a855-4068-b02f-816804042023	Soaring Acrobatics		Basic	2	Upgrade		SKILL.
 cbfcb70f-a855-4068-b02f-816804042029	Bombs Away		Aggression	2	Event		AERIAL. TACTIC.
@@ -964,7 +964,7 @@ cbfcb70f-a855-4068-b02f-816804042030	Eyes in the Sky		Justice	0	Upgrade		AERI
 cbfcb70f-a855-4068-b02f-816804042031	Flying Formation		Leadership	4	Event		AERIAL. TACTIC.
 cbfcb70f-a855-4068-b02f-816804042032	X-Force Recruit		Basic	0	Upgrade		TITLE.
 75156e6a-46eb-4164-9986-e46621043002	X-23's Claws		Hero	-	Upgrade		WEAPON.
-75156e6a-46eb-4164-9986-e46621043003	Honey Badger: Gabby Kinney		Hero	2	Ally		X-MEN.
+75156e6a-46eb-4164-9986-e46621043003	Honey Badger (Gabby Kinney)		Hero	2	Ally		X-MEN.
 75156e6a-46eb-4164-9986-e46621043004	Animal Instinct		Hero	0	Event		SKILL.
 75156e6a-46eb-4164-9986-e46621043005	Claw Mastery		Hero	1	Event		SKILL.
 75156e6a-46eb-4164-9986-e46621043006	Regenerative Longevity		Hero	1	Event		SUPERPOWER.
@@ -974,9 +974,9 @@ cbfcb70f-a855-4068-b02f-816804042032	X-Force Recruit		Basic	0	Upgrade		TITLE.
 75156e6a-46eb-4164-9986-e46621043010	Grim Resolve		Hero	1	Upgrade		CONDITION.
 75156e6a-46eb-4164-9986-e46621043011	Pain Tolerance		Hero	2	Upgrade		SUPERPOWER.
 75156e6a-46eb-4164-9986-e46621043012	Puncture Wound		Hero	0	Upgrade		CONDITION.
-75156e6a-46eb-4164-9986-e46621043013	Boom Boom: Tabitha Smith		Aggression	3	Ally		X-FORCE.
-75156e6a-46eb-4164-9986-e46621043014	Rictor: Julio Richter		Aggression	3	Ally		X-FORCE.
-75156e6a-46eb-4164-9986-e46621043015	Shatterstar: Gaveedra Seven		Aggression	4	Ally		X-FORCE.
+75156e6a-46eb-4164-9986-e46621043013	Boom Boom (Tabitha Smith)		Aggression	3	Ally		X-FORCE.
+75156e6a-46eb-4164-9986-e46621043014	Rictor (Julio Richter)		Aggression	3	Ally		X-FORCE.
+75156e6a-46eb-4164-9986-e46621043015	Shatterstar (Gaveedra Seven)		Aggression	4	Ally		X-FORCE.
 75156e6a-46eb-4164-9986-e46621043016	Critical Hit		Aggression	2	Event		
 75156e6a-46eb-4164-9986-e46621043018	Keep Them Busy		Aggression	1	Player Side Scheme		
 75156e6a-46eb-4164-9986-e46621043019	"Now I'm Mad"		Aggression	1	Upgrade		CONDITION.
@@ -989,7 +989,7 @@ cbfcb70f-a855-4068-b02f-816804042032	X-Force Recruit		Basic	0	Upgrade		TITLE.
 75156e6a-46eb-4164-9986-e46621043038	Predictable Ploy		Justice	2	Event		
 75156e6a-46eb-4164-9986-e46621043039	Rally the Troops		Leadership	0	Player Side Scheme		
 75156e6a-46eb-4164-9986-e46621043040	Anticipated Attack		Protection	2	Event		DEFENSE.
-03bdcc46-22c1-4a7f-8ca7-e212d5044002	Cable: Nathan Summers		Hero	3	Ally		PSIONIC. X-FORCE.
+03bdcc46-22c1-4a7f-8ca7-e212d5044002	Cable (Nathan Summers)		Hero	3	Ally		PSIONIC. X-FORCE.
 03bdcc46-22c1-4a7f-8ca7-e212d5044003	Exhausting Personality		Hero	0	Event		
 03bdcc46-22c1-4a7f-8ca7-e212d5044004	Maximum Effort		Hero	0	Event		ATTACK.
 03bdcc46-22c1-4a7f-8ca7-e212d5044005	Metaknowledge		Hero	1	Event		
@@ -1000,10 +1000,10 @@ cbfcb70f-a855-4068-b02f-816804042032	X-Force Recruit		Basic	0	Upgrade		TITLE.
 03bdcc46-22c1-4a7f-8ca7-e212d5044010	Deadpool's Katana		Hero	2	Upgrade		WEAPON.
 03bdcc46-22c1-4a7f-8ca7-e212d5044011	It Ain't Over...		Hero	1	Upgrade		CONDITION.
 03bdcc46-22c1-4a7f-8ca7-e212d5044012	This Card is Fire		Hero	3	Event		ATTACK.
-03bdcc46-22c1-4a7f-8ca7-e212d5044013	Dogpool: Wilson		'Pool	3	Ally		DEADPOOL CORPS.
-03bdcc46-22c1-4a7f-8ca7-e212d5044014	Headpool: Wade "Shorty" Wilson		'Pool	3	Ally		DEADPOOL CORPS. ZOMBIE.
-03bdcc46-22c1-4a7f-8ca7-e212d5044015	Kidpool: Wade "Tito" Wilson		'Pool	3	Ally		DEADPOOL CORPS.
-03bdcc46-22c1-4a7f-8ca7-e212d5044016	Lady Deadpool: Wanda Wilson		'Pool	4	Ally		DEADPOOL CORPS.
+03bdcc46-22c1-4a7f-8ca7-e212d5044013	Dogpool (Wilson)		'Pool	3	Ally		DEADPOOL CORPS.
+03bdcc46-22c1-4a7f-8ca7-e212d5044014	Headpool (Wade "Shorty" Wilson)		'Pool	3	Ally		DEADPOOL CORPS. ZOMBIE.
+03bdcc46-22c1-4a7f-8ca7-e212d5044015	Kidpool (Wade "Tito" Wilson)		'Pool	3	Ally		DEADPOOL CORPS.
+03bdcc46-22c1-4a7f-8ca7-e212d5044016	Lady Deadpool (Wanda Wilson)		'Pool	4	Ally		DEADPOOL CORPS.
 03bdcc46-22c1-4a7f-8ca7-e212d5044017	Barely a Scratch		'Pool	0	Event		DEFENSE.
 03bdcc46-22c1-4a7f-8ca7-e212d5044018	Cutupper		'Pool	3	Event		ATTACK.
 03bdcc46-22c1-4a7f-8ca7-e212d5044019	Da Bomb		'Pool	6	Event		
@@ -1018,8 +1018,8 @@ cbfcb70f-a855-4068-b02f-816804042032	X-Force Recruit		Basic	0	Upgrade		TITLE.
 03bdcc46-22c1-4a7f-8ca7-e212d5044028	Git Gud		'Pool	2	Upgrade		
 03bdcc46-22c1-4a7f-8ca7-e212d5044029	Healing Factor		'Pool	3	Upgrade		SUPERPOWER.
 03bdcc46-22c1-4a7f-8ca7-e212d5044030	Stick-To-Itiveness		'Pool	2	Upgrade		CONDITION.
-03bdcc46-22c1-4a7f-8ca7-e212d5044043	Bob, Agent of Hydra: Bob Dobalina		'Pool	2	Ally		HYDRA.
-03bdcc46-22c1-4a7f-8ca7-e212d5044044	Negasonic Teenage Warhead: Ellie Phimister		'Pool	4	Ally		PSIONIC. X-FORCE.
+03bdcc46-22c1-4a7f-8ca7-e212d5044043	Bob, Agent of Hydra (Bob Dobalina)		'Pool	2	Ally		HYDRA.
+03bdcc46-22c1-4a7f-8ca7-e212d5044044	Negasonic Teenage Warhead (Ellie Phimister)		'Pool	4	Ally		PSIONIC. X-FORCE.
 03bdcc46-22c1-4a7f-8ca7-e212d5044045	Pandapool		'Pool	4	Ally		DEADPOOL CORPS.
 03bdcc46-22c1-4a7f-8ca7-e212d5044046	Break Time		'Pool	3	Event		
 03bdcc46-22c1-4a7f-8ca7-e212d5044047	Get in Front of Me!		'Pool	1	Event		

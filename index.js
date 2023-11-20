@@ -26,7 +26,7 @@ const cards = _.uniqBy(json, "octgn_id").filter(
 
 const cardData = cards.map((card) => {
   const id = card.octgn_id;
-  const name = [card.name, card.subname].filter((part) => !!part).join(": ");
+  const name = card.subname ? `${card.name} (${card.subname})` : card.name;
   const unique = card.is_unique ? UNIQUE : "";
   const className = card.faction_name;
   const cost =
