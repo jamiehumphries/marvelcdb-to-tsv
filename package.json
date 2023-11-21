@@ -2,7 +2,7 @@
   "private": "true",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "build": "node index.js"
   },
   "dependencies": {
     "lodash": "^4.17.21"
