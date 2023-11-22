@@ -13,13 +13,22 @@ const text = await response.text();
 const json = JSON.parse(text);
 fs.writeFileSync("cards.json", JSON.stringify(json, null, 2));
 
-const excludedSetTypes = ["modular", "villain"];
 const excludedSets = ["invocation", "weather"];
-const excludedTypes = ["hero", "alter_ego"];
+const excludedTypes = [
+  "alter_ego",
+  "attachment",
+  "environment",
+  "hero",
+  "minion",
+  "side_scheme",
+  "treachery",
+];
+
+const campaignTypes = ["modular", "villain"];
 
 const cards = _.uniqBy(json, "octgn_id").filter(
   (card) =>
-    !excludedSetTypes.includes(card.card_set_type_name_code) &&
+    card.octgn_id !== undefined &&
     !excludedSets.includes(card.card_set_code) &&
     !excludedTypes.includes(card.type_code)
 );
@@ -28,7 +37,9 @@ const cardData = cards.map((card) => {
   const id = card.octgn_id;
   const name = card.subname ? `${card.name} (${card.subname})` : card.name;
   const unique = card.is_unique ? UNIQUE : "";
-  const className = card.faction_name;
+  const className = campaignTypes.includes(card.card_set_type_name_code)
+    ? "Campaign"
+    : card.faction_name;
   const cost =
     card.cost === -1 ? "X" : card.cost === undefined ? "-" : card.cost;
   const resources =

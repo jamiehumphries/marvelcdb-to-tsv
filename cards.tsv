@@ -142,6 +142,22 @@ a760b58b-4d79-4810-ad67-9efd9ed0fc85	Press the Advantage		Aggression	1	Event	
 4a3575c8-e08b-4150-aefb-b67043ed6aec	Spider-Man (Peter Parker)		Justice	5	Ally		AVENGER.
 2e61816d-d995-427e-8449-5a6daf7c41c4	Skilled Investigator		Justice	0	Upgrade		SKILL.
 38bd55fd-0e98-4cb5-9375-4ae5d83907d0	Clear the Area		Justice	1	Event		THWART.
+6431e532-58dc-4039-b392-9fb1f79cbacc	Moon Knight (Marc Spector)		Campaign	0	Ally		CAPTIVE. HERO FOR HIRE.
+0da3a078-e9d8-4001-b022-b76bb62bb53d	Shang-Chi		Campaign	0	Ally		CAPTIVE. HERO FOR HIRE.
+33b9c515-1ee4-46b7-a206-c03e2d242a3f	White Tiger (Angela Del Toro)		Campaign	0	Ally		CAPTIVE. HERO FOR HIRE.
+ce4d89b6-b9fd-4055-b011-c7b9b0f2c8c3	Elektra		Campaign	0	Ally		CAPTIVE. HERO FOR HIRE.
+6d64fb73-7866-432e-aca5-23550e09541e	Adrenal Stims		Campaign	0	Upgrade		TECH.
+ddfa379f-7c47-4433-9275-63a99e12b58a	Tactical Scanner		Campaign	0	Upgrade		TECH.
+0fe543b3-89fb-43b4-9c2a-1b612f2ee071	Emergency Teleporter		Campaign	0	Upgrade		TECH.
+46c0e643-71f6-4f3b-98d8-c4bb5bf47c7e	Laser Cannon		Campaign	0	Upgrade		TECH.
+467f77bb-50a7-49a9-ab52-5d1022eacd1a	Basic Thwart Upgrade		Campaign	-	Upgrade		CONDITION.
+e0356e45-bd56-4581-919a-6078b4360e2e	Basic Attack Upgrade		Campaign	-	Upgrade		CONDITION.
+b21d6e83-97bb-4ee4-9dfb-450103ba877a	Basic Defense Upgrade		Campaign	-	Upgrade		CONDITION.
+0ec83227-02c7-4b63-8de2-e9a10bf0fa05	Basic Recovery Upgrade		Campaign	-	Upgrade		CONDITION.
+f4523729-9345-4631-9eb1-336792215768	Zola's Algorithm		Campaign	-	Obligation		
+1eae5e27-e2c0-4744-812d-8e71238f3c90	Medical Emergency		Campaign	-	Obligation		
+c6cbf34a-889e-4f70-919f-a21e691b4efa	Martial Law		Campaign	-	Obligation		
+74c5f483-6f2a-4215-bcd6-4dea93cf8e3f	Anti-Hero Propaganda		Campaign	-	Obligation		
 6ec2c3ed-fc82-454a-8c56-cd93d4926975	Red Dagger		Hero	3	Ally		CHAMPION.
 9f5c7a89-db16-4018-9206-6b3f5060e07e	Big Hands		Hero	2	Event		ATTACK. SUPERPOWER.
 5ccbddf2-b9ee-454c-88e0-038bac272c2e	Sneak By		Hero	2	Event		SKILL. THWART.
@@ -367,6 +383,34 @@ d9ea4e9a-9962-4bba-819e-ab1762dda84b	Looking for Trouble		Aggression	0	Event	
 af617ca4-988e-463e-9f16-036a85f8d4cc	Hand Cannon		Aggression	2	Upgrade		TECH. WEAPON.
 cc3aae31-0bbb-48d7-a0ce-dc175b829784	Groot		Basic	3	Ally		GUARDIAN.
 c47ea801-fa55-4d82-b128-15fa6e474e5a	Booster Boots		Basic	1	Upgrade		ARMOR. TECH.
+7b46fa2d-c6cc-475b-b1f7-1e3ca9f636c9	Brainstorm		Campaign	0	Event		THWART.
+9cfd8bb4-3289-4929-98ee-85e74fa34e58	By Any Means		Campaign	0	Event		ATTACK.
+574108e8-2e25-4462-aeee-d64161a326a6	Contingency Plan		Campaign	0	Event		ATTACK.
+a4928ac3-5a08-4e46-aea2-cd2c688152aa	In Defiance		Campaign	0	Event		
+ef88302e-911e-4d38-9241-f96b9a91f0a3	Calculate the Odds		Campaign	0	Event		
+f0c1e265-0fc9-4cf9-937a-1a1e52290fe8	Creative Solution		Campaign	0	Event		
+9ba526be-b4ab-4650-9d12-eb33554dc0b7	Grapple		Campaign	0	Event		
+6c326a06-502c-424f-b785-b71c0160008c	Wing It		Campaign	0	Event		
+9fee1a0d-4600-46ae-8ecf-95610d86e607	Close Call		Campaign	0	Event		
+ea82010a-1aa2-4ec8-90b4-e0519253f046	Defy Danger		Campaign	1	Event		ATTACK.
+547f4eec-3d2e-4e97-96ad-23d556819c51	In Harm's Way		Campaign	1	Event		THWART.
+a51f9032-e924-45d3-b12a-2623d797b65f	Take the Fight to Them		Campaign	0	Event		
+4124f90a-c425-4094-9a70-ec0b97040d12	Armor Plating		Campaign	0	Upgrade		ARMOR. MILANO MOD.
+9f8705d2-0420-4a02-b070-88d53956f9ae	Heavy Cannon		Campaign	0	Upgrade		MILANO MOD. WEAPON.
+5d0cb7b9-6034-4a79-9a04-d8e54f53f20a	Hyper Thrusters		Campaign	1	Upgrade		MILANO MOD. TECH.
+450b8933-e9da-4946-8833-c36d9928043c	Reactor Core		Campaign	1	Upgrade		MILANO MOD. TECH.
+a3dca9fc-75d9-4d3a-b9cb-a8015b3d6b62	Ardent Resolve		Campaign	0	Event		
+20ec6d9d-ccad-4083-9b36-de21cea5410e	Onrush		Campaign	0	Event		
+0c9f34ec-745d-4f5d-99db-4e00b671f1d3	Safeguard		Campaign	0	Event		
+d0b3f887-729c-42fa-b740-f56158a3db24	Sure Gamble		Campaign	0	Event		
+655df100-7201-4877-9337-35e895c1415a	Cargo Hold		Campaign	0	Upgrade		LOCATION. MILANO MOD.
+fe27f34f-1655-42d4-8c3c-c32a637f6fca	Mounted Laser		Campaign	1	Upgrade		MILANO MOD. WEAPON.
+2d989785-27f6-4ff5-b28c-1697e047cd3f	Navigation Column		Campaign	2	Upgrade		MILANO MOD. TECH.
+ea086da5-0a48-4f95-a9f4-f94fada1e611	Targeting Screen		Campaign	2	Upgrade		MILANO MOD. TECH.
+43f20977-1471-45e6-ab03-d250a86fc43e	Grand Strategy		Campaign	0	Event		
+ebb6add0-8dc7-4b7c-b5a9-71018d17a7cd	Power Unleashed		Campaign	0	Event		
+79611628-417d-4346-af64-7d7ab24235b9	Tried and True		Campaign	0	Event		
+606fb0c1-f857-4f2c-a4da-6c28838629fd	Triple Threat		Campaign	0	Event		
 753f440f-5c74-4c76-9268-b8e293a528f2	Nova Prime (Richard Rider)		Hero	5	Ally		AERIAL. NOVA CORPS.
 081ae9ca-9c97-4741-8e63-ad767e4792a0	Daring Escape		Hero	0	Event		
 967fa445-fa20-4227-80e3-b7ec49ab4984	Gutsy Move		Hero	2	Event		THWART.
@@ -494,6 +538,13 @@ d86cd6b8-da85-49c2-b70a-e6da387a6a95	Charlie-27		Protection	4	Ally		GUARDI
 7f474c15-26fd-4963-b73d-07f58ffa2d4e	Shield Spell		Protection	0	Event		DEFENSE. SPELL.
 86aa5c22-5f26-4e7c-b5c4-ddfbcaf4d476	Preservation		Protection	-	Resource		
 654900ac-f104-4a22-ad0f-4c9322a61a17	Martinex (T'Naga)		Basic	3	Ally		GUARDIAN.
+c9fe2c83-ea8b-479d-a5b2-da837f497576	Shawarma		Campaign	-	Resource		
+29211890-776b-4af4-adbd-bc10acd45762	System Shock		Campaign	-	Obligation		
+0084b4da-a938-4abd-9d2f-b91ed84f95e6	Norn Stone		Campaign	-	Upgrade		ASGARD. ARTIFACT.
+fe77df83-8a7b-4276-a731-a0a86432cdd9	Lady Sif		Campaign	-	Ally		ASGARD. CAPTIVE.
+5dc03f9b-b1d3-49a6-9f00-7ea867084676	Fandral		Campaign	-	Ally		ASGARD. CAPTIVE.
+8b9a9fd3-e243-4443-969f-eb5769874bb5	Hogun		Campaign	-	Ally		ASGARD. CAPTIVE.
+c66be24b-5558-45b2-9c9a-f0cfc883dcd4	Volstagg		Campaign	-	Ally		ASGARD. CAPTIVE.
 40463491-a25f-477c-bbe9-c2843b35d542	Gamora		Hero	3	Ally		GUARDIAN.
 ff61c3f8-4008-4f28-a0cb-41beccf0ef7d	Nebula's Ship		Hero	2	Support		VEHICLE.
 037e5a23-0dc2-432e-94e5-352a81ffd453	Cutthroat Ambition		Hero	1	Upgrade		TECHNIQUE.
@@ -618,6 +669,14 @@ f7f86509-9c5b-44de-ae5c-bb071285dd8a	Ghost-Spider (Gwen Stacy)		Basic	3	Ally	
 56ee5f79-c097-4fe0-83b1-f0ef76f7ad17	Spider-Man (Peter Parker)		Basic	3	Ally		WEB-WARRIOR.
 bc85bac2-a76b-4cbf-a9ef-866ab34cb28e	Government Liaison		Basic	2	Support		PERSONA. S.H.I.E.L.D.
 36770b85-5114-4c14-aa24-ff41116ed4a5	Sky-Destroyer		Basic	3	Support		S.H.I.E.L.D. VEHICLE.
+01273b97-c9bf-49f8-bab7-cfc2ad127f3a	Compact Darts		Campaign	-	Upgrade		S.H.I.E.L.D. TECH.
+cff4327f-deae-46a2-97a4-2eae84eef5ed	Impact-Dampening Suit		Campaign	-	Upgrade		S.H.I.E.L.D. TECH.
+6f9ce064-3f42-409c-9f2b-d657f4fda83e	Laser Googles		Campaign	-	Upgrade		S.H.I.E.L.D. TECH.
+cd5f15c5-1d35-4582-b664-5b03cb7e44f2	Propulsion Gauntlet		Campaign	-	Upgrade		S.H.I.E.L.D. TECH.
+a9fcdf47-3a27-465b-a751-2d5d462d4cdd	Retinal Display		Campaign	-	Upgrade		S.H.I.E.L.D. TECH.
+0862fbbf-4b8b-4cf9-80cd-cb00efddcbbb	Shock Knuckles		Campaign	-	Upgrade		S.H.I.E.L.D. TECH.
+83a5b8aa-b0a8-4ee7-a1ea-f34ad22e6737	Wave Bracers		Campaign	-	Upgrade		S.H.I.E.L.D. TECH.
+9b19aec4-ff1e-4b26-b85d-17c15f4ba81f	Wrist Navigators		Campaign	-	Upgrade		S.H.I.E.L.D. TECH.
 f8a7865d-a43d-4b6f-bf29-5c9039b973cc	Venom (Eddie Brock)		Basic	4	Ally		SYMBIOTE.
 dc32c7e5-bed3-4bc3-a76b-eddd0d7d844a	Symbiote Suit		Basic	4	Upgrade		SYMBIOTE.
 27ca3f3d-d6c5-44e1-a654-355da5efb679	Ms. Marvel (Kamala Khan)		Hero	3	Ally		CHAMPION. INHUMAN.
@@ -739,6 +798,26 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint (Qureshi Gupta)		Protection	2	A
 47d34c5d-5319-45a9-a2d6-1fb975032048	Colossus		Basic	4	Ally		X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032049	X-Mansion		Basic	2	Support		LOCATION. X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032051	Ready to Rumble		Basic	1	Upgrade		CONDITION.
+47d34c5d-5319-45a9-a2d6-1fb975032176	Coup de Grâce		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032177	Swagger		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032178	Brazen Defense		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032179	Ferocious Attack		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032180	War Cry		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032181	Coup de Grâce		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032182	Compassion		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032183	Group Assault		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032184	Shock and Awe		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032185	Improvisation		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032186	Swagger		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032187	Surprise!		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032188	Heroic Intervention		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032189	Determined Defense		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032190	Bodyguard		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032191	Surprise!		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032192	Compassion		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032193	Rescue Operation		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032194	Mentorship		Campaign	0	Upgrade		SKILL.
+47d34c5d-5319-45a9-a2d6-1fb975032195	Fortitude		Campaign	0	Upgrade		SKILL.
 7da2a29c-3abd-4e3b-b36e-9f140c033002	Phoenix (Jean Grey)		Hero	3	Ally		PSIONIC. X-MEN.
 7da2a29c-3abd-4e3b-b36e-9f140c033003	Ruby Quartz Visor		Hero	2	Upgrade		ITEM.
 7da2a29c-3abd-4e3b-b36e-9f140c033004	Field Commander		Hero	1	Upgrade		TITLE.
@@ -912,6 +991,14 @@ eb5252a6-d631-49b7-a562-b88b23038028	Med Lab		Leadership	1	Support		LOCATION.
 104e1218-df9b-43f7-93e0-ca2ef9040059	Superpower Training		Basic	1	Player Side Scheme		
 104e1218-df9b-43f7-93e0-ca2ef9040060	Digging Deep		Basic	-	Resource		
 104e1218-df9b-43f7-93e0-ca2ef9040064	Sharpshooter		Basic	2	Upgrade		SKILL.
+104e1218-df9b-43f7-93e0-ca2ef9040190	Assemble the Team		Campaign	-	Player Side Scheme		
+104e1218-df9b-43f7-93e0-ca2ef9040191	Establish Safehouse		Campaign	-	Player Side Scheme		
+104e1218-df9b-43f7-93e0-ca2ef9040192	Gear Up		Campaign	-	Player Side Scheme		
+104e1218-df9b-43f7-93e0-ca2ef9040193	Mission Prep		Campaign	-	Player Side Scheme		
+104e1218-df9b-43f7-93e0-ca2ef9040194	Practice Maneuvers		Campaign	-	Player Side Scheme		
+104e1218-df9b-43f7-93e0-ca2ef9040195	Prepare Defenses		Campaign	-	Player Side Scheme		
+104e1218-df9b-43f7-93e0-ca2ef9040196	Pouches		Campaign	-	Resource		
+104e1218-df9b-43f7-93e0-ca2ef9040197	Safehouse		Campaign	4	Support		LOCATION.
 104e1218-df9b-43f7-93e0-ca2ef9040204	Hope Summers		Basic	4	Ally		X-FORCE.
 f7eaac08-b459-4b76-a5e4-a87bce041002	Psi-Knife		Hero	-	Upgrade		PSI-ENERGY. WEAPON.
 f7eaac08-b459-4b76-a5e4-a87bce041003	Angel (Warren Worthington III)		Hero	3	Ally		AERIAL. X-FORCE.
