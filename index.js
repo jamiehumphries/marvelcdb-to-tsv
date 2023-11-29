@@ -7,6 +7,18 @@ const PHYSICAL = "";
 const WILD = "";
 const UNIQUE = "";
 
+const RESOURCE_SYMBOLS = {
+  "⚡": ENERGY,
+  "🧪": MENTAL,
+  "👊🏾": PHYSICAL,
+  "✨": WILD,
+};
+
+const resourceOrderExceptions = {
+  // Shawarma
+  "c9fe2c83-ea8b-479d-a5b2-da837f497576": ["👊🏾", "🧪", "⚡"],
+};
+
 const request = new Request("https://marvelcdb.com/api/public/cards/");
 const response = await fetch(request);
 const text = await response.text();
@@ -42,16 +54,50 @@ const cardData = cards.map((card) => {
     : card.faction_name;
   const cost =
     card.cost === -1 ? "X" : card.cost === undefined ? "-" : card.cost;
-  const resources =
-    ENERGY.repeat(card.resource_energy) +
-    MENTAL.repeat(card.resource_mental) +
-    PHYSICAL.repeat(card.resource_physical) +
-    WILD.repeat(card.resource_wild);
+  const resources = getResourceColumns(card);
   const type = card.type_name;
   const traits = (card.traits || "").toUpperCase();
 
-  return [id, name, unique, className, cost, type, resources, traits];
+  return [id, name, unique, className, cost, type, ...resources, traits];
 });
+
+function getResourceColumns(card) {
+  const resources = getResources(card);
+
+  const filter = resources.join("");
+  const symbol = (i) => RESOURCE_SYMBOLS[resources[i]];
+
+  switch (resources.length) {
+    case 0:
+      return [filter, "", "", "", "", ""];
+    case 1:
+      return [filter, "", "", symbol(0), "", ""];
+    case 2:
+      return [filter, "", symbol(0), "", symbol(1), ""];
+    case 3:
+      return [filter, symbol(0), "", symbol(1), "", symbol(2)];
+    default:
+      throw new Error(
+        `Could not handle "${card.name}", which has ${resources.length} resources.`
+      );
+  }
+}
+
+function getResources(card) {
+  const exception = resourceOrderExceptions[card.octgn_id];
+  if (exception) {
+    return exception;
+  }
+
+  const type = (emoji, count = 0) => Array(count).fill(emoji);
+
+  return [
+    ...type("⚡", card.resource_energy),
+    ...type("🧪", card.resource_mental),
+    ...type("👊🏾", card.resource_physical),
+    ...type("✨", card.resource_wild),
+  ];
+}
 
 const rows = cardData.map((row) => row.join("\t"));
 const tsv = rows.join("\n");
