@@ -14,7 +14,7 @@ const RESOURCE_SYMBOLS = {
   "✨": WILD,
 };
 
-const resourceOrderExceptions = {
+const resourceOrderSpecialCases = {
   // Shawarma
   "c9fe2c83-ea8b-479d-a5b2-da837f497576": ["👊🏾", "🧪", "⚡"],
 };
@@ -59,49 +59,63 @@ const cardData = cards.map((card) => {
     : card.cost === undefined
     ? "-"
     : card.cost;
-  const resources = getResourceColumns(card);
   const type = card.type_name;
+  const resources = getResourceColumns(card);
   const traits = (card.traits || "").toUpperCase();
-
   return [id, name, unique, className, cost, type, ...resources, traits];
 });
 
 function getResourceColumns(card) {
   const resources = getResources(card);
-
-  const filter = resources.join("");
-  const symbol = (i) => RESOURCE_SYMBOLS[resources[i]];
-
-  switch (resources.length) {
-    case 0:
-      return [filter, "", "", "", "", ""];
-    case 1:
-      return [filter, "", "", symbol(0), "", ""];
-    case 2:
-      return [filter, "", symbol(0), "", symbol(1), ""];
-    case 3:
-      return [filter, symbol(0), "", symbol(1), "", symbol(2)];
-    default:
-      throw new Error(
-        `Could not handle "${card.name}", which has ${resources.length} resources.`
-      );
+  if (resources.length > 3) {
+    throw new Error(
+      `Could not handle "${card.name}", which has ${resources.length} resources.`
+    );
   }
+  const filterColumn = getResourceFilterColumn(resources);
+  const symbolColumns = getResourceSymbolColumns(resources);
+  return filterColumn.concat(symbolColumns);
 }
 
 function getResources(card) {
-  const exception = resourceOrderExceptions[card.octgn_id];
-  if (exception) {
-    return exception;
+  const specialCase = resourceOrderSpecialCases[card.octgn_id];
+  if (specialCase) {
+    return specialCase;
   }
-
   const type = (emoji, count = 0) => Array(count).fill(emoji);
-
   return [
     ...type("⚡", card.resource_energy),
     ...type("🧪", card.resource_mental),
     ...type("👊🏾", card.resource_physical),
     ...type("✨", card.resource_wild),
   ];
+}
+
+function getResourceFilterColumn(resources) {
+  return [resources.join("")];
+}
+
+function getResourceSymbolColumns(resources) {
+  // Symbol columns should be laid out as:
+  // 0 resources | | | | | |
+  // 1 resource  | | |#| | |
+  // 2 resources | |#| |#| |
+  // 3 resources |#| |#| |#|
+
+  const columns = resources.flatMap((resource, i) => {
+    const symbol = RESOURCE_SYMBOLS[resource];
+    return i === 0 ? [symbol] : ["", symbol];
+  });
+
+  while (columns.length < 5) {
+    if (columns.length % 2 === 1) {
+      columns.push("");
+    } else {
+      columns.unshift("");
+    }
+  }
+
+  return columns;
 }
 
 const rows = cardData.map((row) => row.join("\t"));
