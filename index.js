@@ -7,6 +7,8 @@ const PHYSICAL = "";
 const WILD = "";
 const UNIQUE = "";
 
+const MAX_RESOURCES = 3;
+
 const RESOURCE_SYMBOLS = {
   "⚡": ENERGY,
   "🧪": MENTAL,
@@ -67,7 +69,7 @@ const cardData = cards.map((card) => {
 
 function getResourceColumns(card) {
   const resources = getResources(card);
-  if (resources.length > 3) {
+  if (resources.length > MAX_RESOURCES) {
     throw new Error(
       `Could not handle "${card.name}", which has ${resources.length} resources.`
     );
@@ -107,7 +109,8 @@ function getResourceSymbolColumns(resources) {
     return i === 0 ? [symbol] : ["", symbol];
   });
 
-  while (columns.length < 5) {
+  const numberOfColumns = MAX_RESOURCES * 2 - 1;
+  while (columns.length < numberOfColumns) {
     if (columns.length % 2 === 1) {
       columns.push("");
     } else {
