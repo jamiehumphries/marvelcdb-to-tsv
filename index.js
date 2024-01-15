@@ -38,6 +38,8 @@ const excludedTypes = [
 
 const campaignTypes = ["modular", "villain"];
 
+const cardsWithCostX = ["Speed Cyclone", "Lethal Intent"];
+
 const cards = _.uniqBy(json, "octgn_id").filter(
   (card) =>
     card.octgn_id !== undefined &&
@@ -52,8 +54,11 @@ const cardData = cards.map((card) => {
   const className = campaignTypes.includes(card.card_set_type_name_code)
     ? "Campaign"
     : card.faction_name;
-  const cost =
-    card.cost === -1 ? "X" : card.cost === undefined ? "-" : card.cost;
+  const cost = cardsWithCostX.includes(card.name)
+    ? "X"
+    : card.cost === undefined
+    ? "-"
+    : card.cost;
   const resources = getResourceColumns(card);
   const type = card.type_name;
   const traits = (card.traits || "").toUpperCase();

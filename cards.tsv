@@ -428,7 +428,7 @@ f060c4ad-560e-4835-8a31-876c90e215c6	Beta Ray Bill		Leadership	5	Ally	👊�
 2dcb5816-8243-424e-9ce5-d273c17d0589	Target Practice		Leadership	0	Support	🧪						SKILL.
 3e1499c5-0697-4b33-bade-3fab579af777	Laser Blaster		Leadership	1	Upgrade	👊🏾						TECH. WEAPON.
 79bc8bc5-cee6-45aa-b364-9f5675e2f038	Cosmo		Basic	2	Ally	🧪						GUARDIAN.
-a4930c6e-5043-43a7-8593-bd8569f9aee5	C.I.T.T.		Basic	2	Support	✨						VEHICLE.
+a4930c6e-5043-43a7-8593-bd8569f9aee5	C.I.T.T.		Basic	2	Support	✨						VEHICLE.
 ec856ad7-0f1c-46f4-8367-52103f36f0b2	Knowhere		Basic	2	Support	⚡						LOCATION.
 1eeac375-810b-4d71-b299-eb0cb44f9bc9	Pulse Grenade		Basic	2	Upgrade	⚡						WEAPON.
 1125fdb4-41ac-4207-b147-5ef9d28ec4c5	Dive Bomb		Aggression	4	Event	👊🏾						AERIAL. ATTACK.
@@ -553,7 +553,7 @@ f17173b9-5fd1-4e29-a87d-8b8a9a9715b9	Evasive Maneuvering		Hero	1	Upgrade	⚡			�
 337cd714-5cf1-4741-a947-e40f4a62a3a3	Weapons Master		Hero	1	Upgrade	👊🏾						TECHNIQUE.
 9d6baaa7-609c-4bca-b1ea-b672cde4169a	Wide Stance		Hero	1	Upgrade	⚡						TECHNIQUE.
 aaaef31d-d4ed-4806-8962-f6ebc74ca1ff	Combat Ready		Hero	0	Event	👊🏾						SKILL.
-a7da2de1-575e-40c7-8999-0167d32074cf	Lethal Intent		Hero	0	Event	🧪						
+a7da2de1-575e-40c7-8999-0167d32074cf	Lethal Intent		Hero	X	Event	🧪						
 fbb949b6-7701-4d07-bf8d-55107e42331d	Eros		Justice	2	Ally	🧪						GUARDIAN.
 aa271dac-d953-4956-ae37-bda1bfaa053e	Wraith (Zak-Del)		Justice	3	Ally	👊🏾						GUARDIAN.
 1145c7a1-6fbd-469a-9850-27306021dd14	Venom (Flash Thompson)		Justice	4	Ally	⚡						GUARDIAN.
