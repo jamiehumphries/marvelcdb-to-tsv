@@ -21,10 +21,26 @@ const resourceOrderSpecialCases = {
   "c9fe2c83-ea8b-479d-a5b2-da837f497576": ["👊🏾", "🧪", "⚡"],
 };
 
+const cardIdsMissingFromFullList = [
+  // Hero for Hire captive allies
+  "04097", // Moon Knight
+  "04098", // Shang-Chi
+  "04099", // White Tiger
+  "04100", // Elektra
+];
+
 const request = new Request("https://marvelcdb.com/api/public/cards/");
 const response = await fetch(request);
 const text = await response.text();
 const json = JSON.parse(text);
+
+for (const id of cardIdsMissingFromFullList) {
+  const request = new Request(`https://marvelcdb.com/api/public/card/${id}`);
+  const response = await fetch(request);
+  const text = await response.text();
+  json.push(JSON.parse(text));
+}
+
 fs.writeFileSync("cards.json", JSON.stringify(json, null, 2));
 
 const excludedSets = ["invocation", "weather"];
