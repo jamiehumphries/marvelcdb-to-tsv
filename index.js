@@ -63,12 +63,16 @@ const campaignTypes = ["modular", "villain"];
 
 const cardsWithCostX = ["Speed Cyclone", "Lethal Intent"];
 
-const cards = _.uniqBy(json, "octgn_id").filter(
-  (card) =>
-    card.octgn_id !== undefined &&
-    !excludedSets.includes(card.card_set_code) &&
-    !excludedTypes.includes(card.type_code)
-);
+const cards = _(json)
+  .sortBy("code")
+  .uniqBy("octgn_id")
+  .value()
+  .filter(
+    (card) =>
+      card.octgn_id !== undefined &&
+      !excludedSets.includes(card.card_set_code) &&
+      !excludedTypes.includes(card.type_code)
+  );
 
 const cardData = cards.map((card) => {
   const id = card.octgn_id;
