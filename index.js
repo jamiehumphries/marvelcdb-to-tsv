@@ -143,5 +143,5 @@ function getResourceSymbolColumns(resources) {
 }
 
 const rows = cardData.map((row) => row.join("\t").trimEnd());
-const tsv = rows.join("\n");
+const tsv = rows.join("\n") + "\n";
 fs.writeFileSync("cards.tsv", tsv);
