@@ -22,11 +22,13 @@ const resourceOrderSpecialCases = {
 };
 
 const cardIdsMissingFromFullList = [
-  // Hero for Hire captive allies
-  "04097", // Moon Knight
-  "04098", // Shang-Chi
-  "04099", // White Tiger
-  "04100", // Elektra
+  // The Rise of Red Skull
+  { id: "04097" }, // Moon Knight
+  { id: "04098" }, // Shang-Chi
+  { id: "04099" }, // White Tiger
+  { id: "04100" }, // Elektra
+  // MojoMania
+  { id: "39071", is_unique: true, resource_wild: 1, traits: "X-Men." }, // Longshot
 ];
 
 const request = new Request("https://marvelcdb.com/api/public/cards/");
@@ -34,11 +36,14 @@ const response = await fetch(request);
 const text = await response.text();
 const json = JSON.parse(text);
 
-for (const id of cardIdsMissingFromFullList) {
+for (const card of cardIdsMissingFromFullList) {
+  const { id, ...otherProps } = card;
   const request = new Request(`https://marvelcdb.com/api/public/card/${id}`);
   const response = await fetch(request);
   const text = await response.text();
-  json.push(JSON.parse(text));
+  const cardJson = JSON.parse(text);
+  Object.assign(cardJson, otherProps);
+  json.push(cardJson);
 }
 
 fs.writeFileSync("cards.json", JSON.stringify(json, null, 2));
