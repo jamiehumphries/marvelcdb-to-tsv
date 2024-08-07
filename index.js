@@ -1,5 +1,6 @@
 import fs from "fs";
 import _ from "lodash";
+import path from "path";
 
 const ENERGY = "";
 const MENTAL = "";
@@ -21,44 +22,34 @@ const resourceOrderSpecialCases = {
   "c9fe2c83-ea8b-479d-a5b2-da837f497576": ["👊🏾", "🧪", "⚡"],
 };
 
-const cardIdsMissingFromFullList = [
-  // The Rise of Red Skull
-  "04097", // Moon Knight
-  "04098", // Shang-Chi
-  "04099", // White Tiger
-  "04100", // Elektra
-  // MojoMania
-  "39071", // Longshot
-];
-
-// prettier-ignore
-const corrections = {
-  // Lethal Intent (Nebula)
-  "22010": { cost: -1 },
-  // Longshot (MojoMania)
-  "39071": { is_unique: true, resource_wild: 1, traits: "X-Men." },
+const FACTION_NAMES = {
+  hero: "Hero",
+  aggression: "Aggression",
+  justice: "Justice",
+  leadership: "Leadership",
+  protection: "Protection",
+  pool: "'Pool",
+  basic: "Basic",
+  campaign: "Campaign",
+  encounter: "Campaign",
 };
 
-const request = new Request("https://marvelcdb.com/api/public/cards/");
-const response = await fetch(request);
-const text = await response.text();
-const json = JSON.parse(text);
+const TYPE_NAMES = {
+  ally: "Ally",
+  event: "Event",
+  obligation: "Obligation",
+  player_side_scheme: "Player Side Scheme",
+  resource: "Resource",
+  support: "Support",
+  upgrade: "Upgrade",
+};
 
-for (const code of cardIdsMissingFromFullList) {
-  const request = new Request(`https://marvelcdb.com/api/public/card/${code}`);
-  const response = await fetch(request);
-  const text = await response.text();
-  json.push(JSON.parse(text));
-}
-
-for (const [code, correction] of Object.entries(corrections)) {
-  const card = json.find((card) => card.code === code);
-  const before = JSON.stringify(card);
-  Object.assign(card, correction);
-  const after = JSON.stringify(card);
-  if (before === after) {
-    console.warn(`No corrections were necessary for ${card.name} (${code})`);
-  }
+let json = [];
+const packsDirectory = "./data/pack";
+for (const filename of fs.readdirSync(packsDirectory)) {
+  const filepath = path.resolve(packsDirectory, filename);
+  const content = fs.readFileSync(filepath);
+  json = json.concat(JSON.parse(content));
 }
 
 fs.writeFileSync("cards.json", JSON.stringify(json, null, 2));
@@ -67,39 +58,39 @@ const excludedSets = ["invocation", "weather"];
 const excludedTypes = [
   "alter_ego",
   "attachment",
+  "encounter",
   "environment",
   "hero",
+  "main_scheme",
   "minion",
   "side_scheme",
   "treachery",
+  "villain",
 ];
 
-const campaignTypes = ["modular", "villain"];
-
 const cards = _(json)
-  .sortBy("code")
-  .uniqBy("octgn_id")
-  .value()
-  .filter(
+  .reject(
     (card) =>
-      card.octgn_id !== undefined &&
-      !excludedSets.includes(card.card_set_code) &&
-      !excludedTypes.includes(card.type_code)
-  );
+      card.duplicate_of !== undefined ||
+      excludedSets.includes(card.set_code) ||
+      excludedTypes.includes(card.type_code) ||
+      (card.type_code === "obligation" && card.faction_code !== "campaign")
+  )
+  .uniqBy("octgn_id")
+  .sortBy("code")
+  .value();
 
 const cardData = cards.map((card) => {
   const id = card.octgn_id;
   const name = card.subname ? `${card.name} (${card.subname})` : card.name;
   const unique = card.is_unique ? UNIQUE : "";
-  const className = campaignTypes.includes(card.card_set_type_name_code)
-    ? "Campaign"
-    : card.faction_name;
+  const faction = FACTION_NAMES[card.faction_code] || card.faction_code;
   const cost =
     card.cost === -1 ? "X" : card.cost === undefined ? "-" : card.cost;
-  const type = card.type_name;
+  const type = TYPE_NAMES[card.type_code] || card.type_code;
   const resources = getResourceColumns(card);
   const traits = (card.traits || "").toUpperCase();
-  return [id, name, unique, className, cost, type, ...resources, traits];
+  return [id, name, unique, faction, cost, type, ...resources, traits];
 });
 
 function getResourceColumns(card) {

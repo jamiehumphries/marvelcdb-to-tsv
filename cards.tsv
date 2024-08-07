@@ -383,6 +383,7 @@ d9ea4e9a-9962-4bba-819e-ab1762dda84b	Looking for Trouble		Aggression	0	Event	�
 af617ca4-988e-463e-9f16-036a85f8d4cc	Hand Cannon		Aggression	2	Upgrade	👊🏾						TECH. WEAPON.
 cc3aae31-0bbb-48d7-a0ce-dc175b829784	Groot		Basic	3	Ally	✨						GUARDIAN.
 c47ea801-fa55-4d82-b128-15fa6e474e5a	Booster Boots		Basic	1	Upgrade	🧪						ARMOR. TECH.
+9605100e-7f01-436a-85aa-4788d53aff5e	Milano		Campaign	-	Support							AERIAL. VEHICLE.
 7b46fa2d-c6cc-475b-b1f7-1e3ca9f636c9	Brainstorm		Campaign	0	Event	✨						THWART.
 9cfd8bb4-3289-4929-98ee-85e74fa34e58	By Any Means		Campaign	0	Event	✨						ATTACK.
 574108e8-2e25-4462-aeee-d64161a326a6	Contingency Plan		Campaign	0	Event	✨						ATTACK.
@@ -538,6 +539,8 @@ d86cd6b8-da85-49c2-b70a-e6da387a6a95	Charlie-27		Protection	4	Ally	👊🏾		
 7f474c15-26fd-4963-b73d-07f58ffa2d4e	Shield Spell		Protection	0	Event	⚡						DEFENSE. SPELL.
 86aa5c22-5f26-4e7c-b5c4-ddfbcaf4d476	Preservation		Protection	-	Resource	✨			
 654900ac-f104-4a22-ad0f-4c9322a61a17	Martinex (T'Naga)		Basic	3	Ally	⚡						GUARDIAN.
+14f09cf3-dc31-409b-842c-edf0de59638a	Odin		Campaign	0	Ally							ASGARD. CAPTIVE.
+075dd8d0-7264-4c11-8540-f5c5f22ebeb3	Cosmo		Campaign	-	Ally							GUARDIAN.
 c9fe2c83-ea8b-479d-a5b2-da837f497576	Shawarma		Campaign	-	Resource	👊🏾🧪⚡					
 29211890-776b-4af4-adbd-bc10acd45762	System Shock		Campaign	-	Obligation
 0084b4da-a938-4abd-9d2f-b91ed84f95e6	Norn Stone		Campaign	-	Upgrade							ASGARD. ARTIFACT.
@@ -738,6 +741,8 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint (Qureshi Gupta)		Protection	2	A
 5f189d1d-2352-41cc-b285-a4c687030020	Scarlet Spider (Kaine)		Basic	4	Ally	🧪						WEB-WARRIOR.
 5f189d1d-2352-41cc-b285-a4c687030021	SP//dr (Peni Parker)		Basic	2	Ally	⚡						WEB-WARRIOR.
 5f189d1d-2352-41cc-b285-a4c687030029	Warrior of the Great Web		Basic	1	Upgrade	⚡						TITLE.
+5b7da011-412e-452a-9edd-24618a031001	SP//dr Suit		Hero	-	Support							INACTIVE. TECH.
+5b7da011-412e-452a-9edd-24618a031002	SP//dr		Hero	-	Upgrade	✨						INTERFACE. PILOT.
 5b7da011-412e-452a-9edd-24618a031003	VEN#m (Addy Brock)		Hero	4	Ally	⚡			
 5b7da011-412e-452a-9edd-24618a031004	All Systems Go!		Hero	1	Event	⚡			
 5b7da011-412e-452a-9edd-24618a031005	Rapid Deployment		Hero	2	Event	🧪						THWART.
@@ -796,6 +801,15 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint (Qureshi Gupta)		Protection	2	A
 47d34c5d-5319-45a9-a2d6-1fb975032047	Aggressive Energy		Aggression	-	Resource	✨			
 47d34c5d-5319-45a9-a2d6-1fb975032048	Colossus		Basic	4	Ally	👊🏾						X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032049	X-Mansion		Basic	2	Support	🧪						LOCATION. X-MEN.
+47d34c5d-5319-45a9-a2d6-1fb975032066	Robert Kelly		Campaign	0	Ally							SENATOR.
+47d34c5d-5319-45a9-a2d6-1fb975032088	Jubilee (Jubilation Lee)		Campaign	0	Ally	✨						X-MEN.
+47d34c5d-5319-45a9-a2d6-1fb975032089	Rictor (Julio Richter)		Campaign	2	Ally	✨						CAPTIVE. X-MEN.
+47d34c5d-5319-45a9-a2d6-1fb975032090	Boom Boom (Tabitha Smith)		Campaign	2	Ally	✨						CAPTIVE. X-MEN.
+47d34c5d-5319-45a9-a2d6-1fb975032091	Cannonball (Sam Guthrie)		Campaign	2	Ally	✨						CAPTIVE. X-MEN.
+47d34c5d-5319-45a9-a2d6-1fb975032092	Wolfsbane (Rahne Sinclair)		Campaign	2	Ally	✨						CAPTIVE. X-MEN.
+47d34c5d-5319-45a9-a2d6-1fb975032171	Metro P.D.		Campaign	-	Support	🧪						PERSONA.
+47d34c5d-5319-45a9-a2d6-1fb975032172	Magneto (Erik Lehnsherr)		Campaign	-	Ally	✨						BROTHERHOOD OF MUTANTS.
+47d34c5d-5319-45a9-a2d6-1fb975032174	Reactive Defense		Campaign	-	Obligation
 47d34c5d-5319-45a9-a2d6-1fb975032176	Coup de Grâce		Campaign	0	Upgrade	✨						SKILL.
 47d34c5d-5319-45a9-a2d6-1fb975032177	Swagger		Campaign	0	Upgrade	✨						SKILL.
 47d34c5d-5319-45a9-a2d6-1fb975032178	Brazen Defense		Campaign	0	Upgrade	✨						SKILL.
@@ -986,6 +1000,8 @@ eb5252a6-d631-49b7-a562-b88b23038028	Med Lab		Leadership	1	Support	🧪						
 104e1218-df9b-43f7-93e0-ca2ef9040059	Superpower Training		Basic	1	Player Side Scheme	⚡			
 104e1218-df9b-43f7-93e0-ca2ef9040060	Digging Deep		Basic	-	Resource	✨			
 104e1218-df9b-43f7-93e0-ca2ef9040064	Sharpshooter		Basic	2	Upgrade	⚡						SKILL.
+104e1218-df9b-43f7-93e0-ca2ef9040079	Morlock		Campaign	-	Ally	🧪						MORLOCK. MUTANT.
+104e1218-df9b-43f7-93e0-ca2ef9040130	Hope Summers		Campaign	-	Ally	🧪						PSIONIC. X-FORCE. X-MEN.
 104e1218-df9b-43f7-93e0-ca2ef9040190	Assemble the Team		Campaign	-	Player Side Scheme
 104e1218-df9b-43f7-93e0-ca2ef9040191	Establish Safehouse		Campaign	-	Player Side Scheme
 104e1218-df9b-43f7-93e0-ca2ef9040192	Gear Up		Campaign	-	Player Side Scheme
