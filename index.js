@@ -54,7 +54,6 @@ for (const filename of fs.readdirSync(packsDirectory)) {
 
 fs.writeFileSync("cards.json", JSON.stringify(json, null, 2));
 
-const excludedSets = ["invocation", "weather"];
 const excludedTypes = [
   "alter_ego",
   "attachment",
@@ -68,12 +67,45 @@ const excludedTypes = [
   "villain",
 ];
 
+const excludedSets = ["invocation", "weather"];
+
+const excludedCards = [
+  // Rise of the Red Skull
+  "f4523729-9345-4631-9eb1-336792215768", // Zola's Algorithm
+  "1eae5e27-e2c0-4744-812d-8e71238f3c90", // Medical Emergency
+  "c6cbf34a-889e-4f70-919f-a21e691b4efa", // Martial Law
+  "74c5f483-6f2a-4215-bcd6-4dea93cf8e3f", // Anti-Hero Propaganda
+  // Galaxy's Most Wanted
+  "9605100e-7f01-436a-85aa-4788d53aff5e", // Milano
+  // The Mad Titan's Shadow
+  "fe77df83-8a7b-4276-a731-a0a86432cdd9", // Lady Sif
+  "5dc03f9b-b1d3-49a6-9f00-7ea867084676", // Fandral
+  "8b9a9fd3-e243-4443-969f-eb5769874bb5", // Hogan
+  "c66be24b-5558-45b2-9c9a-f0cfc883dcd4", // Volstagg
+  // SP//dr
+  "5b7da011-412e-452a-9edd-24618a031001", // SP//dr Suit
+  "5b7da011-412e-452a-9edd-24618a031002", // SP//dr
+  // Mutant Genesis
+  "47d34c5d-5319-45a9-a2d6-1fb975032066", // Robert Kelly
+  "47d34c5d-5319-45a9-a2d6-1fb975032171", // Metro P.D.
+  "47d34c5d-5319-45a9-a2d6-1fb975032172", // Magneto
+  "47d34c5d-5319-45a9-a2d6-1fb975032174", // Reactive Defenses
+  // NeXt Evolution
+  "104e1218-df9b-43f7-93e0-ca2ef9040079", // Morlock
+  "104e1218-df9b-43f7-93e0-ca2ef9040130", // Hope Summers
+  "104e1218-df9b-43f7-93e0-ca2ef9040196", // Pouches
+  "104e1218-df9b-43f7-93e0-ca2ef9040197", // Safehouse
+  // Age of Apocalypse
+  "1ab538aa-6ad1-4d9d-83a6-3ebc3a045171", // Mission Team
+];
+
 const cards = _(json)
   .reject(
     (card) =>
       card.duplicate_of !== undefined ||
-      excludedSets.includes(card.set_code) ||
       excludedTypes.includes(card.type_code) ||
+      excludedSets.includes(card.set_code) ||
+      excludedCards.includes(card.octgn_id) ||
       (card.type_code === "obligation" && card.faction_code !== "campaign")
   )
   .uniqBy("octgn_id")
