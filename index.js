@@ -31,8 +31,12 @@ const cardIdsMissingFromFullList = [
   "39071", // Longshot
 ];
 
-const changes = {
-  39071: { is_unique: true, resource_wild: 1, traits: "X-Men." }, // Longshot
+// prettier-ignore
+const corrections = {
+  // Lethal Intent (Nebula)
+  "22010": { cost: -1 },
+  // Longshot (MojoMania)
+  "39071": { is_unique: true, resource_wild: 1, traits: "X-Men." },
 };
 
 const request = new Request("https://marvelcdb.com/api/public/cards/");
@@ -47,13 +51,13 @@ for (const code of cardIdsMissingFromFullList) {
   json.push(JSON.parse(text));
 }
 
-for (const [code, change] of Object.entries(changes)) {
+for (const [code, correction] of Object.entries(corrections)) {
   const card = json.find((card) => card.code === code);
   const before = JSON.stringify(card);
-  Object.assign(card, change);
+  Object.assign(card, correction);
   const after = JSON.stringify(card);
   if (before === after) {
-    console.warn(`No changes were necessary for ${card.name} (${code})`);
+    console.warn(`No corrections were necessary for ${card.name} (${code})`);
   }
 }
 
@@ -71,8 +75,6 @@ const excludedTypes = [
 ];
 
 const campaignTypes = ["modular", "villain"];
-
-const cardsWithCostX = ["Speed Cyclone", "Lethal Intent"];
 
 const cards = _(json)
   .sortBy("code")
@@ -92,11 +94,8 @@ const cardData = cards.map((card) => {
   const className = campaignTypes.includes(card.card_set_type_name_code)
     ? "Campaign"
     : card.faction_name;
-  const cost = cardsWithCostX.includes(card.name)
-    ? "X"
-    : card.cost === undefined
-    ? "-"
-    : card.cost;
+  const cost =
+    card.cost === -1 ? "X" : card.cost === undefined ? "-" : card.cost;
   const type = card.type_name;
   const resources = getResourceColumns(card);
   const traits = (card.traits || "").toUpperCase();
