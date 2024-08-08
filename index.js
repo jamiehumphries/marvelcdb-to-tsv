@@ -22,34 +22,19 @@ const resourceOrderSpecialCases = {
   "c9fe2c83-ea8b-479d-a5b2-da837f497576": ["👊🏾", "🧪", "⚡"],
 };
 
-const FACTION_NAMES = {
-  hero: "Hero",
-  aggression: "Aggression",
-  justice: "Justice",
-  leadership: "Leadership",
-  protection: "Protection",
-  pool: "'Pool",
-  basic: "Basic",
-  campaign: "Campaign",
-  encounter: "Campaign",
-};
+const factions = readJson("./data/factions.json");
+const types = readJson("./data/types.json");
 
-const TYPE_NAMES = {
-  ally: "Ally",
-  event: "Event",
-  obligation: "Obligation",
-  player_side_scheme: "Player Side Scheme",
-  resource: "Resource",
-  support: "Support",
-  upgrade: "Upgrade",
-};
-
-let json = [];
+let allCards = [];
 const packsDirectory = "./data/pack";
 for (const filename of fs.readdirSync(packsDirectory)) {
   const filepath = path.resolve(packsDirectory, filename);
+  allCards = allCards.concat(readJson(filepath));
+}
+
+function readJson(filepath) {
   const content = fs.readFileSync(filepath);
-  json = json.concat(JSON.parse(content));
+  return JSON.parse(content);
 }
 
 fs.writeFileSync("cards.json", JSON.stringify(json, null, 2));
@@ -98,7 +83,7 @@ const excludedCards = [
   "1ab538aa-6ad1-4d9d-83a6-3ebc3a045171", // Mission Team
 ];
 
-const cards = _(json)
+const cards = _(allCards)
   .reject(
     (card) =>
       card.duplicate_of !== undefined ||
@@ -115,14 +100,38 @@ const cardData = cards.map((card) => {
   const id = card.octgn_id;
   const name = card.subname ? `${card.name} (${card.subname})` : card.name;
   const unique = card.is_unique ? UNIQUE : "";
-  const faction = FACTION_NAMES[card.faction_code] || card.faction_code;
-  const cost =
-    card.cost === -1 ? "X" : card.cost === undefined ? "-" : card.cost;
-  const type = TYPE_NAMES[card.type_code] || card.type_code;
+  const faction = getFactionName(card);
+  const cost = getCost(card);
+  const type = getTypeName(card);
   const resources = getResourceColumns(card);
   const traits = (card.traits || "").toUpperCase();
   return [id, name, unique, faction, cost, type, ...resources, traits];
 });
+
+function getCost(card) {
+  switch (card.cost) {
+    case -1:
+      return "X";
+    case undefined:
+      return "-";
+    default:
+      return card.cost.toString();
+  }
+}
+
+function getFactionName(card) {
+  const originalCode = card.faction_code;
+  const codeToUse = originalCode === "encounter" ? "campaign" : originalCode;
+  return getName(codeToUse, factions);
+}
+
+function getTypeName(card) {
+  return getName(card.type_code, types);
+}
+
+function getName(code, lookup) {
+  return lookup.find((entry) => entry.code === code).name;
+}
 
 function getResourceColumns(card) {
   const resources = getResources(card);
