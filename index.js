@@ -57,7 +57,6 @@ fs.writeFileSync("cards.json", JSON.stringify(json, null, 2));
 const excludedTypes = [
   "alter_ego",
   "attachment",
-  "encounter",
   "environment",
   "hero",
   "main_scheme",
