@@ -37,8 +37,6 @@ function readJson(filepath) {
   return JSON.parse(content);
 }
 
-fs.writeFileSync("cards.json", JSON.stringify(json, null, 2));
-
 const excludedTypes = [
   "alter_ego",
   "attachment",
