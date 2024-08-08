@@ -56,7 +56,8 @@ const cards = _(allCards)
   .reject(
     (card) =>
       card.duplicate_of !== undefined ||
-      isIdentityCard(card) ||
+      identityTypeCodes.includes(card.type_code) ||
+      identityTypeCodes.includes(card.back_card?.type_code) ||
       excludedFactions.includes(card.faction_code) ||
       excludedSets.includes(card.set_code)
   )
@@ -65,16 +66,9 @@ const cards = _(allCards)
   .sortBy("code")
   .value();
 
-function isIdentityCard(card) {
-  return (
-    identityTypeCodes.includes(card.type_code) ||
-    identityTypeCodes.includes(card.back_card?.type_code)
-  );
-}
-
 const cardData = cards.map((card) => {
   const id = card.octgn_id;
-  const name = card.subname ? `${card.name} (${card.subname})` : card.name;
+  const name = getName(card);
   const unique = card.is_unique ? UNIQUE : "";
   const faction = getFactionName(card);
   const cost = getCost(card);
@@ -83,6 +77,23 @@ const cardData = cards.map((card) => {
   const traits = (card.traits || "").toUpperCase();
   return [id, name, unique, faction, cost, type, ...resources, traits];
 });
+
+function getName(card) {
+  if (
+    card.faction_code === "hero" &&
+    card.back_card !== undefined &&
+    card.name !== card.back_card.name
+  ) {
+    return `${card.name} / ${card.back_card.name}`;
+  }
+  return card.subname ? `${card.name} (${card.subname})` : card.name;
+}
+
+function getFactionName(card) {
+  const originalCode = card.faction_code;
+  const codeToUse = originalCode === "encounter" ? "campaign" : originalCode;
+  return lookupName(codeToUse, factions);
+}
 
 function getCost(card) {
   switch (card.cost) {
@@ -95,17 +106,11 @@ function getCost(card) {
   }
 }
 
-function getFactionName(card) {
-  const originalCode = card.faction_code;
-  const codeToUse = originalCode === "encounter" ? "campaign" : originalCode;
-  return getName(codeToUse, factions);
-}
-
 function getTypeName(card) {
-  return getName(card.type_code, types);
+  return lookupName(card.type_code, types);
 }
 
-function getName(code, lookup) {
+function lookupName(code, lookup) {
   return lookup.find((entry) => entry.code === code).name;
 }
 

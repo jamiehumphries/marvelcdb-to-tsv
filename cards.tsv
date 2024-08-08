@@ -784,7 +784,7 @@ add626be-c334-43aa-bf98-9ddaff6d6161	Pinpoint (Qureshi Gupta)		Protection	2	A
 47d34c5d-5319-45a9-a2d6-1fb975032019	Professor X (Charles Xavier)		Basic	3	Ally	🧪						PSIONIC. X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032020	The X-Jet		Basic	3	Support	⚡						VEHICLE. X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032021	Shadow and Steel		Basic	2	Event	👊🏾						ATTACK. DEFENSE.
-47d34c5d-5319-45a9-a2d6-1fb975032031	Solid		Hero	-	Upgrade	👊🏾			
+47d34c5d-5319-45a9-a2d6-1fb975032031	Solid / Phased		Hero	-	Upgrade	👊🏾			
 47d34c5d-5319-45a9-a2d6-1fb975032032	Lockheed		Hero	2	Ally	✨						DRAGON. X-MEN.
 47d34c5d-5319-45a9-a2d6-1fb975032033	Kitty's Room		Hero	1	Support	👊🏾						LOCATION.
 47d34c5d-5319-45a9-a2d6-1fb975032034	Acute Control		Hero	1	Upgrade	🧪						SUPERPOWER.
@@ -1010,7 +1010,7 @@ campaign-0000-0000-0000-00000040194b	Practiced Maneuvers		Campaign	-	Environment
 campaign-0000-0000-0000-00000040195a	Prepare Defenses		Campaign	-	Player Side Scheme
 campaign-0000-0000-0000-00000040195b	Prepared Defenses		Campaign	-	Environment
 104e1218-df9b-43f7-93e0-ca2ef9040204	Hope Summers		Basic	4	Ally	🧪						X-FORCE.
-f7eaac08-b459-4b76-a5e4-a87bce041002	Psi-Knife		Hero	-	Upgrade	🧪						PSI-ENERGY. WEAPON.
+f7eaac08-b459-4b76-a5e4-a87bce041002	Psi-Knife / Psi-Katana		Hero	-	Upgrade	🧪						PSI-ENERGY. WEAPON.
 f7eaac08-b459-4b76-a5e4-a87bce041003	Angel (Warren Worthington III)		Hero	3	Ally	✨						AERIAL. X-FORCE.
 f7eaac08-b459-4b76-a5e4-a87bce041004	Flurry of Blades		Hero	3	Event	⚡						ATTACK. PSIONIC.
 f7eaac08-b459-4b76-a5e4-a87bce041005	Mental Detection		Hero	2	Event	🧪						PSIONIC. THWART.
