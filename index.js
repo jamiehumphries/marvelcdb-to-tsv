@@ -2,13 +2,13 @@ import fs from "fs";
 import _ from "lodash";
 import path from "path";
 
+const MAX_RESOURCES = 3;
+
 const ENERGY = "";
 const MENTAL = "";
 const PHYSICAL = "";
 const WILD = "";
 const UNIQUE = "";
-
-const MAX_RESOURCES = 3;
 
 const RESOURCE_SYMBOLS = {
   "⚡": ENERGY,
@@ -132,9 +132,9 @@ function getResourceColumns(card) {
       `Could not handle "${card.name}", which has ${resources.length} resources.`
     );
   }
-  const filterColumn = getResourceFilterColumn(resources);
+  const filterColumn = resources.join("");
   const symbolColumns = getResourceSymbolColumns(resources);
-  return filterColumn.concat(symbolColumns);
+  return [filterColumn, ...symbolColumns];
 }
 
 function getResources(card) {
@@ -149,10 +149,6 @@ function getResources(card) {
     ...type("👊🏾", card.resource_physical),
     ...type("✨", card.resource_wild),
   ];
-}
-
-function getResourceFilterColumn(resources) {
-  return [resources.join("")];
 }
 
 function getResourceSymbolColumns(resources) {
