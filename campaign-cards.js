@@ -28,7 +28,7 @@ function isCampaignCardFromGalaxysMostWanted(card) {
 
 function isCampaignCardFromTheMadTitansShadow(card) {
   const campaignCards = [
-    "21139b", // Odin
+    "21139b", // Odin (King)
     "21180b", // Cosmo
     "21183", // Shawarma
     "21185", // System Shock
@@ -58,7 +58,7 @@ function isCampaignCardFromMojoMania(card) {
 function isCampaignCardFromNeXtEvolution(card) {
   const isCampaignPlayerSideScheme =
     card.set_code === "next_evol_campaign" &&
-    ["player_side_scheme", "environment"].includes(card.type_code);
+    [card.type_code, card.back_card?.type_code].includes("player_side_scheme");
   return isCampaignPlayerSideScheme;
 }
 
