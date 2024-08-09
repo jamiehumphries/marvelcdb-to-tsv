@@ -606,7 +606,7 @@ ba177047-c744-4104-b877-89312b15487b	Problem Solvers		Justice	4	Event	👊🏾		
 28fbd016-7896-43e0-88e6-5e545a89776b	Leadership Training		Leadership	1	Support	🧪						CONDITION.
 5e38b56a-b343-42bb-8ac9-112e8cb56875	Anticipation		Protection	1	Upgrade	👊🏾						PREPARATION.
 1ceed69a-3a70-43fd-920e-c9843506b066	Cosmic Alliance		Basic	3	Event	⚡			
-c7f3cb05-1e4d-4599-a0ae-2e727ae3e40b	Intangible		Hero	0	Upgrade
+c7f3cb05-1e4d-4599-a0ae-2e727ae3e40b	Intangible / Dense		Hero	-	Upgrade
 e99ed0d4-7921-4197-bf36-503c20edc2be	Vivian		Hero	2	Ally	✨						ANDROID. CHAMPION.
 a1db5cf7-a2d7-42d5-8571-e3c140cbf95e	616 Hickory Branch Lane		Hero	1	Support	🧪						LOCATION.
 c1c0a740-1d11-4431-87fe-2597c301ee3b	Solar Gem		Hero	2	Upgrade	✨						ITEM.
@@ -1187,7 +1187,6 @@ campaign-0000-0000-0000-000000045178	Panicked Refugees		Campaign	-	Obligation
 9612581e-ee76-46fb-89b7-71ae7a046014	Suppressing Fire		Aggression	0	Upgrade	🧪						TACTIC.
 9612581e-ee76-46fb-89b7-71ae7a046015	Surprise Move		Aggression	1	Event	🧪						TACTIC.
 9612581e-ee76-46fb-89b7-71ae7a046016	Take That!		Aggression	3	Event	⚡						ATTACK.
-9612581e-ee76-46fb-89b7-71ae7a046017	Looking for Trouble		Aggression	0	Event	👊🏾						THWART.
 9612581e-ee76-46fb-89b7-71ae7a046018	Keep Up the Pressure		Aggression	0	Player Side Scheme	⚡			
 9612581e-ee76-46fb-89b7-71ae7a046019	Shadowcat (Kitty Pryde)		Basic	3	Ally	🧪						X-MEN.
 9612581e-ee76-46fb-89b7-71ae7a046020	Beak (Barnell Bohusk)		Basic	2	Ally	⚡						X-MEN.
