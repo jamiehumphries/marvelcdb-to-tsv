@@ -1196,18 +1196,24 @@ campaign-0000-0000-0000-000000045178	Panicked Refugees		Campaign	-	Obligation
 2bb9367c-944e-4475-b643-6a84c3047005	Jubilee's Sunglasses		Hero	2	Upgrade	✨						ITEM.
 2bb9367c-944e-4475-b643-6a84c3047006	Blinding Flash		Hero	3	Event	✨						SUPERPOWER.
 2bb9367c-944e-4475-b643-6a84c3047007	Firecracker		Hero	2	Event	⚡						ATTACK. SUPERPOWER.
-2bb9367c-944e-4475-b643-6a84c3047008	Flash of Light		Hero	2	Event	⚡						SUPERPOWER. THWART.
-2bb9367c-944e-4475-b643-6a84c3047009	Grande Finale		Hero	3	Event	✨						ATTACK. SUPERPOWER.
-2bb9367c-944e-4475-b643-6a84c3047010	Plasmoid Energy		Hero	-	Resource	⚡🧪				
-2bb9367c-944e-4475-b643-6a84c3047011	Chamber (Jono Starsmore)		Justice	4	Ally	⚡						PSIONIC. X-MEN.
-2bb9367c-944e-4475-b643-6a84c3047012	Husk (Paige Guthrie)		Justice	4	Ally	👊🏾						X-MEN.
-2bb9367c-944e-4475-b643-6a84c3047013	Disguise		Justice	1	Upgrade	🧪						ITEM.
-2bb9367c-944e-4475-b643-6a84c3047014	Waylay		Justice	3	Event	👊🏾						ATTACK.
-2bb9367c-944e-4475-b643-6a84c3047015	Three Steps Ahead		Justice	3	Event	🧪						THWART.
-2bb9367c-944e-4475-b643-6a84c3047016	Generation X		Justice	0	Player Side Scheme	⚡			
-2bb9367c-944e-4475-b643-6a84c3047018	Synch (Everett Thomas)		Basic	3	Ally	⚡						X-MEN.
-2bb9367c-944e-4475-b643-6a84c3047019	Cell Phone		Basic	2	Upgrade	⚡						ITEM.
-2bb9367c-944e-4475-b643-6a84c3047021	Multitalented		Basic	3	Event	👊🏾						ATTACK. THWART.
-2bb9367c-944e-4475-b643-6a84c3047022	Unlikely Duo		Basic	2	Event	✨						ATTACK.
-2bb9367c-944e-4475-b643-6a84c3047028	Mutant Mayhem		Leadership	3	Event	⚡			
-2bb9367c-944e-4475-b643-6a84c3047029	Serve and Protect		Protection	2	Event	🧪			
+2bb9367c-944e-4475-b643-6a84c3047008	Firecracker		Hero	2	Event	🧪						ATTACK. SUPERPOWER.
+2bb9367c-944e-4475-b643-6a84c3047009	Firecracker		Hero	2	Event	👊🏾						ATTACK. SUPERPOWER.
+2bb9367c-944e-4475-b643-6a84c3047010	Flash of Light		Hero	2	Event	⚡						SUPERPOWER. THWART.
+2bb9367c-944e-4475-b643-6a84c3047011	Flash of Light		Hero	2	Event	🧪						SUPERPOWER. THWART.
+2bb9367c-944e-4475-b643-6a84c3047012	Flash of Light		Hero	2	Event	👊🏾						SUPERPOWER. THWART.
+2bb9367c-944e-4475-b643-6a84c3047013	Grande Finale		Hero	3	Event	✨						ATTACK. SUPERPOWER.
+2bb9367c-944e-4475-b643-6a84c3047014	Plasmoid Energy		Hero	-	Resource	⚡🧪				
+2bb9367c-944e-4475-b643-6a84c3047015	Plasmoid Energy		Hero	-	Resource	⚡👊🏾				
+2bb9367c-944e-4475-b643-6a84c3047016	Plasmoid Energy		Hero	-	Resource	🧪👊🏾				
+2bb9367c-944e-4475-b643-6a84c3047017	Chamber (Jono Starsmore)		Justice	4	Ally	⚡						PSIONIC. X-MEN.
+2bb9367c-944e-4475-b643-6a84c3047018	Husk (Paige Guthrie)		Justice	4	Ally	👊🏾						X-MEN.
+2bb9367c-944e-4475-b643-6a84c3047019	Disguise		Justice	1	Upgrade	🧪						ITEM.
+2bb9367c-944e-4475-b643-6a84c3047020	Waylay		Justice	3	Event	👊🏾						ATTACK.
+2bb9367c-944e-4475-b643-6a84c3047021	Three Steps Ahead		Justice	3	Event	🧪						THWART.
+2bb9367c-944e-4475-b643-6a84c3047022	Generation X		Justice	0	Player Side Scheme	⚡			
+2bb9367c-944e-4475-b643-6a84c3047024	Synch (Everett Thomas)		Basic	3	Ally	⚡						X-MEN.
+2bb9367c-944e-4475-b643-6a84c3047025	Cell Phone		Basic	2	Upgrade	⚡						ITEM.
+2bb9367c-944e-4475-b643-6a84c3047027	Multitalented		Basic	3	Event	👊🏾						ATTACK. THWART.
+2bb9367c-944e-4475-b643-6a84c3047028	Unlikely Duo		Basic	2	Event	✨						ATTACK.
+2bb9367c-944e-4475-b643-6a84c3047034	Mutant Mayhem		Leadership	3	Event	⚡			
+2bb9367c-944e-4475-b643-6a84c3047035	Serve and Protect		Protection	2	Event	🧪			
