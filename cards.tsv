@@ -1217,3 +1217,23 @@ campaign-0000-0000-0000-000000045178	Panicked Refugees		Campaign	-	Obligation
 2bb9367c-944e-4475-b643-6a84c3047028	Unlikely Duo		Basic	2	Event	✨						ATTACK.
 2bb9367c-944e-4475-b643-6a84c3047034	Mutant Mayhem		Leadership	3	Event	⚡			
 2bb9367c-944e-4475-b643-6a84c3047035	Serve and Protect		Protection	2	Event	🧪			
+65f91d01-99db-4c7e-814f-28ddf0048002	Daytripper (Amanda Sefton)		Hero	2	Ally	✨						MYSTIC.
+65f91d01-99db-4c7e-814f-28ddf0048003	Kurt's Chapel		Hero	1	Support	🧪						LOCATION.
+65f91d01-99db-4c7e-814f-28ddf0048004	Kurt's Cutlasses		Hero	2	Upgrade	👊🏾						WEAPON.
+65f91d01-99db-4c7e-814f-28ddf0048005	Prehensile Tail		Hero	1	Upgrade	👊🏾						SUPERPOWER.
+65f91d01-99db-4c7e-814f-28ddf0048006	Bamf!		Hero	0	Upgrade	👊🏾			
+65f91d01-99db-4c7e-814f-28ddf0048007	'Port and Punch		Hero	2	Event	⚡						ATTACK. SUPERPOWER.
+65f91d01-99db-4c7e-814f-28ddf0048008	Teleport Drop		Hero	2	Event	⚡						ATTACK. SUPERPOWER.
+65f91d01-99db-4c7e-814f-28ddf0048009	Scout Ahead		Hero	1	Event	⚡						SUPERPOWER. THWART.
+65f91d01-99db-4c7e-814f-28ddf0048010	'Port Away		Hero	0	Event	⚡						SUPERPOWER.
+65f91d01-99db-4c7e-814f-28ddf0048011	Tally Ho!		Hero	1	Event	⚡						DEFENSE. SUPERPOWER.
+65f91d01-99db-4c7e-814f-28ddf0048012	Rogue (Anna Marie)		Protection	4	Ally	👊🏾						X-MEN.
+65f91d01-99db-4c7e-814f-28ddf0048013	Northstar (Jean-Paul Beaubier)		Protection	3	Ally	⚡						X-MEN.
+65f91d01-99db-4c7e-814f-28ddf0048014	Change of Fortune		Protection	1	Upgrade	🧪			
+65f91d01-99db-4c7e-814f-28ddf0048015	Under Control		Protection	0	Upgrade	⚡						TACTIC.
+65f91d01-99db-4c7e-814f-28ddf0048016	"Come Get Me, Bub!"		Protection	0	Event	🧪						TACTIC.
+65f91d01-99db-4c7e-814f-28ddf0048018	Riposte		Protection	1	Event	⚡						DEFENSE.
+65f91d01-99db-4c7e-814f-28ddf0048020	Astonishing X-Men		Protection	1	Player Side Scheme	👊🏾			
+65f91d01-99db-4c7e-814f-28ddf0048021	Gambit (Remy LeBeau)		Basic	3	Ally	⚡						THIEF. X-MEN.
+65f91d01-99db-4c7e-814f-28ddf0048031	Combine Forces		Aggression	1	Event	⚡			
+65f91d01-99db-4c7e-814f-28ddf0048032	Gunboat Diplomacy		Justice	1	Event	⚡						ATTACK. THWART.
