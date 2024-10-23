@@ -148,18 +148,13 @@ function getResourceSymbolColumns(resources) {
   // 2 resources | |#| |#| |
   // 3 resources |#| |#| |#|
 
-  const columns = resources.flatMap((resource, i) => {
-    const symbol = RESOURCE_SYMBOLS[resource];
-    return i === 0 ? [symbol] : ["", symbol];
-  });
+  const symbols = resources.map((resource) => RESOURCE_SYMBOLS[resource]);
+  const columns = symbols.join("||").split("|");
 
   const numberOfColumns = MAX_RESOURCES * 2 - 1;
   while (columns.length < numberOfColumns) {
-    if (columns.length % 2 === 1) {
-      columns.push("");
-    } else {
-      columns.unshift("");
-    }
+    columns.unshift("");
+    columns.push("");
   }
 
   return columns;
