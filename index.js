@@ -27,12 +27,11 @@ const resourceOrderSpecialCases = {
 const factions = readJson("./data/factions.json");
 const types = readJson("./data/types.json");
 
-let allCards = [];
-const packsDirectory = "./data/pack";
-for (const filename of fs.readdirSync(packsDirectory)) {
-  const filepath = path.resolve(packsDirectory, filename);
-  allCards = allCards.concat(readJson(filepath));
-}
+const packs = fs.readdirSync("./data/pack", { withFileTypes: true });
+const allCards = packs.flatMap((file) => {
+  const filepath = path.resolve(file.parentPath, file.name);
+  return readJson(filepath);
+});
 
 function readJson(filepath) {
   const content = fs.readFileSync(filepath);

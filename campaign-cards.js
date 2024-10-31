@@ -73,10 +73,7 @@ function isCampaignCardFromAgeOfApocalypse(card) {
 }
 
 function withPseudoOctgnId(card) {
-  let suffix = card.code;
-  while (suffix.length < 12) {
-    suffix = "0" + suffix;
-  }
+  const suffix = card.code.padStart(12, "0");
   card.octgn_id = `campaign-0000-0000-0000-${suffix}`;
   return card;
 }
