@@ -1,6 +1,6 @@
-import fs from "fs";
+import { readdirSync, readFileSync, writeFileSync } from "fs";
 import _ from "lodash";
-import path from "path";
+import { resolve } from "path";
 
 import { getCampaignCards } from "./campaign-cards.js";
 
@@ -27,14 +27,12 @@ const resourceOrderSpecialCases = {
 const factions = readJson("./data/factions.json");
 const types = readJson("./data/types.json");
 
-const packs = fs.readdirSync("./data/pack", { withFileTypes: true });
-const allCards = packs.flatMap((file) => {
-  const filepath = path.resolve(file.parentPath, file.name);
-  return readJson(filepath);
-});
+const packs = readdirSync("./data/pack", { withFileTypes: true });
+const allCards = packs.flatMap((file) => readJson(file.parentPath, file.name));
 
-function readJson(filepath) {
-  const content = fs.readFileSync(filepath);
+function readJson(...paths) {
+  const fullPath = resolve(...paths);
+  const content = readFileSync(fullPath);
   return JSON.parse(content);
 }
 
@@ -66,17 +64,20 @@ const cards = _(allCards)
   .sortBy("code")
   .value();
 
-const cardData = cards.map((card) => {
-  const id = card.octgn_id;
-  const name = getName(card);
-  const unique = card.is_unique ? UNIQUE : "";
-  const faction = getFactionName(card);
-  const cost = getCost(card);
-  const type = getTypeName(card);
-  const resources = getResourceColumns(card);
-  const traits = (card.traits || "").toUpperCase();
-  return [id, name, unique, faction, cost, type, ...resources, traits];
-});
+const cardData = cards.map((card) => [
+  getId(card),
+  getName(card),
+  getUniqueness(card),
+  getFactionName(card),
+  getCost(card),
+  getTypeName(card),
+  ...getResourceColumns(card),
+  getTraits(card),
+]);
+
+function getId(card) {
+  return card.octgn_id;
+}
 
 function getName(card) {
   if (
@@ -87,6 +88,10 @@ function getName(card) {
     return `${card.name} / ${card.back_card.name}`;
   }
   return card.subname ? `${card.name} (${card.subname})` : card.name;
+}
+
+function getUniqueness(card) {
+  return card.is_unique ? UNIQUE : "";
 }
 
 function getFactionName(card) {
@@ -132,12 +137,12 @@ function getResources(card) {
   if (specialCase) {
     return specialCase;
   }
-  const type = (emoji, count = 0) => Array(count).fill(emoji);
+  const repeat = (emoji, count = 0) => Array(count).fill(emoji);
   return [
-    ...type("⚡", card.resource_energy),
-    ...type("🧪", card.resource_mental),
-    ...type("👊🏾", card.resource_physical),
-    ...type("✨", card.resource_wild),
+    ...repeat("⚡", card.resource_energy),
+    ...repeat("🧪", card.resource_mental),
+    ...repeat("👊🏾", card.resource_physical),
+    ...repeat("✨", card.resource_wild),
   ];
 }
 
@@ -160,6 +165,10 @@ function getResourceSymbolColumns(resources) {
   return columns;
 }
 
-const rows = cardData.map((row) => row.join("\t").trimEnd());
-const tsv = rows.join("\n") + "\n";
-fs.writeFileSync("cards.tsv", tsv);
+function getTraits(card) {
+  return card.traits?.toUpperCase() || "";
+}
+
+const tsvRows = cardData.map((row) => row.join("\t").trimEnd());
+const tsv = tsvRows.join("\n") + "\n";
+writeFileSync("cards.tsv", tsv);
