@@ -21,7 +21,7 @@ const RESOURCE_SYMBOLS = {
 
 const resourceOrderSpecialCases = {
   // Shawarma
-  "c9fe2c83-ea8b-479d-a5b2-da837f497576": ["👊🏾", "🧪", "⚡"],
+  "campaign-0000-0000-0000-000000021183": ["👊🏾", "🧪", "⚡"],
 };
 
 const factions = readJson("./data/factions.json");
