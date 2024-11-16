@@ -1150,7 +1150,7 @@ cbfcb70f-a855-4068-b02f-816804042032	X-Force Recruit		Basic	0	Upgrade	👊🏾		
 1ab538aa-6ad1-4d9d-83a6-3ebc3a045031	Colossus (Piotr Rasputin)		Hero	3	Ally	✨						X-MEN.
 1ab538aa-6ad1-4d9d-83a6-3ebc3a045032	Limbo		Hero	1	Support	👊🏾						DIMENSION.
 1ab538aa-6ad1-4d9d-83a6-3ebc3a045033	Magik's Crown		Hero	2	Upgrade	🧪						ITEM.
-1ab538aa-6ad1-4d9d-83a6-3ebc3a045034	Soulsword		Hero	1	Upgrade	👊🏾						ARMOR.
+1ab538aa-6ad1-4d9d-83a6-3ebc3a045034	Soulsword		Hero	1	Upgrade	👊🏾						WEAPON.
 1ab538aa-6ad1-4d9d-83a6-3ebc3a045035	Mystical Armor		Hero	1	Upgrade	⚡						ARMOR.
 1ab538aa-6ad1-4d9d-83a6-3ebc3a045036	Scrying		Hero	0	Event	🧪						SPELL.
 1ab538aa-6ad1-4d9d-83a6-3ebc3a045037	Stepping Disc		Hero	1	Event	⚡						SUPERPOWER.
@@ -1237,3 +1237,29 @@ campaign-0000-0000-0000-000000045178	Panicked Refugees		Campaign	-	Obligation
 65f91d01-99db-4c7e-814f-28ddf0048021	Gambit (Remy LeBeau)		Basic	3	Ally	⚡						THIEF. X-MEN.
 65f91d01-99db-4c7e-814f-28ddf0048031	Combine Forces		Aggression	1	Event	⚡			
 65f91d01-99db-4c7e-814f-28ddf0048032	Gunboat Diplomacy		Justice	1	Event	⚡						ATTACK. THWART.
+0035c164-5de7-4b2e-bb80-d49e4b049002	Asteroid M		Hero	2	Support	✨						LOCATION. MAGNETIC.
+0035c164-5de7-4b2e-bb80-d49e4b049003	Magneto's Helmet		Hero	3	Upgrade	🧪						ARMOR. MAGNETIC.
+0035c164-5de7-4b2e-bb80-d49e4b049004	Magneto's Armor		Hero	2	Upgrade	👊🏾						ARMOR. MAGNETIC.
+0035c164-5de7-4b2e-bb80-d49e4b049005	Magneto's Cape		Hero	2	Upgrade	⚡						ARMOR. MAGNETIC.
+0035c164-5de7-4b2e-bb80-d49e4b049006	Magnetic Bubble		Hero	3	Upgrade	⚡						MAGNETIC. SUPERPOWER.
+0035c164-5de7-4b2e-bb80-d49e4b049007	Wrapped in Metal		Hero	2	Upgrade	🧪						MAGNETIC.
+0035c164-5de7-4b2e-bb80-d49e4b049008	Electromagnetic Blast		Hero	2	Event	⚡						MAGNETIC. SUPERPOWER. THWART.
+0035c164-5de7-4b2e-bb80-d49e4b049009	Metal Shards		Hero	3	Event	👊🏾						ATTACK. MAGNETIC. SUPERPOWER.
+0035c164-5de7-4b2e-bb80-d49e4b049010	Magnetic Missile		Hero	1	Event	👊🏾						MAGNETIC. SUPERPOWER.
+0035c164-5de7-4b2e-bb80-d49e4b049011	Master of Magnetism		Hero	-	Resource	⚡🧪						MAGNETIC.
+0035c164-5de7-4b2e-bb80-d49e4b049012	M (Monet St. Croix)		Leadership	4	Ally	👊🏾						PSIONIC. X-MEN.
+0035c164-5de7-4b2e-bb80-d49e4b049013	Kid Omega (Quentin Quire)		Leadership	2	Ally	⚡						PSIONIC. X-MEN.
+0035c164-5de7-4b2e-bb80-d49e4b049014	Phoenix (Jean Grey)		Leadership	3	Ally	🧪						PSIONIC. X-MEN.
+0035c164-5de7-4b2e-bb80-d49e4b049015	Cyclops (Scott Summers)		Leadership	3	Ally	👊🏾						X-MEN.
+0035c164-5de7-4b2e-bb80-d49e4b049016	Won't Stay Down		Leadership	1	Support	👊🏾						CONDITION.
+0035c164-5de7-4b2e-bb80-d49e4b049017	Squared Off		Leadership	0	Event	👊🏾						TACTIC.
+0035c164-5de7-4b2e-bb80-d49e4b049018	Noble Sacrifice		Leadership	1	Event	🧪						TACTIC.
+0035c164-5de7-4b2e-bb80-d49e4b049019	"You Got This!"		Leadership	1	Event	⚡						TACTIC.
+0035c164-5de7-4b2e-bb80-d49e4b049020	New Recruits		Leadership	0	Player Side Scheme	🧪			
+0035c164-5de7-4b2e-bb80-d49e4b049021	White Queen (Emma Frost)		Basic	3	Ally	⚡						PSIONIC. X-MEN.
+0035c164-5de7-4b2e-bb80-d49e4b049022	Face the Past		Basic	0	Event	👊🏾			
+0035c164-5de7-4b2e-bb80-d49e4b049033	Surge (Noriko Ashida)		Basic	2	Ally	⚡						NEW. X-MEN.
+0035c164-5de7-4b2e-bb80-d49e4b049034	Anole (Victor Borkowski)		Basic	2	Ally	⚡						NEW. X-MEN.
+0035c164-5de7-4b2e-bb80-d49e4b049035	Bling! (Roxanne Washington)		Basic	2	Ally	⚡						NEW. X-MEN.
+0035c164-5de7-4b2e-bb80-d49e4b049036	Indra (Paras Gavaskar)		Basic	2	Ally	⚡						NEW. X-MEN.
+0035c164-5de7-4b2e-bb80-d49e4b049037	Children of the Atom		Basic	1	Support	⚡			
