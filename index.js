@@ -58,7 +58,8 @@ const cards = _(allCards)
       identityTypeCodes.includes(card.type_code) ||
       identityTypeCodes.includes(card.back_card?.type_code) ||
       excludedFactions.includes(card.faction_code) ||
-      excludedSets.includes(card.set_code)
+      excludedSets.includes(card.set_code) ||
+      card.text?.startsWith("Linked")
   )
   .uniqBy("octgn_id")
   .concat(getCampaignCards(allCards))

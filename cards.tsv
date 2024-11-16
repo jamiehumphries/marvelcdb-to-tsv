@@ -1078,10 +1078,6 @@ cbfcb70f-a855-4068-b02f-816804042032	X-Force Recruit		Basic	0	Upgrade	👊🏾		
 75156e6a-46eb-4164-9986-e46621043019	"Now I'm Mad"		Aggression	1	Upgrade	👊🏾						CONDITION.
 75156e6a-46eb-4164-9986-e46621043020	The Direct Approach		Aggression	1	Upgrade	⚡						TACTIC.
 75156e6a-46eb-4164-9986-e46621043021	Specialized Training		Basic	1	Player Side Scheme	🧪			
-75156e6a-46eb-4164-9986-e46621043034	Combat Specialist		Basic	2	Upgrade	✨						SPECIALIZATION.
-75156e6a-46eb-4164-9986-e46621043035	Defense Specialist		Basic	2	Upgrade	✨						SPECIALIZATION.
-75156e6a-46eb-4164-9986-e46621043036	Front Line Specialist		Basic	2	Upgrade	✨						SPECIALIZATION.
-75156e6a-46eb-4164-9986-e46621043037	Surveillance Specialist		Basic	2	Upgrade	✨						SPECIALIZATION.
 75156e6a-46eb-4164-9986-e46621043038	Predictable Ploy		Justice	2	Event	🧪			
 75156e6a-46eb-4164-9986-e46621043039	Rally the Troops		Leadership	0	Player Side Scheme	🧪			
 75156e6a-46eb-4164-9986-e46621043040	Anticipated Attack		Protection	2	Event	🧪						DEFENSE.
@@ -1258,8 +1254,4 @@ campaign-0000-0000-0000-000000045178	Panicked Refugees		Campaign	-	Obligation
 0035c164-5de7-4b2e-bb80-d49e4b049020	New Recruits		Leadership	0	Player Side Scheme	🧪			
 0035c164-5de7-4b2e-bb80-d49e4b049021	White Queen (Emma Frost)		Basic	3	Ally	⚡						PSIONIC. X-MEN.
 0035c164-5de7-4b2e-bb80-d49e4b049022	Face the Past		Basic	0	Event	👊🏾			
-0035c164-5de7-4b2e-bb80-d49e4b049033	Surge (Noriko Ashida)		Basic	2	Ally	⚡						NEW. X-MEN.
-0035c164-5de7-4b2e-bb80-d49e4b049034	Anole (Victor Borkowski)		Basic	2	Ally	⚡						NEW. X-MEN.
-0035c164-5de7-4b2e-bb80-d49e4b049035	Bling! (Roxanne Washington)		Basic	2	Ally	⚡						NEW. X-MEN.
-0035c164-5de7-4b2e-bb80-d49e4b049036	Indra (Paras Gavaskar)		Basic	2	Ally	⚡						NEW. X-MEN.
 0035c164-5de7-4b2e-bb80-d49e4b049037	Children of the Atom		Basic	1	Support	⚡			
