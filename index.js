@@ -147,7 +147,6 @@ function getResources(card) {
 }
 
 function getResourceSymbolColumns(resources) {
-  // Symbol columns should be laid out as:
   // 0 resources | | | | | |
   // 1 resource  | | |#| | |
   // 2 resources | |#| |#| |
