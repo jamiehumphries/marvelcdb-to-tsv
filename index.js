@@ -12,16 +12,16 @@ const PHYSICAL = "";
 const WILD = "";
 const UNIQUE = "";
 
-const RESOURCE_SYMBOLS = {
-  "⚡": ENERGY,
-  "🧪": MENTAL,
-  "👊🏾": PHYSICAL,
-  "✨": WILD,
-};
+const RESOURCE_FILTER_SYMBOLS = Object.fromEntries([
+  [ENERGY, "⚡"],
+  [MENTAL, "🧪"],
+  [PHYSICAL, "👊🏾"],
+  [WILD, "✨"],
+]);
 
 const resourceOrderSpecialCases = {
   // Shawarma
-  21183: ["👊🏾", "🧪", "⚡"],
+  21183: [PHYSICAL, MENTAL, ENERGY],
 };
 
 const factions = readJson("./data/factions.json");
@@ -127,7 +127,7 @@ function getResourceColumns(card) {
       `Could not handle "${card.name}", which has ${resources.length} resources.`
     );
   }
-  const filterColumn = resources.join("");
+  const filterColumn = getResourceFilterColumn(resources);
   const symbolColumns = getResourceSymbolColumns(resources);
   return [filterColumn, ...symbolColumns];
 }
@@ -139,11 +139,17 @@ function getResources(card) {
   }
   const repeat = (emoji, count = 0) => Array(count).fill(emoji);
   return [
-    ...repeat("⚡", card.resource_energy),
-    ...repeat("🧪", card.resource_mental),
-    ...repeat("👊🏾", card.resource_physical),
-    ...repeat("✨", card.resource_wild),
+    ...repeat(ENERGY, card.resource_energy),
+    ...repeat(MENTAL, card.resource_mental),
+    ...repeat(PHYSICAL, card.resource_physical),
+    ...repeat(WILD, card.resource_wild),
   ];
+}
+
+function getResourceFilterColumn(resources) {
+  return resources
+    .map((resource) => RESOURCE_FILTER_SYMBOLS[resource])
+    .join("");
 }
 
 function getResourceSymbolColumns(resources) {
@@ -152,8 +158,7 @@ function getResourceSymbolColumns(resources) {
   // 2 resources | |#| |#| |
   // 3 resources |#| |#| |#|
 
-  const symbols = resources.map((resource) => RESOURCE_SYMBOLS[resource]);
-  const columns = symbols.join("||").split("|");
+  const columns = resources.join("||").split("|");
 
   const numberOfColumns = MAX_RESOURCES * 2 - 1;
   while (columns.length < numberOfColumns) {
