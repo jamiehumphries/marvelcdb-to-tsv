@@ -2,5 +2,8 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "files.eol": "\n",
-  "files.insertFinalNewline": true
+  "files.insertFinalNewline": true,
+  "[javascript]": {
+    "editor.fontFamily": "marvel-icons, Consolas, 'Courier New', monospace"
+  }
 }
