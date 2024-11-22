@@ -21,7 +21,7 @@ const RESOURCE_SYMBOLS = {
 
 const resourceOrderSpecialCases = {
   // Shawarma
-  "campaign-0000-0000-0000-000000021183": ["👊🏾", "🧪", "⚡"],
+  21183: ["👊🏾", "🧪", "⚡"],
 };
 
 const factions = readJson("./data/factions.json");
@@ -133,7 +133,7 @@ function getResourceColumns(card) {
 }
 
 function getResources(card) {
-  const specialCase = resourceOrderSpecialCases[card.octgn_id];
+  const specialCase = resourceOrderSpecialCases[card.code];
   if (specialCase) {
     return specialCase;
   }
