@@ -146,7 +146,7 @@ function getResources(card) {
   if (specialCase) {
     return specialCase;
   }
-  const repeat = (emoji, count = 0) => Array(count).fill(emoji);
+  const repeat = (symbol, count = 0) => Array(count).fill(symbol);
   return [
     ...repeat(ENERGY, card.resource_energy),
     ...repeat(MENTAL, card.resource_mental),
