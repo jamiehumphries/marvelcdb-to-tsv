@@ -47,7 +47,9 @@ for (const card of allCards) {
 
 const identityTypeCodes = ["alter_ego", "hero"];
 const excludedFactions = ["campaign", "encounter"];
-const excludedSets = ["invocation", "weather"];
+const heroSetCodes = allCards
+  .filter((card) => card.type_code === "hero")
+  .map((card) => card.set_code);
 
 const cards = _(allCards)
   .reject(
@@ -56,7 +58,7 @@ const cards = _(allCards)
       identityTypeCodes.includes(card.type_code) ||
       identityTypeCodes.includes(card.back_card?.type_code) ||
       excludedFactions.includes(card.faction_code) ||
-      excludedSets.includes(card.set_code) ||
+      (card.faction_code === "hero" && !heroSetCodes.includes(card.set_code)) ||
       card.text?.startsWith("Linked")
   )
   .uniqBy("octgn_id")
