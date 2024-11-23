@@ -6,6 +6,7 @@ import { getCampaignCards } from "./campaign-cards.js";
 
 const MAX_RESOURCES = 3;
 
+// Install the bundled marvel-icons.ttf font file to see icons
 const ENERGY = "";
 const MENTAL = "";
 const PHYSICAL = "";
@@ -65,6 +66,7 @@ const cards = _(allCards)
       card.deck_limit === undefined ||
       card.type_code === "hero" ||
       excludedFactionCodes.has(card.faction_code) ||
+      // e.g. Doctor Strange's Invocation cards
       (card.faction_code === "hero" && !heroSetCodes.has(card.set_code))
   )
   .concat(getCampaignCards(allCards))
