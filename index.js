@@ -12,7 +12,7 @@ const PHYSICAL = "";
 const WILD = "";
 const UNIQUE = "";
 
-const RESOURCE_FILTER_SYMBOLS = Object.fromEntries([
+const RESOURCE_FILTER_EMOJI = Object.fromEntries([
   [ENERGY, "⚡"],
   [MENTAL, "🧪"],
   [PHYSICAL, "👊🏾"],
@@ -152,9 +152,7 @@ function getResources(card) {
 }
 
 function getResourceFilterColumn(resources) {
-  return resources
-    .map((resource) => RESOURCE_FILTER_SYMBOLS[resource])
-    .join("");
+  return resources.map((resource) => RESOURCE_FILTER_EMOJI[resource]).join("");
 }
 
 function getResourceSymbolColumns(resources) {
