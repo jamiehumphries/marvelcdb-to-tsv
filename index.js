@@ -45,27 +45,28 @@ for (const card of allCards) {
   backCard.back_card = card;
 }
 
-const identityTypeCodes = ["alter_ego", "hero"];
+const excludedFactionCodes = new Set(
+  factions
+    .filter((faction) => !faction.is_primary && faction.code !== "hero")
+    .map((faction) => faction.code)
+);
 
-const excludedFactionCodes = factions
-  .filter((faction) => !faction.is_primary && faction.code !== "hero")
-  .map((faction) => faction.code);
-
-const heroSetCodes = allCards
-  .filter((card) => card.type_code === "hero")
-  .map((card) => card.set_code);
+const heroSetCodes = new Set(
+  allCards
+    .filter((card) => card.type_code === "hero")
+    .map((card) => card.set_code)
+);
 
 const cards = _(allCards)
   .reject(
     (card) =>
+      card.hidden ||
       card.duplicate_of !== undefined ||
-      identityTypeCodes.includes(card.type_code) ||
-      identityTypeCodes.includes(card.back_card?.type_code) ||
-      excludedFactionCodes.includes(card.faction_code) ||
-      (card.faction_code === "hero" && !heroSetCodes.includes(card.set_code)) ||
-      card.text?.startsWith("Linked")
+      card.deck_limit === undefined ||
+      card.type_code === "hero" ||
+      excludedFactionCodes.has(card.faction_code) ||
+      (card.faction_code === "hero" && !heroSetCodes.has(card.set_code))
   )
-  .uniqBy("octgn_id")
   .concat(getCampaignCards(allCards))
   .sortBy("code")
   .value();
