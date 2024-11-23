@@ -6,12 +6,14 @@ import { getCampaignCards } from "./campaign-cards.js";
 
 const MAX_RESOURCES = 3;
 
-// Install the bundled marvel-icons.ttf font file to see icons
+// Install the bundled marvel-icons.ttf font file to see these icons
 const ENERGY = "";
 const MENTAL = "";
 const PHYSICAL = "";
 const WILD = "";
 const UNIQUE = "";
+
+const PER_HERO = "👤";
 
 const RESOURCE_FILTER_EMOJI = Object.fromEntries([
   [ENERGY, "⚡"],
@@ -115,7 +117,7 @@ function getCost(card) {
     case undefined:
       return "-";
     default:
-      return card.cost.toString();
+      return card.cost.toString() + (card.cost_per_hero ? PER_HERO : "");
   }
 }
 
