@@ -11,7 +11,7 @@ export function getCampaignCards(allCards) {
         isCampaignCardFromNeXtEvolution(card) ||
         isCampaignCardFromAgeOfApocalypse(card)
     )
-    .map(withPseudoOctgnId);
+    .map(withPseudoProperties);
 }
 
 function isCampaignCardFromTheRiseOfRedSkull(card) {
@@ -72,8 +72,9 @@ function isCampaignCardFromAgeOfApocalypse(card) {
   return isCampaignMissionSuccessReward || isCampaignMissionFailureObligation;
 }
 
-function withPseudoOctgnId(card) {
+function withPseudoProperties(card) {
   const suffix = card.code.padStart(12, "0");
   card.octgn_id = `campaign-0000-0000-0000-${suffix}`;
+  card.is_campaign = true;
   return card;
 }

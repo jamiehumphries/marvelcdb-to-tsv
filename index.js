@@ -101,9 +101,7 @@ function getUniqueness(card) {
 }
 
 function getFactionName(card) {
-  const code = excludedFactions.includes(card.faction_code)
-    ? "campaign"
-    : card.faction_code;
+  const code = card.is_campaign ? "campaign" : card.faction_code;
   return lookupName(code, factions);
 }
 
