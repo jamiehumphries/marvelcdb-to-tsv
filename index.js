@@ -46,7 +46,11 @@ for (const card of allCards) {
 }
 
 const identityTypeCodes = ["alter_ego", "hero"];
-const excludedFactions = ["campaign", "encounter"];
+
+const excludedFactionCodes = factions
+  .filter((faction) => !faction.is_primary && faction.code !== "hero")
+  .map((faction) => faction.code);
+
 const heroSetCodes = allCards
   .filter((card) => card.type_code === "hero")
   .map((card) => card.set_code);
@@ -57,7 +61,7 @@ const cards = _(allCards)
       card.duplicate_of !== undefined ||
       identityTypeCodes.includes(card.type_code) ||
       identityTypeCodes.includes(card.back_card?.type_code) ||
-      excludedFactions.includes(card.faction_code) ||
+      excludedFactionCodes.includes(card.faction_code) ||
       (card.faction_code === "hero" && !heroSetCodes.includes(card.set_code)) ||
       card.text?.startsWith("Linked")
   )
