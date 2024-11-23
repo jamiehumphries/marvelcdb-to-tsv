@@ -13,6 +13,7 @@ const PHYSICAL = "";
 const WILD = "";
 const UNIQUE = "";
 
+// Use emoji instead of "" for simplicity
 const PER_HERO = "👤";
 
 const RESOURCE_FILTER_EMOJI = Object.fromEntries([
