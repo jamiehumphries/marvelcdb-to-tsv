@@ -3,7 +3,7 @@
   "editor.formatOnSave": true,
   "files.eol": "\n",
   "files.insertFinalNewline": true,
-  "[javascript]": {
+  "[javascript][plaintext]": {
     "editor.fontFamily": "marvel-icons, Consolas, 'Courier New', monospace"
   }
 }
