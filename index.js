@@ -73,8 +73,7 @@ const cards = _(allCards)
       (card.faction_code === "hero" && !heroSetCodes.has(card.set_code))
   )
   .concat(getCampaignCards(allCards))
-  .sortBy("code")
-  .value();
+  .sortBy("code");
 
 const cardData = cards.map((card) => [
   getId(card),
