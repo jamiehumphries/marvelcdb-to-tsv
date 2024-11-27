@@ -106,8 +106,7 @@ function getUniqueness(card) {
 }
 
 function getFactionName(card) {
-  const code = card.is_campaign ? "campaign" : card.faction_code;
-  return lookupName(code, factions);
+  return lookupName(card.faction_code, factions);
 }
 
 function getCost(card) {

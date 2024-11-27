@@ -75,6 +75,6 @@ function isCampaignCardFromAgeOfApocalypse(card) {
 function withPseudoProperties(card) {
   const suffix = card.code.padStart(12, "0");
   card.octgn_id = `campaign-0000-0000-0000-${suffix}`;
-  card.is_campaign = true;
+  card.faction_code = "campaign";
   return card;
 }
