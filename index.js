@@ -1,5 +1,4 @@
 import { readdirSync, readFileSync, writeFileSync } from "fs";
-import _ from "lodash";
 import { resolve } from "path";
 
 import { getCampaignCards } from "./campaign-cards.js";
@@ -61,19 +60,21 @@ const heroSetCodes = new Set(
     .map((card) => card.set_code)
 );
 
-const cards = _(allCards)
-  .reject(
+const cards = allCards
+  .filter(
     (card) =>
-      card.hidden ||
-      card.duplicate_of !== undefined ||
-      card.deck_limit === undefined ||
-      card.type_code === "hero" ||
-      excludedFactionCodes.has(card.faction_code) ||
-      // e.g. Doctor Strange's Invocation cards
-      (card.faction_code === "hero" && !heroSetCodes.has(card.set_code))
+      !(
+        card.hidden ||
+        card.duplicate_of !== undefined ||
+        card.deck_limit === undefined ||
+        card.type_code === "hero" ||
+        excludedFactionCodes.has(card.faction_code) ||
+        // e.g. Doctor Strange's Invocation cards
+        (card.faction_code === "hero" && !heroSetCodes.has(card.set_code))
+      )
   )
   .concat(getCampaignCards(allCards))
-  .sortBy("code");
+  .sort((card1, card2) => card1.code.localeCompare(card2.code));
 
 const cardData = cards.map((card) => [
   getId(card),
