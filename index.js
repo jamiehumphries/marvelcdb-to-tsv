@@ -48,10 +48,11 @@ for (const card of allCards) {
   backCard.back_card = card;
 }
 
-const excludedFactionCodes = new Set(
+const playerFactionCodes = new Set(
   factions
-    .filter((faction) => !faction.is_primary && faction.code !== "hero")
+    .filter((faction) => faction.is_primary)
     .map((faction) => faction.code)
+    .concat("hero")
 );
 
 const heroSetCodes = new Set(
@@ -68,7 +69,7 @@ const cards = allCards
         card.duplicate_of !== undefined ||
         card.deck_limit === undefined ||
         card.type_code === "hero" ||
-        excludedFactionCodes.has(card.faction_code) ||
+        !playerFactionCodes.has(card.faction_code) ||
         // e.g. Doctor Strange's Invocation cards
         (card.faction_code === "hero" && !heroSetCodes.has(card.set_code))
       )
