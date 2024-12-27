@@ -76,5 +76,6 @@ function withPseudoProperties(card) {
   const suffix = card.code.padStart(12, "0");
   card.octgn_id = `campaign-0000-0000-0000-${suffix}`;
   card.faction_code = "campaign";
+  card.deck_limit ||= 1;
   return card;
 }
