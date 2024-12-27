@@ -78,6 +78,7 @@ const cards = allCards
   .sort((card1, card2) => card1.code.localeCompare(card2.code));
 
 const cardData = cards.map((card) => [
+  getOctgnXml(card),
   getId(card),
   getName(card),
   getUniqueness(card),
@@ -87,6 +88,10 @@ const cardData = cards.map((card) => [
   ...getResourceColumns(card),
   getTraits(card),
 ]);
+
+function getOctgnXml(card) {
+  return `<card qty="1" id="${card.octgn_id}">${card.name}</card>`;
+}
 
 function getId(card) {
   return card.octgn_id;
