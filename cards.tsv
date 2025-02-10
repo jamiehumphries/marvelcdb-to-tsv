@@ -539,10 +539,10 @@
 <card qty="1" id="86aa5c22-5f26-4e7c-b5c4-ddfbcaf4d476">Preservation</card>	86aa5c22-5f26-4e7c-b5c4-ddfbcaf4d476	Preservation		Protection	-	Resource	✨			
 <card qty="1" id="654900ac-f104-4a22-ad0f-4c9322a61a17">Martinex</card>	654900ac-f104-4a22-ad0f-4c9322a61a17	Martinex (T'Naga)		Basic	3	Ally	⚡						GUARDIAN.
 <card qty="1" id="campaign-0000-0000-0000-00000021139b">Odin</card>	campaign-0000-0000-0000-00000021139b	Odin		Campaign	0	Ally							ASGARD. KING.
-<card qty="1" id="campaign-0000-0000-0000-00000021180b">Cosmo</card>	campaign-0000-0000-0000-00000021180b	Cosmo		Campaign	-	Ally							GUARDIAN.
+<card qty="1" id="campaign-0000-0000-0000-00000021180b">Cosmo</card>	campaign-0000-0000-0000-00000021180b	Cosmo		Campaign	0	Ally	🧪						GUARDIAN.
 <card qty="3" id="campaign-0000-0000-0000-000000021183">Shawarma</card>	campaign-0000-0000-0000-000000021183	Shawarma		Campaign	-	Resource	👊🏾🧪⚡					
 <card qty="1" id="campaign-0000-0000-0000-000000021185">System Shock</card>	campaign-0000-0000-0000-000000021185	System Shock		Campaign	-	Obligation
-<card qty="1" id="campaign-0000-0000-0000-00000021187a">Norn Stone</card>	campaign-0000-0000-0000-00000021187a	Norn Stone		Campaign	-	Upgrade							ASGARD. ARTIFACT.
+<card qty="1" id="campaign-0000-0000-0000-00000021187a">Norn Stone</card>	campaign-0000-0000-0000-00000021187a	Norn Stone		Campaign	0	Upgrade							ASGARD. ARTIFACT.
 <card qty="1" id="40463491-a25f-477c-bbe9-c2843b35d542">Gamora</card>	40463491-a25f-477c-bbe9-c2843b35d542	Gamora		Hero	3	Ally	✨						GUARDIAN.
 <card qty="1" id="ff61c3f8-4008-4f28-a0cb-41beccf0ef7d">Nebula's Ship</card>	ff61c3f8-4008-4f28-a0cb-41beccf0ef7d	Nebula's Ship		Hero	2	Support	⚡						VEHICLE.
 <card qty="2" id="037e5a23-0dc2-432e-94e5-352a81ffd453">Cutthroat Ambition</card>	037e5a23-0dc2-432e-94e5-352a81ffd453	Cutthroat Ambition		Hero	1	Upgrade	🧪						TECHNIQUE.
@@ -814,8 +814,8 @@
 <card qty="1" id="campaign-0000-0000-0000-000000032180">War Cry</card>	campaign-0000-0000-0000-000000032180	War Cry		Campaign	0	Upgrade	✨						SKILL.
 <card qty="1" id="campaign-0000-0000-0000-000000032181">Coup de Grâce</card>	campaign-0000-0000-0000-000000032181	Coup de Grâce		Campaign	0	Upgrade	✨						SKILL.
 <card qty="1" id="campaign-0000-0000-0000-000000032182">Compassion</card>	campaign-0000-0000-0000-000000032182	Compassion		Campaign	0	Upgrade	✨						SKILL.
-<card qty="1" id="campaign-0000-0000-0000-000000032183">Group Assault</card>	campaign-0000-0000-0000-000000032183	Group Assault		Campaign	0	Upgrade	✨						SKILL.
-<card qty="1" id="campaign-0000-0000-0000-000000032184">Shock and Awe</card>	campaign-0000-0000-0000-000000032184	Shock and Awe		Campaign	0	Upgrade	✨						SKILL.
+<card qty="1" id="campaign-0000-0000-0000-000000032183">Group Assault</card>	campaign-0000-0000-0000-000000032183	Group Assault		Campaign	0	Upgrade	✨						SKILL. TACTIC.
+<card qty="1" id="campaign-0000-0000-0000-000000032184">Shock and Awe</card>	campaign-0000-0000-0000-000000032184	Shock and Awe		Campaign	0	Upgrade	✨						SKILL. TACTIC.
 <card qty="1" id="campaign-0000-0000-0000-000000032185">Improvisation</card>	campaign-0000-0000-0000-000000032185	Improvisation		Campaign	0	Upgrade	✨						SKILL.
 <card qty="1" id="campaign-0000-0000-0000-000000032186">Swagger</card>	campaign-0000-0000-0000-000000032186	Swagger		Campaign	0	Upgrade	✨						SKILL.
 <card qty="1" id="campaign-0000-0000-0000-000000032187">Surprise!</card>	campaign-0000-0000-0000-000000032187	Surprise!		Campaign	0	Upgrade	✨						SKILL.
@@ -824,8 +824,8 @@
 <card qty="1" id="campaign-0000-0000-0000-000000032190">Bodyguard</card>	campaign-0000-0000-0000-000000032190	Bodyguard		Campaign	0	Upgrade	✨						SKILL.
 <card qty="1" id="campaign-0000-0000-0000-000000032191">Surprise!</card>	campaign-0000-0000-0000-000000032191	Surprise!		Campaign	0	Upgrade	✨						SKILL.
 <card qty="1" id="campaign-0000-0000-0000-000000032192">Compassion</card>	campaign-0000-0000-0000-000000032192	Compassion		Campaign	0	Upgrade	✨						SKILL.
-<card qty="1" id="campaign-0000-0000-0000-000000032193">Rescue Operation</card>	campaign-0000-0000-0000-000000032193	Rescue Operation		Campaign	0	Upgrade	✨						SKILL.
-<card qty="1" id="campaign-0000-0000-0000-000000032194">Mentorship</card>	campaign-0000-0000-0000-000000032194	Mentorship		Campaign	0	Upgrade	✨						SKILL.
+<card qty="1" id="campaign-0000-0000-0000-000000032193">Rescue Operation</card>	campaign-0000-0000-0000-000000032193	Rescue Operation		Campaign	0	Upgrade	✨						SKILL. TACTIC.
+<card qty="1" id="campaign-0000-0000-0000-000000032194">Mentorship</card>	campaign-0000-0000-0000-000000032194	Mentorship		Campaign	0	Upgrade	✨						SKILL. TACTIC.
 <card qty="1" id="campaign-0000-0000-0000-000000032195">Fortitude</card>	campaign-0000-0000-0000-000000032195	Fortitude		Campaign	0	Upgrade	✨						SKILL.
 <card qty="1" id="7da2a29c-3abd-4e3b-b36e-9f140c033002">Phoenix</card>	7da2a29c-3abd-4e3b-b36e-9f140c033002	Phoenix (Jean Grey)		Hero	3	Ally	✨						PSIONIC. X-MEN.
 <card qty="1" id="7da2a29c-3abd-4e3b-b36e-9f140c033003">Ruby Quartz Visor</card>	7da2a29c-3abd-4e3b-b36e-9f140c033003	Ruby Quartz Visor		Hero	2	Upgrade	👊🏾						ITEM.
