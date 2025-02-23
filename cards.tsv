@@ -238,7 +238,7 @@
 <card qty="3" id="196aaf1c-4356-4d89-a28a-e9021edf510f">Momentum Shift</card>	196aaf1c-4356-4d89-a28a-e9021edf510f	Momentum Shift		Protection	2	Event	👊🏾						ATTACK.
 <card qty="1" id="1518044d-a532-4cfa-aa11-c7f5427ece3e">The Night Nurse</card>	1518044d-a532-4cfa-aa11-c7f5427ece3e	The Night Nurse		Protection	1	Support	🧪						PERSONA.
 <card qty="3" id="ba1c7989-37c8-46e7-9999-951ae18def3b">Unflappable</card>	ba1c7989-37c8-46e7-9999-951ae18def3b	Unflappable		Protection	1	Upgrade	🧪						CONDITION.
-<card qty="3" id="a85dbb1d-e5ba-4f6b-8276-1f911f8ea1bd">Warning</card>	a85dbb1d-e5ba-4f6b-8276-1f911f8ea1bd	Warning		Basic	0	Event	👊🏾						DEFENSE.
+<card qty="3" id="a85dbb1d-e5ba-4f6b-8276-1f911f8ea1bd">Warning</card>	a85dbb1d-e5ba-4f6b-8276-1f911f8ea1bd	Warning		Basic	0	Event	👊🏾			
 <card qty="1" id="b63402ba-906e-4119-a302-4a8dac229df0">The Sorcerer Supreme</card>	b63402ba-906e-4119-a302-4a8dac229df0	The Sorcerer Supreme		Basic	2	Upgrade	🧪						TITLE.
 <card qty="3" id="41e072f8-3735-48dd-800e-8e078060797a">Skilled Strike</card>	41e072f8-3735-48dd-800e-8e078060797a	Skilled Strike		Aggression	0	Event	👊🏾						SKILL.
 <card qty="3" id="bff7d04b-37c7-43c8-949a-5d1410b0b46d">Foiled!</card>	bff7d04b-37c7-43c8-949a-5d1410b0b46d	Foiled!		Justice	0	Event	⚡			
@@ -593,7 +593,7 @@
 <card qty="2" id="3f55fbba-0183-4714-b4e2-530b61389eb5">Flight of the Valkyrior</card>	3f55fbba-0183-4714-b4e2-530b61389eb5	Flight of the Valkyrior		Hero	2	Upgrade	⚡			
 <card qty="1" id="d850c4fe-f757-4e33-a49b-718e526687e1">Visit Valhalla</card>	d850c4fe-f757-4e33-a49b-718e526687e1	Visit Valhalla		Hero	0	Event	👊🏾			
 <card qty="2" id="645f17e8-e5b3-4055-814d-9eb7995233a4">Chooser of the Slain</card>	645f17e8-e5b3-4055-814d-9eb7995233a4	Chooser of the Slain		Hero	0	Event	🧪			
-<card qty="2" id="f56eda29-059a-44b9-a03c-02d5b8cfe0ad">Shieldmaiden</card>	f56eda29-059a-44b9-a03c-02d5b8cfe0ad	Shieldmaiden		Hero	1	Event	👊🏾			
+<card qty="2" id="f56eda29-059a-44b9-a03c-02d5b8cfe0ad">Shieldmaiden</card>	f56eda29-059a-44b9-a03c-02d5b8cfe0ad	Shieldmaiden		Hero	1	Event	👊🏾						DEFENSE.
 <card qty="3" id="a652d56e-1df5-4987-9a3f-d62817ed53a0">Have at Thee!</card>	a652d56e-1df5-4987-9a3f-d62817ed53a0	Have at Thee!		Hero	3	Event	⚡						ATTACK.
 <card qty="1" id="aa54dcd2-33b5-4d76-8928-e2425e45bc29">Thor</card>	aa54dcd2-33b5-4d76-8928-e2425e45bc29	Thor (Odinson)		Aggression	3	Ally	⚡						ASGARD. AVENGER.
 <card qty="1" id="3e61e952-0f84-4e8f-aeb2-f73f2b94cc88">Throg</card>	3e61e952-0f84-4e8f-aeb2-f73f2b94cc88	Throg (Puddlegulp)		Aggression	2	Ally	⚡						ASGARD. GUARDIAN.
@@ -1254,3 +1254,44 @@
 <card qty="1" id="0035c164-5de7-4b2e-bb80-d49e4b049021">White Queen</card>	0035c164-5de7-4b2e-bb80-d49e4b049021	White Queen (Emma Frost)		Basic	3	Ally	⚡						PSIONIC. X-MEN.
 <card qty="1" id="0035c164-5de7-4b2e-bb80-d49e4b049022">Face the Past</card>	0035c164-5de7-4b2e-bb80-d49e4b049022	Face the Past		Basic	0	Event	👊🏾			
 <card qty="3" id="0035c164-5de7-4b2e-bb80-d49e4b049037">Children of the Atom</card>	0035c164-5de7-4b2e-bb80-d49e4b049037	Children of the Atom		Basic	1	Support	⚡			
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050002">Nick Fury</card>	bddee479-23cf-4576-b33c-c95ee9050002	Nick Fury		Hero	4	Ally	✨						S.H.I.E.L.D.
+<card qty="2" id="bddee479-23cf-4576-b33c-c95ee9050003">All-Points Bulletin</card>	bddee479-23cf-4576-b33c-c95ee9050003	All-Points Bulletin		Hero	2	Event	⚡						TACTIC.
+<card qty="2" id="bddee479-23cf-4576-b33c-c95ee9050004">On the Double</card>	bddee479-23cf-4576-b33c-c95ee9050004	On the Double		Hero	0	Event	⚡			
+<card qty="3" id="bddee479-23cf-4576-b33c-c95ee9050005">Reinforcements</card>	bddee479-23cf-4576-b33c-c95ee9050005	Reinforcements		Hero	1	Event	👊🏾			
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050006">The Hard Call</card>	bddee479-23cf-4576-b33c-c95ee9050006	The Hard Call		Hero	2	Event	🧪			
+<card qty="2" id="bddee479-23cf-4576-b33c-c95ee9050007">Special Funding</card>	bddee479-23cf-4576-b33c-c95ee9050007	Special Funding		Hero	-	Resource	🧪👊🏾				
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050008">Support Staff</card>	bddee479-23cf-4576-b33c-c95ee9050008	Support Staff		Hero	1	Support	🧪						PERSONA. S.H.I.E.L.D.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050009">The Iliad</card>	bddee479-23cf-4576-b33c-c95ee9050009	The Iliad		Hero	6	Support	⚡						S.H.I.E.L.D. VEHICLE.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050010">Life Model Decoy</card>	bddee479-23cf-4576-b33c-c95ee9050010	Life Model Decoy		Hero	2	Upgrade	👊🏾						PREPARATION. TECH.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050011">S.H.I.E.L.D. Director</card>	bddee479-23cf-4576-b33c-c95ee9050011	S.H.I.E.L.D. Director		Hero	2	Upgrade	🧪						TITLE.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050012">Victoria Hand</card>	bddee479-23cf-4576-b33c-c95ee9050012	Victoria Hand		Leadership	3	Ally	🧪						S.H.I.E.L.D.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050013">Slingshot</card>	bddee479-23cf-4576-b33c-c95ee9050013	Slingshot (Yo-Yo Rodriguez)		Leadership	3	Ally	⚡						S.H.I.E.L.D. SPY.
+<card qty="3" id="bddee479-23cf-4576-b33c-c95ee9050014">Organizational Support</card>	bddee479-23cf-4576-b33c-c95ee9050014	Organizational Support		Leadership	-	Resource	🧪			
+<card qty="3" id="bddee479-23cf-4576-b33c-c95ee9050015">Agents of S.H.I.E.L.D.</card>	bddee479-23cf-4576-b33c-c95ee9050015	Agents of S.H.I.E.L.D.		Leadership	3	Support	🧪						TEAM.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050017">The Circe</card>	bddee479-23cf-4576-b33c-c95ee9050017	The Circe		Leadership	6	Support	👊🏾						S.H.I.E.L.D. VEHICLE.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050018">The Bellerophon</card>	bddee479-23cf-4576-b33c-c95ee9050018	The Bellerophon		Aggression	6	Support	⚡						S.H.I.E.L.D. VEHICLE.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050019">The Douglass</card>	bddee479-23cf-4576-b33c-c95ee9050019	The Douglass		Justice	6	Support	🧪						S.H.I.E.L.D. VEHICLE.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050020">The Pericles</card>	bddee479-23cf-4576-b33c-c95ee9050020	The Pericles		Protection	6	Support	⚡						S.H.I.E.L.D. VEHICLE.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050022">Grant Ward</card>	bddee479-23cf-4576-b33c-c95ee9050022	Grant Ward		Basic	0	Ally	👊🏾						S.H.I.E.L.D. SPY.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050023">Melinda May</card>	bddee479-23cf-4576-b33c-c95ee9050023	Melinda May		Basic	4	Ally	🧪						S.H.I.E.L.D. SPY.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050024">Super Spies</card>	bddee479-23cf-4576-b33c-c95ee9050024	Super Spies		Basic	0	Event	✨			
+<card qty="3" id="bddee479-23cf-4576-b33c-c95ee9050028">Front Organization</card>	bddee479-23cf-4576-b33c-c95ee9050028	Front Organization		Basic	0	Support	🧪						LOCATION.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050035">Assault</card>	bddee479-23cf-4576-b33c-c95ee9050035	Assault / Stealth		Hero	-	Upgrade	👊🏾						ITEM. TECH.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050036">Maria Hill</card>	bddee479-23cf-4576-b33c-c95ee9050036	Maria Hill		Hero	3	Ally	✨						S.H.I.E.L.D.
+<card qty="2" id="bddee479-23cf-4576-b33c-c95ee9050037">Concentrated Fire</card>	bddee479-23cf-4576-b33c-c95ee9050037	Concentrated Fire		Hero	2	Event	⚡						ATTACK.
+<card qty="3" id="bddee479-23cf-4576-b33c-c95ee9050038">Covert Surveillance</card>	bddee479-23cf-4576-b33c-c95ee9050038	Covert Surveillance		Hero	1	Event	🧪						THWART.
+<card qty="2" id="bddee479-23cf-4576-b33c-c95ee9050039">Spray Fire</card>	bddee479-23cf-4576-b33c-c95ee9050039	Spray Fire		Hero	3	Event	👊🏾						ATTACK.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050040">Fury's Flying Car</card>	bddee479-23cf-4576-b33c-c95ee9050040	Fury's Flying Car		Hero	2	Support	⚡						AERIAL. TECH. VEHICLE.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050041">Safe House #221</card>	bddee479-23cf-4576-b33c-c95ee9050041	Safe House #221		Hero	1	Support	🧪						LOCATION. S.H.I.E.L.D.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050042">EM Shield</card>	bddee479-23cf-4576-b33c-c95ee9050042	EM Shield		Hero	2	Upgrade	⚡						PREPARATION. TECH.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050043">Eyepatch Camera</card>	bddee479-23cf-4576-b33c-c95ee9050043	Eyepatch Camera		Hero	2	Upgrade	👊🏾						PREPARATION. TECH.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050044">Fury's Watch</card>	bddee479-23cf-4576-b33c-c95ee9050044	Fury's Watch		Hero	1	Upgrade	👊🏾						ITEM. TECH.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050045">Intelligence Analysis</card>	bddee479-23cf-4576-b33c-c95ee9050045	Intelligence Analysis		Hero	0	Upgrade	🧪						PREPARATION. SKILL.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050046">Secret Agent</card>	bddee479-23cf-4576-b33c-c95ee9050046	Secret Agent		Hero	2	Upgrade	👊🏾						TITLE.
+<card qty="3" id="bddee479-23cf-4576-b33c-c95ee9050050">Informant</card>	bddee479-23cf-4576-b33c-c95ee9050050	Informant		Justice	1	Upgrade	👊🏾						PREPARATION.
+<card qty="3" id="bddee479-23cf-4576-b33c-c95ee9050051">Intelligence</card>	bddee479-23cf-4576-b33c-c95ee9050051	Intelligence		Justice	1	Upgrade	🧪						PREPARATION.
+<card qty="3" id="bddee479-23cf-4576-b33c-c95ee9050052">Prism Dust</card>	bddee479-23cf-4576-b33c-c95ee9050052	Prism Dust		Justice	1	Upgrade	👊🏾						PREPARATION. TECH.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050054">Nick Fury, Sr.</card>	bddee479-23cf-4576-b33c-c95ee9050054	Nick Fury, Sr.		Basic	4	Ally	🧪						S.H.I.E.L.D. SOLDIER.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050055">Jemma Simmons</card>	bddee479-23cf-4576-b33c-c95ee9050055	Jemma Simmons		Basic	3	Support	🧪						PERSONA. S.H.I.E.L.D.
+<card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050056">Leo Fitz</card>	bddee479-23cf-4576-b33c-c95ee9050056	Leo Fitz		Basic	3	Support	🧪						PERSONA. S.H.I.E.L.D.
+<card qty="3" id="bddee479-23cf-4576-b33c-c95ee9050058">Practiced Plan</card>	bddee479-23cf-4576-b33c-c95ee9050058	Practiced Plan		Basic	0	Upgrade	⚡						PREPARATION.
