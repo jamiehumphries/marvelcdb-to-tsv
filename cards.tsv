@@ -538,7 +538,7 @@
 <card qty="1" id="7f474c15-26fd-4963-b73d-07f58ffa2d4e">Shield Spell</card>	7f474c15-26fd-4963-b73d-07f58ffa2d4e	Shield Spell		Protection	0	Event	⚡						DEFENSE. SPELL.
 <card qty="1" id="86aa5c22-5f26-4e7c-b5c4-ddfbcaf4d476">Preservation</card>	86aa5c22-5f26-4e7c-b5c4-ddfbcaf4d476	Preservation		Protection	-	Resource	✨			
 <card qty="1" id="654900ac-f104-4a22-ad0f-4c9322a61a17">Martinex</card>	654900ac-f104-4a22-ad0f-4c9322a61a17	Martinex (T'Naga)		Basic	3	Ally	⚡						GUARDIAN.
-<card qty="1" id="campaign-0000-0000-0000-00000021139b">Odin</card>	campaign-0000-0000-0000-00000021139b	Odin		Campaign	0	Ally							ASGARD. KING.
+<card qty="1" id="campaign-0000-0000-0000-00000021139b">Odin</card>	campaign-0000-0000-0000-00000021139b	Odin (All-Father)		Campaign	0	Ally							ASGARD. KING.
 <card qty="1" id="campaign-0000-0000-0000-00000021180b">Cosmo</card>	campaign-0000-0000-0000-00000021180b	Cosmo		Campaign	0	Ally	🧪						GUARDIAN.
 <card qty="3" id="campaign-0000-0000-0000-000000021183">Shawarma</card>	campaign-0000-0000-0000-000000021183	Shawarma		Campaign	-	Resource	👊🏾🧪⚡					
 <card qty="1" id="campaign-0000-0000-0000-000000021185">System Shock</card>	campaign-0000-0000-0000-000000021185	System Shock		Campaign	-	Obligation
