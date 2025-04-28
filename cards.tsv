@@ -606,7 +606,7 @@
 <card qty="2" id="28fbd016-7896-43e0-88e6-5e545a89776b">Leadership Training</card>	28fbd016-7896-43e0-88e6-5e545a89776b	Leadership Training		Leadership	1	Support	🧪						CONDITION.
 <card qty="3" id="5e38b56a-b343-42bb-8ac9-112e8cb56875">Anticipation</card>	5e38b56a-b343-42bb-8ac9-112e8cb56875	Anticipation		Protection	1	Upgrade	👊🏾						PREPARATION.
 <card qty="3" id="1ceed69a-3a70-43fd-920e-c9843506b066">Cosmic Alliance</card>	1ceed69a-3a70-43fd-920e-c9843506b066	Cosmic Alliance		Basic	3	Event	⚡			
-<card qty="1" id="c7f3cb05-1e4d-4599-a0ae-2e727ae3e40b">Intangible</card>	c7f3cb05-1e4d-4599-a0ae-2e727ae3e40b	Intangible / Dense		Hero	-	Upgrade
+<card qty="1" id="c7f3cb05-1e4d-4599-a0ae-2e727ae3e40b">Intangible</card>	c7f3cb05-1e4d-4599-a0ae-2e727ae3e40b	Intangible		Hero	0	Upgrade
 <card qty="1" id="e99ed0d4-7921-4197-bf36-503c20edc2be">Vivian</card>	e99ed0d4-7921-4197-bf36-503c20edc2be	Vivian		Hero	2	Ally	✨						ANDROID. CHAMPION.
 <card qty="1" id="a1db5cf7-a2d7-42d5-8571-e3c140cbf95e">616 Hickory Branch Lane</card>	a1db5cf7-a2d7-42d5-8571-e3c140cbf95e	616 Hickory Branch Lane		Hero	1	Support	🧪						LOCATION.
 <card qty="1" id="c1c0a740-1d11-4431-87fe-2597c301ee3b">Solar Gem</card>	c1c0a740-1d11-4431-87fe-2597c301ee3b	Solar Gem		Hero	2	Upgrade	✨						ITEM.
@@ -1295,3 +1295,52 @@
 <card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050055">Jemma Simmons</card>	bddee479-23cf-4576-b33c-c95ee9050055	Jemma Simmons		Basic	3	Support	🧪						PERSONA. S.H.I.E.L.D.
 <card qty="1" id="bddee479-23cf-4576-b33c-c95ee9050056">Leo Fitz</card>	bddee479-23cf-4576-b33c-c95ee9050056	Leo Fitz		Basic	3	Support	🧪						PERSONA. S.H.I.E.L.D.
 <card qty="3" id="bddee479-23cf-4576-b33c-c95ee9050058">Practiced Plan</card>	bddee479-23cf-4576-b33c-c95ee9050058	Practiced Plan		Basic	0	Upgrade	⚡						PREPARATION.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051002">T'Challa</card>	4010e194-df1c-477e-852e-3a2adf051002	T'Challa		Hero	4	Ally	✨						GENIUS. WAKANDA.
+<card qty="2" id="4010e194-df1c-477e-852e-3a2adf051003">Clawed Strike</card>	4010e194-df1c-477e-852e-3a2adf051003	Clawed Strike		Hero	2	Event	👊🏾						ATTACK.
+<card qty="2" id="4010e194-df1c-477e-852e-3a2adf051004">On the Prowl</card>	4010e194-df1c-477e-852e-3a2adf051004	On the Prowl		Hero	2	Event	🧪						THWART.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051005">Wakanda Forever!</card>	4010e194-df1c-477e-852e-3a2adf051005	Wakanda Forever!		Hero	1	Event	✨						TACTIC.
+<card qty="2" id="4010e194-df1c-477e-852e-3a2adf051006">Vibranium</card>	4010e194-df1c-477e-852e-3a2adf051006	Vibranium		Hero	-	Resource	✨✨				
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051007">The Elephant's Trunk</card>	4010e194-df1c-477e-852e-3a2adf051007	The Elephant's Trunk		Hero	2	Support	⚡						PERSONA. WAKANDA.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051008">Queen Ramonda</card>	4010e194-df1c-477e-852e-3a2adf051008	Queen Ramonda		Hero	1	Support	🧪						PERSONA. WAKANDA.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051009">Aja-Adanna</card>	4010e194-df1c-477e-852e-3a2adf051009	Aja-Adanna		Hero	1	Upgrade	🧪			
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051010">Kimoyo Beads</card>	4010e194-df1c-477e-852e-3a2adf051010	Kimoyo Beads		Hero	2	Upgrade	🧪						BLACK PANTHER. TECH.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051011">Panther Claws</card>	4010e194-df1c-477e-852e-3a2adf051011	Panther Claws		Hero	2	Upgrade	👊🏾						BLACK PANTHER. WEAPON.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051012">Spider Bites</card>	4010e194-df1c-477e-852e-3a2adf051012	Spider Bites		Hero	2	Upgrade	⚡						BLACK PANTHER. TECH.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051013">Vibranium Suit</card>	4010e194-df1c-477e-852e-3a2adf051013	Vibranium Suit		Hero	2	Upgrade	⚡						ARMOR. BLACK PANTHER.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051014">Manifold</card>	4010e194-df1c-477e-852e-3a2adf051014	Manifold (Eden Fesi)		Justice	3	Ally	⚡						AVENGER. WAKANDA.
+<card qty="3" id="4010e194-df1c-477e-852e-3a2adf051015">Infiltration</card>	4010e194-df1c-477e-852e-3a2adf051015	Infiltration		Justice	1	Event	🧪						THWART.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051016">Going Undercover</card>	4010e194-df1c-477e-852e-3a2adf051016	Going Undercover		Justice	0	Player Side Scheme	👊🏾			
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051017">Show of Empathy</card>	4010e194-df1c-477e-852e-3a2adf051017	Show of Empathy		Justice	0	Player Side Scheme	⚡			
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051018">The Raft</card>	4010e194-df1c-477e-852e-3a2adf051018	The Raft		Justice	2	Support	👊🏾						LOCATION. S.H.I.E.L.D.
+<card qty="3" id="4010e194-df1c-477e-852e-3a2adf051019">Invisibility Gear</card>	4010e194-df1c-477e-852e-3a2adf051019	Invisibility Gear		Justice	1	Upgrade	⚡						ITEM. TECH.
+<card qty="3" id="4010e194-df1c-477e-852e-3a2adf051021">Sting Operation</card>	4010e194-df1c-477e-852e-3a2adf051021	Sting Operation		Justice	2	Upgrade	👊🏾						PREPARATION. TACTIC.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051022">Aneka</card>	4010e194-df1c-477e-852e-3a2adf051022	Aneka		Basic	3	Ally	🧪						DORA MILAJE. WAKANDA.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051023">Ayo</card>	4010e194-df1c-477e-852e-3a2adf051023	Ayo		Basic	3	Ally	👊🏾						DORA MILAJE. WAKANDA.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051024">Okoye</card>	4010e194-df1c-477e-852e-3a2adf051024	Okoye		Basic	4	Ally	⚡						DORA MILAJE. WAKANDA.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051025">Heart of the Panther</card>	4010e194-df1c-477e-852e-3a2adf051025	Heart of the Panther		Basic	2	Event	✨						WAKANDA.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051030">Dora Milaje</card>	4010e194-df1c-477e-852e-3a2adf051030	Dora Milaje		Basic	3	Support	✨						WAKANDA.
+<card qty="1" id="4010e194-df1c-477e-852e-3a2adf051037">White Wolf</card>	4010e194-df1c-477e-852e-3a2adf051037	White Wolf (Hunter)		Leadership	3	Ally	👊🏾						WAKANDA.
+<card qty="3" id="4010e194-df1c-477e-852e-3a2adf051038">Target Spotter</card>	4010e194-df1c-477e-852e-3a2adf051038	Target Spotter		Aggression	1	Support	🧪						PERSONA. S.H.I.E.L.D.
+<card qty="2" id="25cf07ae-e8ab-4443-8040-672bd2052002">Smooth as Silk</card>	25cf07ae-e8ab-4443-8040-672bd2052002	Smooth as Silk		Hero	0	Event	⚡			
+<card qty="3" id="25cf07ae-e8ab-4443-8040-672bd2052003">Swinging Silk Kick</card>	25cf07ae-e8ab-4443-8040-672bd2052003	Swinging Silk Kick		Hero	3	Event	👊🏾						AERIAL. ATTACK. SUPERPOWER.
+<card qty="2" id="25cf07ae-e8ab-4443-8040-672bd2052004">Wallcrawl</card>	25cf07ae-e8ab-4443-8040-672bd2052004	Wallcrawl		Hero	1	Event	🧪						SUPERPOWER. THWART.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052005">Get the Scoop</card>	25cf07ae-e8ab-4443-8040-672bd2052005	Get the Scoop		Hero	0	Player Side Scheme	✨			
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052006">Albert Moon</card>	25cf07ae-e8ab-4443-8040-672bd2052006	Albert Moon		Hero	2	Support	🧪						PERSONA.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052007">J. Jonah Jameson</card>	25cf07ae-e8ab-4443-8040-672bd2052007	J. Jonah Jameson		Hero	3	Support	🧪						PERSONA.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052008">Eidetic Memory</card>	25cf07ae-e8ab-4443-8040-672bd2052008	Eidetic Memory		Hero	1	Upgrade	⚡						SUPERPOWER.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052009">Organic Webbing</card>	25cf07ae-e8ab-4443-8040-672bd2052009	Organic Webbing		Hero	2	Upgrade	⚡						SUPERPOWER.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052010">Outwit</card>	25cf07ae-e8ab-4443-8040-672bd2052010	Outwit		Hero	2	Upgrade	🧪						SKILL.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052011">Spider Claws</card>	25cf07ae-e8ab-4443-8040-672bd2052011	Spider Claws		Hero	2	Upgrade	👊🏾						WEAPON.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052012">Spider Reflexes</card>	25cf07ae-e8ab-4443-8040-672bd2052012	Spider Reflexes		Hero	2	Upgrade	👊🏾						SUPERPOWER.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052013">Scarlet Spider</card>	25cf07ae-e8ab-4443-8040-672bd2052013	Scarlet Spider (Ben Reilly)		Protection	3	Ally	👊🏾						WEB-WARRIOR.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052014">Spider-Byte</card>	25cf07ae-e8ab-4443-8040-672bd2052014	Spider-Byte (Margo Kess)		Protection	3	Ally	🧪						WEB-WARRIOR.
+<card qty="3" id="25cf07ae-e8ab-4443-8040-672bd2052016">"Stop Hitting Yourself"</card>	25cf07ae-e8ab-4443-8040-672bd2052016	"Stop Hitting Yourself"		Protection	2	Event	👊🏾						ATTACK.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052017">Dr. Sinclair</card>	25cf07ae-e8ab-4443-8040-672bd2052017	Dr. Sinclair		Protection	2	Support	🧪						PERSONA. THERAPIST.
+<card qty="3" id="25cf07ae-e8ab-4443-8040-672bd2052018">Energy Shield</card>	25cf07ae-e8ab-4443-8040-672bd2052018	Energy Shield		Protection	0	Upgrade	⚡						ITEM. TECH.
+<card qty="3" id="25cf07ae-e8ab-4443-8040-672bd2052019">Ready for a Fight</card>	25cf07ae-e8ab-4443-8040-672bd2052019	Ready for a Fight		Protection	1	Upgrade	👊🏾						PREPARATION.
+<card qty="3" id="25cf07ae-e8ab-4443-8040-672bd2052020">Stun Gun</card>	25cf07ae-e8ab-4443-8040-672bd2052020	Stun Gun		Protection	2	Upgrade	⚡						TECH. WEAPON.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052021">Madame Web</card>	25cf07ae-e8ab-4443-8040-672bd2052021	Madame Web (Julia Carpenter)		Basic	3	Ally	🧪						WEB-WARRIOR.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052024">Investigative Journalism</card>	25cf07ae-e8ab-4443-8040-672bd2052024	Investigative Journalism		Basic	2	Event	✨						SKILL.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052032">Spider-Man 2099</card>	25cf07ae-e8ab-4443-8040-672bd2052032	Spider-Man 2099 (Miguel O'Hara)		Leadership	4	Ally	⚡						AERIAL. WEB-WARRIOR.
+<card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052033">Spider-Woman</card>	25cf07ae-e8ab-4443-8040-672bd2052033	Spider-Woman (Jessica Drew)		Aggression	3	Ally	👊🏾						S.H.I.E.L.D. WEB-WARRIOR.
+<card qty="3" id="25cf07ae-e8ab-4443-8040-672bd2052034">Quick Quip</card>	25cf07ae-e8ab-4443-8040-672bd2052034	Quick Quip		Justice	2	Event	🧪						SKILL.
