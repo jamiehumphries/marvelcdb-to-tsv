@@ -448,7 +448,7 @@
 <card qty="3" id="27d82195-7308-4770-9e12-60eae702aca0">Plan of Attack</card>	27d82195-7308-4770-9e12-60eae702aca0	Plan of Attack		Aggression	0	Event	🧪						TACTIC.
 <card qty="3" id="841bda0d-45c9-4094-b549-8b34b7761cbf">First Hit</card>	841bda0d-45c9-4094-b549-8b34b7761cbf	First Hit		Protection	1	Event	⚡						ATTACK.
 <card qty="3" id="8a574b45-8814-460c-90ca-14ade3e8f76f">Impede</card>	8a574b45-8814-460c-90ca-14ade3e8f76f	Impede		Justice	2	Event	🧪						THWART.
-<card qty="1" id="5ec737f1-bce7-4c19-b5a7-5af0154687ef">Godslayer</card>	5ec737f1-bce7-4c19-b5a7-5af0154687ef	Godslayer		Aggression	3	Upgrade	🧪						WEAPON.
+<card qty="1" id="5ec737f1-bce7-4c19-b5a7-5af0154687ef">Godslayer</card>	5ec737f1-bce7-4c19-b5a7-5af0154687ef	Godslayer		Aggression	3	Upgrade	🧪						WEAPON.
 <card qty="1" id="a4012395-845d-427f-866a-4a73b285167e">Drax</card>	a4012395-845d-427f-866a-4a73b285167e	Drax		Basic	3	Ally	👊🏾						GUARDIAN.
 <card qty="3" id="beae19b9-7194-4bef-925d-99909119c620">Hit and Run</card>	beae19b9-7194-4bef-925d-99909119c620	Hit and Run		Basic	3	Event	⚡						ATTACK. THWART.
 <card qty="3" id="00628a2d-6b55-48f6-8ea8-5ab52622cd27">Pivotal Moment</card>	00628a2d-6b55-48f6-8ea8-5ab52622cd27	Pivotal Moment		Justice	2	Event	👊🏾						ATTACK.
