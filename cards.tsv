@@ -1344,3 +1344,49 @@
 <card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052032">Spider-Man 2099</card>	25cf07ae-e8ab-4443-8040-672bd2052032	Spider-Man 2099 (Miguel O'Hara)		Leadership	4	Ally	⚡						AERIAL. WEB-WARRIOR.
 <card qty="1" id="25cf07ae-e8ab-4443-8040-672bd2052033">Spider-Woman</card>	25cf07ae-e8ab-4443-8040-672bd2052033	Spider-Woman (Jessica Drew)		Aggression	3	Ally	👊🏾						S.H.I.E.L.D. WEB-WARRIOR.
 <card qty="3" id="25cf07ae-e8ab-4443-8040-672bd2052034">Quick Quip</card>	25cf07ae-e8ab-4443-8040-672bd2052034	Quick Quip		Justice	2	Event	🧪						SKILL.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053002">Redwing</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053002	Redwing		Hero	2	Ally	✨						AERIAL. AVENGER. BIRD.
+<card qty="2" id="dc47d9b6-c518-4972-b8bf-a1e1ab053003">Bird of Prey</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053003	Bird of Prey		Hero	2	Event	👊🏾						AERIAL. ATTACK.
+<card qty="2" id="dc47d9b6-c518-4972-b8bf-a1e1ab053004">Bird's-Eye View</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053004	Bird's-Eye View		Hero	2	Event	🧪						AERIAL. THWART.
+<card qty="2" id="dc47d9b6-c518-4972-b8bf-a1e1ab053005">Up, Up, and Away</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053005	Up, Up, and Away		Hero	0	Event	⚡						AERIAL. DEFENSE.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053006">Falcon's Flock</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053006	Falcon's Flock		Hero	2	Support	⚡						AERIAL. BIRD.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053007">Soup Kitchen</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053007	Soup Kitchen		Hero	1	Support	🧪						LOCATION.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053008">Aerial Evacuation</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053008	Aerial Evacuation		Hero	1	Upgrade	👊🏾						AERIAL. PREPARATION.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053009">Aerial Recon</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053009	Aerial Recon		Hero	1	Upgrade	🧪						AERIAL. TACTIC.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053010">Battlefield Awareness</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053010	Battlefield Awareness		Hero	2	Upgrade	🧪						AERIAL. SKILL.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053011">Draw Their Fire</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053011	Draw Their Fire		Hero	1👤	Upgrade	⚡						AERIAL. PREPARATION.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053012">Talon Line</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053012	Talon Line		Hero	2	Upgrade	👊🏾						ITEM.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053013">Vibranium Microweave</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053013	Vibranium Microweave		Hero	2	Upgrade	⚡						TECH. WAKANDA.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053015">Aero</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053015	Aero		Leadership	3	Ally	⚡						AERIAL. AGENT OF ATLAS.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053017">Hugin & Munin</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053017	Hugin & Munin		Leadership	2	Ally	⚡						AERIAL. ASGARD. BIRD.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053018">Spectrum</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053018	Spectrum (Monica Rambeau)		Leadership	5	Ally	⚡						AERIAL. AVENGER.
+<card qty="3" id="dc47d9b6-c518-4972-b8bf-a1e1ab053019">Strength in Diversity</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053019	Strength in Diversity		Leadership	2👤	Event	✨			
+<card qty="3" id="dc47d9b6-c518-4972-b8bf-a1e1ab053020">Flight Squadron</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053020	Flight Squadron		Leadership	2	Support	👊🏾						TEAM.
+<card qty="3" id="dc47d9b6-c518-4972-b8bf-a1e1ab053021">Resource Reserve</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053021	Resource Reserve		Leadership	1	Support	👊🏾						LOCATION.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053023">Captain America</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053023	Captain America		Leadership	0	Upgrade	👊🏾						TITLE.
+<card qty="3" id="dc47d9b6-c518-4972-b8bf-a1e1ab053024">Wingman</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053024	Wingman		Leadership	0	Upgrade	🧪						TITLE.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053034">Captain America's Shield</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053034	Captain America's Shield		Leadership	1	Upgrade	✨						ITEM.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053035">Winter Soldier</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053035	Winter Soldier (Bucky Barnes)		Aggression	3	Ally	🧪						S.H.I.E.L.D. SOLDIER.
+<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053036">Misty Knight</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053036	Misty Knight		Justice	4	Ally	👊🏾						HERO FOR HIRE.
+<card qty="3" id="dc47d9b6-c518-4972-b8bf-a1e1ab053037">Ops Room</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053037	Ops Room		Protection	2	Support	⚡						S.H.I.E.L.D.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054002">Cybernetic Arm</card>	8e74fa84-01d6-42e0-8b7d-b02638054002	Cybernetic Arm		Hero	1	Upgrade	👊🏾						ITEM. TECH.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054003">Black Widow</card>	8e74fa84-01d6-42e0-8b7d-b02638054003	Black Widow (Natasha Romanoff)		Hero	3	Ally	✨						S.H.I.E.L.D. SPY.
+<card qty="2" id="8e74fa84-01d6-42e0-8b7d-b02638054004">Arm Block</card>	8e74fa84-01d6-42e0-8b7d-b02638054004	Arm Block		Hero	1	Event	🧪						ATTACK. DEFENSE.
+<card qty="3" id="8e74fa84-01d6-42e0-8b7d-b02638054005">Metal Punch</card>	8e74fa84-01d6-42e0-8b7d-b02638054005	Metal Punch		Hero	3	Event	👊🏾						ATTACK.
+<card qty="2" id="8e74fa84-01d6-42e0-8b7d-b02638054006">Electrical Discharge</card>	8e74fa84-01d6-42e0-8b7d-b02638054006	Electrical Discharge		Hero	2	Event	⚡						ATTACK.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054007">Safe House #30</card>	8e74fa84-01d6-42e0-8b7d-b02638054007	Safe House #30		Hero	1	Support	🧪						LOCATION. S.H.I.E.L.D.
+<card qty="2" id="8e74fa84-01d6-42e0-8b7d-b02638054008">Silent Infiltration</card>	8e74fa84-01d6-42e0-8b7d-b02638054008	Silent Infiltration		Hero	2	Upgrade	🧪						PREPARATION.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054009">Winter Armor</card>	8e74fa84-01d6-42e0-8b7d-b02638054009	Winter Armor		Hero	2	Upgrade	👊🏾						ARMOR.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054010">Winter Mask</card>	8e74fa84-01d6-42e0-8b7d-b02638054010	Winter Mask		Hero	1	Upgrade	🧪						ITEM. TECH.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054011">Winter Rifle</card>	8e74fa84-01d6-42e0-8b7d-b02638054011	Winter Rifle		Hero	3	Upgrade	⚡						WEAPON.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054012">Captain America</card>	8e74fa84-01d6-42e0-8b7d-b02638054012	Captain America (Steve Rogers)		Aggression	4	Ally	🧪						S.H.I.E.L.D. SOLDIER.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054013">Deathlok</card>	8e74fa84-01d6-42e0-8b7d-b02638054013	Deathlok (Henry Hayes)		Aggression	3	Ally	👊🏾						CYBORG. S.H.I.E.L.D.
+<card qty="3" id="8e74fa84-01d6-42e0-8b7d-b02638054014">Firepower</card>	8e74fa84-01d6-42e0-8b7d-b02638054014	Firepower		Aggression	1	Event	👊🏾						ATTACK.
+<card qty="3" id="8e74fa84-01d6-42e0-8b7d-b02638054016">Spoiling for a Fight</card>	8e74fa84-01d6-42e0-8b7d-b02638054016	Spoiling for a Fight		Aggression	0	Event	⚡			
+<card qty="3" id="8e74fa84-01d6-42e0-8b7d-b02638054017">Aggressive Stance</card>	8e74fa84-01d6-42e0-8b7d-b02638054017	Aggressive Stance		Aggression	1	Upgrade	🧪						PREPARATION.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054018">Bambino</card>	8e74fa84-01d6-42e0-8b7d-b02638054018	Bambino		Aggression	3	Upgrade	⚡						TECH. WEAPON.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054019">Man on the Wall</card>	8e74fa84-01d6-42e0-8b7d-b02638054019	Man on the Wall		Aggression	1	Upgrade	👊🏾						TITLE.
+<card qty="3" id="8e74fa84-01d6-42e0-8b7d-b02638054020">S.H.I.E.L.D. Sidearm</card>	8e74fa84-01d6-42e0-8b7d-b02638054020	S.H.I.E.L.D. Sidearm		Aggression	1	Upgrade	🧪						WEAPON.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054022">Super-Soldiers</card>	8e74fa84-01d6-42e0-8b7d-b02638054022	Super-Soldiers		Basic	3	Event	👊🏾						ATTACK.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054023">Winter, Widow, Soldier, Spy</card>	8e74fa84-01d6-42e0-8b7d-b02638054023	Winter, Widow, Soldier, Spy		Basic	2	Event	⚡						ATTACK.
+<card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054032">White Widow</card>	8e74fa84-01d6-42e0-8b7d-b02638054032	White Widow (Yelena Belova)		Protection	4	Ally	🧪						S.H.I.E.L.D. SPY.
+<card qty="3" id="8e74fa84-01d6-42e0-8b7d-b02638054033">S.H.I.E.L.D. Deputy</card>	8e74fa84-01d6-42e0-8b7d-b02638054033	S.H.I.E.L.D. Deputy		Basic	0	Upgrade	🧪						WEAPON.
