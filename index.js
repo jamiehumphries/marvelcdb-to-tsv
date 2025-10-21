@@ -64,15 +64,13 @@ const heroSetCodes = new Set(
 const cards = allCards
   .filter(
     (card) =>
-      !(
-        card.hidden ||
-        card.duplicate_of !== undefined ||
-        card.deck_limit === undefined ||
-        card.type_code === "hero" ||
-        !playerFactionCodes.has(card.faction_code) ||
-        // e.g. Doctor Strange's Invocation cards
-        (card.faction_code === "hero" && !heroSetCodes.has(card.set_code))
-      )
+      !card.hidden &&
+      card.duplicate_of === undefined &&
+      card.deck_limit !== undefined &&
+      card.type_code !== "hero" &&
+      playerFactionCodes.has(card.faction_code) &&
+      // Excludes cards liks Storms's Weather deck
+      (heroSetCodes.has(card.set_code) || card.faction_code !== "hero")
   )
   .concat(getCampaignCards(allCards))
   .sort((card1, card2) => card1.code.localeCompare(card2.code));
