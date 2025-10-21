@@ -1048,7 +1048,7 @@
 <card qty="1" id="cbfcb70f-a855-4068-b02f-816804042012">Siryn</card>	cbfcb70f-a855-4068-b02f-816804042012	Siryn (Theresa Cassidy)		Protection	4	Ally	⚡						AERIAL. X-FORCE.
 <card qty="1" id="cbfcb70f-a855-4068-b02f-816804042013">Warpath</card>	cbfcb70f-a855-4068-b02f-816804042013	Warpath (James Proudstar)		Protection	4	Ally	⚡						AERIAL. X-FORCE.
 <card qty="3" id="cbfcb70f-a855-4068-b02f-816804042014">Aerial Intervention</card>	cbfcb70f-a855-4068-b02f-816804042014	Aerial Intervention		Protection	0	Event	⚡						AERIAL.
-<card qty="3" id="cbfcb70f-a855-4068-b02f-816804042016">Taunt</card>	cbfcb70f-a855-4068-b02f-816804042016	Taunt		Protection	1	Event	👊🏾			
+<card qty="3" id="cbfcb70f-a855-4068-b02f-816804042016">Taunt</card>	cbfcb70f-a855-4068-b02f-816804042016	Taunt		Protection	1	Event	👊🏾						TACTIC.
 <card qty="1" id="cbfcb70f-a855-4068-b02f-816804042017">Render Medical Aid</card>	cbfcb70f-a855-4068-b02f-816804042017	Render Medical Aid		Protection	0	Player Side Scheme	🧪			
 <card qty="1" id="cbfcb70f-a855-4068-b02f-816804042018">Angel's Aerie</card>	cbfcb70f-a855-4068-b02f-816804042018	Angel's Aerie		Protection	1	Support	🧪						LOCATION.
 <card qty="3" id="cbfcb70f-a855-4068-b02f-816804042019">Containment Strategy</card>	cbfcb70f-a855-4068-b02f-816804042019	Containment Strategy		Protection	1	Upgrade	🧪						TACTIC.
@@ -1364,7 +1364,6 @@
 <card qty="3" id="dc47d9b6-c518-4972-b8bf-a1e1ab053021">Resource Reserve</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053021	Resource Reserve		Leadership	1	Support	👊🏾						LOCATION.
 <card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053023">Captain America</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053023	Captain America		Leadership	0	Upgrade	👊🏾						TITLE.
 <card qty="3" id="dc47d9b6-c518-4972-b8bf-a1e1ab053024">Wingman</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053024	Wingman		Leadership	0	Upgrade	🧪						TITLE.
-<card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053034">Captain America's Shield</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053034	Captain America's Shield		Leadership	1	Upgrade	✨						ITEM.
 <card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053035">Winter Soldier</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053035	Winter Soldier (Bucky Barnes)		Aggression	3	Ally	🧪						S.H.I.E.L.D. SOLDIER.
 <card qty="1" id="dc47d9b6-c518-4972-b8bf-a1e1ab053036">Misty Knight</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053036	Misty Knight		Justice	4	Ally	👊🏾						HERO FOR HIRE.
 <card qty="3" id="dc47d9b6-c518-4972-b8bf-a1e1ab053037">Ops Room</card>	dc47d9b6-c518-4972-b8bf-a1e1ab053037	Ops Room		Protection	2	Support	⚡						S.H.I.E.L.D.
@@ -1389,4 +1388,36 @@
 <card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054022">Super-Soldiers</card>	8e74fa84-01d6-42e0-8b7d-b02638054022	Super-Soldiers		Basic	3	Event	👊🏾						ATTACK.
 <card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054023">Winter, Widow, Soldier, Spy</card>	8e74fa84-01d6-42e0-8b7d-b02638054023	Winter, Widow, Soldier, Spy		Basic	2	Event	⚡						ATTACK.
 <card qty="1" id="8e74fa84-01d6-42e0-8b7d-b02638054032">White Widow</card>	8e74fa84-01d6-42e0-8b7d-b02638054032	White Widow (Yelena Belova)		Protection	4	Ally	🧪						S.H.I.E.L.D. SPY.
-<card qty="3" id="8e74fa84-01d6-42e0-8b7d-b02638054033">S.H.I.E.L.D. Deputy</card>	8e74fa84-01d6-42e0-8b7d-b02638054033	S.H.I.E.L.D. Deputy		Basic	0	Upgrade	🧪						WEAPON.
+<card qty="3" id="8e74fa84-01d6-42e0-8b7d-b02638054033">S.H.I.E.L.D. Deputy</card>	8e74fa84-01d6-42e0-8b7d-b02638054033	S.H.I.E.L.D. Deputy		Basic	0	Upgrade	🧪						TITLE.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056002">Moon Knight</card>	e4e959c3-c409-44ea-8bba-46addf056002	Moon Knight (Marc Spector)		Hero	1	Ally	✨						AVENGER.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056003">Precinct HQ</card>	e4e959c3-c409-44ea-8bba-46addf056003	Precinct HQ		Hero	2	Support	🧪						LOCATION.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056004">Cat's Head Amulet</card>	e4e959c3-c409-44ea-8bba-46addf056004	Cat's Head Amulet		Hero	2	Upgrade	⚡						ARTIFACT. ITEM.
+<card qty="2" id="e4e959c3-c409-44ea-8bba-46addf056005">Sharp Claws</card>	e4e959c3-c409-44ea-8bba-46addf056005	Sharp Claws		Hero	1	Upgrade	👊🏾						WEAPON.
+<card qty="2" id="e4e959c3-c409-44ea-8bba-46addf056006">Cat-Like Reflexes</card>	e4e959c3-c409-44ea-8bba-46addf056006	Cat-Like Reflexes		Hero	1	Upgrade	⚡						SUPERPOWER.
+<card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056007">Hunted</card>	e4e959c3-c409-44ea-8bba-46addf056007	Hunted		Hero	0	Upgrade	🧪						CONDITION.
+<card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056008">Tooth and Claw</card>	e4e959c3-c409-44ea-8bba-46addf056008	Tooth and Claw		Hero	4	Event	👊🏾						ATTACK. SUPERPOWER.
+<card qty="2" id="e4e959c3-c409-44ea-8bba-46addf056009">Feline Senses</card>	e4e959c3-c409-44ea-8bba-46addf056009	Feline Senses		Hero	2	Event	🧪						SUPERPOWER. THWART.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056010">Two-Gun Kid</card>	e4e959c3-c409-44ea-8bba-46addf056010	Two-Gun Kid (Matthew Hawk)		Aggression	3	Ally	🧪						AVENGER.
+<card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056012">Air Cover</card>	e4e959c3-c409-44ea-8bba-46addf056012	Air Cover		Aggression	1	Support	⚡						TECH.
+<card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056013">Aggressive Conditioning</card>	e4e959c3-c409-44ea-8bba-46addf056013	Aggressive Conditioning		Aggression	3	Upgrade	👊🏾						CONDITION.
+<card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056016">Coup de Grâce</card>	e4e959c3-c409-44ea-8bba-46addf056016	Coup de Grâce		Aggression	2	Event	🧪						ATTACK.
+<card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056017">Savage Strike</card>	e4e959c3-c409-44ea-8bba-46addf056017	Savage Strike		Aggression	3	Event	👊🏾						SKILL.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056019">Yellow Jacket</card>	e4e959c3-c409-44ea-8bba-46addf056019	Yellow Jacket (Hank Pym)		Basic	3	Ally	⚡						AVENGER.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056030">Wiccan</card>	e4e959c3-c409-44ea-8bba-46addf056030	Wiccan (William Kaplan)		Hero	2	Ally	✨						AVENGER. MYSTIC.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056031">Altman Residence</card>	e4e959c3-c409-44ea-8bba-46addf056031	Altman Residence		Hero	1	Support	🧪						LOCATION.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056032">Winged Shape</card>	e4e959c3-c409-44ea-8bba-46addf056032	Winged Shape		Hero	2	Upgrade	⚡🧪						SHAPESHIFT.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056033">Hulk Shape</card>	e4e959c3-c409-44ea-8bba-46addf056033	Hulk Shape		Hero	2	Upgrade	👊🏾👊🏾						SHAPESHIFT.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056034">Armored Shape</card>	e4e959c3-c409-44ea-8bba-46addf056034	Armored Shape		Hero	2	Upgrade	⚡👊🏾						SHAPESHIFT.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056035">Imitation Shape</card>	e4e959c3-c409-44ea-8bba-46addf056035	Imitation Shape		Hero	2	Upgrade	🧪🧪						SHAPESHIFT.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056036">Alien Physiology</card>	e4e959c3-c409-44ea-8bba-46addf056036	Alien Physiology		Hero	3	Upgrade	🧪						SUPERPOWER.
+<card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056037">Shapeshifter Strike</card>	e4e959c3-c409-44ea-8bba-46addf056037	Shapeshifter Strike		Hero	2	Event	⚡						ATTACK. SUPERPOWER.
+<card qty="2" id="e4e959c3-c409-44ea-8bba-46addf056038">Armored Defense</card>	e4e959c3-c409-44ea-8bba-46addf056038	Armored Defense		Hero	1	Event	👊🏾						DEFENSE. SUPERPOWER.
+<card qty="2" id="e4e959c3-c409-44ea-8bba-46addf056039">Impersonation</card>	e4e959c3-c409-44ea-8bba-46addf056039	Impersonation		Hero	2	Event	🧪						SUPERPOWER. THWART.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056040">Shapeshifter</card>	e4e959c3-c409-44ea-8bba-46addf056040	Shapeshifter		Hero	0	Event	✨						SUPERPOWER.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056041">Patriot</card>	e4e959c3-c409-44ea-8bba-46addf056041	Patriot (Elijah Bradley)		Protection	3	Ally	⚡						AVENGER.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056043">Hidden Base</card>	e4e959c3-c409-44ea-8bba-46addf056043	Hidden Base		Protection	2	Support	⚡						LOCATION.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056045">Excelsior</card>	e4e959c3-c409-44ea-8bba-46addf056045	Excelsior		Protection	1	Support	⚡						KREE. SKRULL. WEAPON.
+<card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056046">Defensive Conditioning</card>	e4e959c3-c409-44ea-8bba-46addf056046	Defensive Conditioning		Protection	2	Upgrade	👊🏾						CONDITION.
+<card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056047">"I Can Do This All Day"</card>	e4e959c3-c409-44ea-8bba-46addf056047	"I Can Do This All Day"		Protection	1	Event	🧪						DEFENSE.
+<card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056050">Cuts Both Ways</card>	e4e959c3-c409-44ea-8bba-46addf056050	Cuts Both Ways		Protection	0	Event	⚡						DEFENSE.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056052">Iron Lad</card>	e4e959c3-c409-44ea-8bba-46addf056052	Iron Lad (Nathaniel Richards)		Basic	2	Ally	⚡						AVENGER.
