@@ -2,31 +2,31 @@ export function getCampaignCards(allCards) {
   return allCards
     .filter(
       (card) =>
-        isCampaignCardFromTheRiseOfRedSkull(card) ||
-        isCampaignCardFromGalaxysMostWanted(card) ||
-        isCampaignCardFromTheMadTitansShadow(card) ||
-        isCampaignCardFromSinisterMotives(card) ||
-        isCampaignCardFromMutantGenesis(card) ||
-        isCampaignCardFromMojoMania(card) ||
-        isCampaignCardFromNeXtEvolution(card) ||
-        isCampaignCardFromAgeOfApocalypse(card)
+        isTheRiseOfRedSkullCampaignCard(card) ||
+        isGalaxysMostWantedCampaignCard(card) ||
+        isTheMadTitansShadowCampaignCard(card) ||
+        isSinisterMotivesCampaignCard(card) ||
+        isMutantGenesisCampaignCard(card) ||
+        isMojoManiaCampaignCard(card) ||
+        isNeXtEvolutionCampaignCard(card) ||
+        isAgeOfApocalypseCampaignCard(card)
     )
     .map(withPseudoProperties);
 }
 
-function isCampaignCardFromTheRiseOfRedSkull(card) {
+function isTheRiseOfRedSkullCampaignCard(card) {
   const isCampaignUpgrade = card.set_code === "hydra_camp";
   const isTaskmasterCaptive =
     card.set_code === "taskmaster" && card.type_code === "ally";
   return isCampaignUpgrade || isTaskmasterCaptive;
 }
 
-function isCampaignCardFromGalaxysMostWanted(card) {
+function isGalaxysMostWantedCampaignCard(card) {
   const isMarketCard = card.set_code === "the_market";
   return isMarketCard;
 }
 
-function isCampaignCardFromTheMadTitansShadow(card) {
+function isTheMadTitansShadowCampaignCard(card) {
   const campaignCards = [
     "21139b", // Odin (King)
     "21180b", // Cosmo
@@ -37,12 +37,12 @@ function isCampaignCardFromTheMadTitansShadow(card) {
   return campaignCards.includes(card.code);
 }
 
-function isCampaignCardFromSinisterMotives(card) {
+function isSinisterMotivesCampaignCard(card) {
   const isShieldTech = card.set_code === "shield_tech";
   return isShieldTech;
 }
 
-function isCampaignCardFromMutantGenesis(card) {
+function isMutantGenesisCampaignCard(card) {
   const roleSets = ["brawler", "commander", "defender", "peacekeeper"];
   const isCampaignRoleCard = roleSets.includes(card.set_code);
   const isMasterMoldCaptive =
@@ -50,19 +50,19 @@ function isCampaignCardFromMutantGenesis(card) {
   return isCampaignRoleCard || isMasterMoldCaptive;
 }
 
-function isCampaignCardFromMojoMania(card) {
+function isMojoManiaCampaignCard(card) {
   const isLongshot = card.set_code === "longshot";
   return isLongshot;
 }
 
-function isCampaignCardFromNeXtEvolution(card) {
+function isNeXtEvolutionCampaignCard(card) {
   const isCampaignPlayerSideScheme =
     card.set_code === "next_evol_campaign" &&
     [card.type_code, card.back_card?.type_code].includes("player_side_scheme");
   return isCampaignPlayerSideScheme;
 }
 
-function isCampaignCardFromAgeOfApocalypse(card) {
+function isAgeOfApocalypseCampaignCard(card) {
   const isCampaignMissionSuccessReward =
     card.pack_code === "aoa" &&
     card.faction_code === "campaign" &&
