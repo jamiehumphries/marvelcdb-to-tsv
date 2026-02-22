@@ -360,7 +360,7 @@
 <card qty="1" id="102fb94e-3791-4b2c-88bc-9be337d7f12d">Lashing Vines</card>	102fb94e-3791-4b2c-88bc-9be337d7f12d	Lashing Vines		Hero	1	Upgrade	⚡						SUPERPOWER.
 <card qty="1" id="90660499-55a1-46d5-a779-75db7bb7f955">Vine Shield</card>	90660499-55a1-46d5-a779-75db7bb7f955	Vine Shield		Hero	1	Upgrade	👊🏾						SUPERPOWER.
 <card qty="1" id="89ee82ff-2eba-4f19-b4f2-6268255a8fc4">Vine Spikes</card>	89ee82ff-2eba-4f19-b4f2-6268255a8fc4	Vine Spikes		Hero	1	Upgrade	👊🏾						SUPERPOWER.
-<card qty="1" id="949afe72-c83d-4f48-bb83-be2a25e73d2a">Starhawk</card>	949afe72-c83d-4f48-bb83-be2a25e73d2a	Starhawk		Protection	2	Ally	👊🏾						AERIAL. GUARDIAN.
+<card qty="1" id="949afe72-c83d-4f48-bb83-be2a25e73d2a">Starhawk</card>	949afe72-c83d-4f48-bb83-be2a25e73d2a	Starhawk (Stakar Ogord)		Protection	2	Ally	👊🏾						AERIAL. GUARDIAN.
 <card qty="3" id="bf5f9142-ef49-4ed6-b703-944a2aa47003">Fighting Fit</card>	bf5f9142-ef49-4ed6-b703-944a2aa47003	Fighting Fit		Protection	2	Event	👊🏾						ATTACK.
 <card qty="3" id="155ca0ab-f113-4e62-854c-88db749083a0">Dauntless</card>	155ca0ab-f113-4e62-854c-88db749083a0	Dauntless		Protection	1	Upgrade	⚡						CONDITION.
 <card qty="3" id="86a866bd-b987-40ea-836c-a5d89bfd65bd">Hard to Ignore</card>	86a866bd-b987-40ea-836c-a5d89bfd65bd	Hard to Ignore		Protection	1	Upgrade	👊🏾						SKILL.
@@ -1416,8 +1416,52 @@
 <card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056040">Shapeshifter</card>	e4e959c3-c409-44ea-8bba-46addf056040	Shapeshifter		Hero	0	Event	✨						SUPERPOWER.
 <card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056041">Patriot</card>	e4e959c3-c409-44ea-8bba-46addf056041	Patriot (Elijah Bradley)		Protection	3	Ally	⚡						AVENGER.
 <card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056043">Hidden Base</card>	e4e959c3-c409-44ea-8bba-46addf056043	Hidden Base		Protection	2	Support	⚡						LOCATION.
-<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056045">Excelsior</card>	e4e959c3-c409-44ea-8bba-46addf056045	Excelsior		Protection	1	Support	⚡						KREE. SKRULL. WEAPON.
+<card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056045">Excelsior</card>	e4e959c3-c409-44ea-8bba-46addf056045	Excelsior		Protection	1	Upgrade	⚡						KREE. SKRULL. WEAPON.
 <card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056046">Defensive Conditioning</card>	e4e959c3-c409-44ea-8bba-46addf056046	Defensive Conditioning		Protection	2	Upgrade	👊🏾						CONDITION.
 <card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056047">"I Can Do This All Day"</card>	e4e959c3-c409-44ea-8bba-46addf056047	"I Can Do This All Day"		Protection	1	Event	🧪						DEFENSE.
 <card qty="3" id="e4e959c3-c409-44ea-8bba-46addf056050">Cuts Both Ways</card>	e4e959c3-c409-44ea-8bba-46addf056050	Cuts Both Ways		Protection	0	Event	⚡						DEFENSE.
 <card qty="1" id="e4e959c3-c409-44ea-8bba-46addf056052">Iron Lad</card>	e4e959c3-c409-44ea-8bba-46addf056052	Iron Lad (Nathaniel Richards)		Basic	2	Ally	⚡						AVENGER.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058002">Ionic Physiology</card>	7eb46497-8915-4be9-b31d-7bee67058002	Ionic Physiology		Hero	-	Upgrade	⚡						SUPERPOWER.
+<card qty="3" id="7eb46497-8915-4be9-b31d-7bee67058003">Active Altruism</card>	7eb46497-8915-4be9-b31d-7bee67058003	Active Altruism		Hero	0	Event	⚡						THWART.
+<card qty="2" id="7eb46497-8915-4be9-b31d-7bee67058004">Ionic Blast</card>	7eb46497-8915-4be9-b31d-7bee67058004	Ionic Blast		Hero	1	Event	⚡						ATTACK. SUPERPOWER.
+<card qty="3" id="7eb46497-8915-4be9-b31d-7bee67058005">Starstruck</card>	7eb46497-8915-4be9-b31d-7bee67058005	Starstruck		Hero	1	Event	⚡						ATTACK. SUPERPOWER.
+<card qty="2" id="7eb46497-8915-4be9-b31d-7bee67058006">Energy Siphon</card>	7eb46497-8915-4be9-b31d-7bee67058006	Energy Siphon		Hero	-	Resource	⚡			
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058007">Wonder Fans</card>	7eb46497-8915-4be9-b31d-7bee67058007	Wonder Fans		Hero	1	Support	✨						CIVILIAN.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058008">Jet Belt</card>	7eb46497-8915-4be9-b31d-7bee67058008	Jet Belt		Hero	2	Upgrade	🧪						ITEM. TECH.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058009">Mr. Hollywood</card>	7eb46497-8915-4be9-b31d-7bee67058009	Mr. Hollywood		Hero	1	Upgrade	✨						TITLE.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058010">Signature Sunglasses</card>	7eb46497-8915-4be9-b31d-7bee67058010	Signature Sunglasses		Hero	1	Upgrade	👊🏾						ITEM.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058011">"What Are You?"</card>	7eb46497-8915-4be9-b31d-7bee67058011	"What Are You?"		Hero	2	Upgrade	⚡						SUPERPOWER.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058012">Firebird</card>	7eb46497-8915-4be9-b31d-7bee67058012	Firebird (Bonita Juarez)		Justice	2	Ally	⚡						AERIAL. AVENGER.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058013">Hawkeye</card>	7eb46497-8915-4be9-b31d-7bee67058013	Hawkeye (Clint Barton)		Justice	3	Ally	⚡						AVENGER. S.H.I.E.L.D.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058014">Scarlet Witch</card>	7eb46497-8915-4be9-b31d-7bee67058014	Scarlet Witch (Wanda Maximoff)		Justice	2	Ally	🧪						AVENGER. MYSTIC.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058015">Sentry</card>	7eb46497-8915-4be9-b31d-7bee67058015	Sentry (Robert Reynolds)		Justice	3	Ally	⚡						AERIAL. AVENGER.
+<card qty="3" id="7eb46497-8915-4be9-b31d-7bee67058016">Battlefield Benevolence</card>	7eb46497-8915-4be9-b31d-7bee67058016	Battlefield Benevolence		Justice	1	Event	👊🏾						TACTIC.
+<card qty="3" id="7eb46497-8915-4be9-b31d-7bee67058018">Everywhere All at Once</card>	7eb46497-8915-4be9-b31d-7bee67058018	Everywhere All at Once		Justice	X	Event	⚡						AERIAL. THWART.
+<card qty="3" id="7eb46497-8915-4be9-b31d-7bee67058019">Stronger Together</card>	7eb46497-8915-4be9-b31d-7bee67058019	Stronger Together		Protection	0	Event	⚡			
+<card qty="3" id="7eb46497-8915-4be9-b31d-7bee67058020">Unified Strike</card>	7eb46497-8915-4be9-b31d-7bee67058020	Unified Strike		Leadership	0	Event	⚡						TACTIC.
+<card qty="3" id="7eb46497-8915-4be9-b31d-7bee67058021">Heroic Conditioning</card>	7eb46497-8915-4be9-b31d-7bee67058021	Heroic Conditioning		Justice	3	Upgrade	👊🏾						CONDITION.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058022">Swordsman</card>	7eb46497-8915-4be9-b31d-7bee67058022	Swordsman (Jacques Duquesne)		Basic	4	Ally	👊🏾						AVENGER.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058024">Jarvis</card>	7eb46497-8915-4be9-b31d-7bee67058024	Jarvis		Basic	2	Support	⚡						AVENGER. PERSONA.
+<card qty="3" id="7eb46497-8915-4be9-b31d-7bee67058030">Caught in the Crossfire</card>	7eb46497-8915-4be9-b31d-7bee67058030	Caught in the Crossfire		Aggression	0	Upgrade	⚡						TACTIC.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058031">Cameo</card>	7eb46497-8915-4be9-b31d-7bee67058031	Cameo		Leadership	-	Support
+<card qty="3" id="7eb46497-8915-4be9-b31d-7bee67058032">Coordinated Effort</card>	7eb46497-8915-4be9-b31d-7bee67058032	Coordinated Effort		Leadership	0	Upgrade	✨						TACTIC.
+<card qty="3" id="7eb46497-8915-4be9-b31d-7bee67058033">Disarming Defense</card>	7eb46497-8915-4be9-b31d-7bee67058033	Disarming Defense		Protection	1	Event	⚡						DEFENSE.
+<card qty="1" id="7eb46497-8915-4be9-b31d-7bee67058034">Avengers Compound</card>	7eb46497-8915-4be9-b31d-7bee67058034	Avengers Compound		Basic	0	Support	🧪						AVENGER. LOCATION.
+<card qty="1" id="01625c2e-06c7-4321-bfd4-9abdc6059008">Amadeus Cho</card>	01625c2e-06c7-4321-bfd4-9abdc6059008	Amadeus Cho		Hero	2	Ally	✨						GENIUS.
+<card qty="3" id="01625c2e-06c7-4321-bfd4-9abdc6059009">The Gift of Battle</card>	01625c2e-06c7-4321-bfd4-9abdc6059009	The Gift of Battle		Hero	3	Event	👊🏾						ATTACK.
+<card qty="2" id="01625c2e-06c7-4321-bfd4-9abdc6059010">Son of Zeus</card>	01625c2e-06c7-4321-bfd4-9abdc6059010	Son of Zeus		Hero	2	Event	⚡						OLYMPUS.
+<card qty="2" id="01625c2e-06c7-4321-bfd4-9abdc6059011">Wisdom of Athena</card>	01625c2e-06c7-4321-bfd4-9abdc6059011	Wisdom of Athena		Hero	3	Event	🧪						THWART.
+<card qty="1" id="01625c2e-06c7-4321-bfd4-9abdc6059012">Olympus</card>	01625c2e-06c7-4321-bfd4-9abdc6059012	Olympus		Hero	0	Support	⚡						LOCATION. OLYMPUS.
+<card qty="1" id="01625c2e-06c7-4321-bfd4-9abdc6059013">Gauntlets of Hercules</card>	01625c2e-06c7-4321-bfd4-9abdc6059013	Gauntlets of Hercules		Hero	0	Upgrade	👊🏾						ARMOR. OLYMPUS.
+<card qty="1" id="01625c2e-06c7-4321-bfd4-9abdc6059014">Golden Mace</card>	01625c2e-06c7-4321-bfd4-9abdc6059014	Golden Mace		Hero	1	Upgrade	👊🏾						OLYMPUS. WEAPON.
+<card qty="1" id="01625c2e-06c7-4321-bfd4-9abdc6059015">Herc's Helm</card>	01625c2e-06c7-4321-bfd4-9abdc6059015	Herc's Helm		Hero	0	Upgrade	👊🏾						ARMOR. OLYMPUS.
+<card qty="2" id="01625c2e-06c7-4321-bfd4-9abdc6059016">Lion of Olympus</card>	01625c2e-06c7-4321-bfd4-9abdc6059016	Lion of Olympus		Hero	0	Upgrade	👊🏾						OLYMPUS.
+<card qty="1" id="01625c2e-06c7-4321-bfd4-9abdc6059017">Prince of Power</card>	01625c2e-06c7-4321-bfd4-9abdc6059017	Prince of Power		Hero	1	Upgrade	👊🏾						OLYMPUS. TITLE.
+<card qty="1" id="01625c2e-06c7-4321-bfd4-9abdc6059018">Deathcry</card>	01625c2e-06c7-4321-bfd4-9abdc6059018	Deathcry (Sharra Neramani)		Leadership	3	Ally	👊🏾						AVENGER.
+<card qty="1" id="01625c2e-06c7-4321-bfd4-9abdc6059019">Namora</card>	01625c2e-06c7-4321-bfd4-9abdc6059019	Namora (Aquaria Neptunia)		Leadership	4	Ally	👊🏾						AGENT OF ATLAS. ATLANTIS.
+<card qty="1" id="01625c2e-06c7-4321-bfd4-9abdc6059020">Thor</card>	01625c2e-06c7-4321-bfd4-9abdc6059020	Thor (Odinson)		Leadership	4	Ally	⚡						ASGARD. AVENGER.
+<card qty="3" id="01625c2e-06c7-4321-bfd4-9abdc6059023">Recruitment Drive</card>	01625c2e-06c7-4321-bfd4-9abdc6059023	Recruitment Drive		Leadership	3	Support	🧪			
+<card qty="3" id="01625c2e-06c7-4321-bfd4-9abdc6059024">"Avenge Me!"</card>	01625c2e-06c7-4321-bfd4-9abdc6059024	"Avenge Me!"		Leadership	0	Upgrade	👊🏾						AVENGER.
+<card qty="1" id="01625c2e-06c7-4321-bfd4-9abdc6059025">Gilgamesh</card>	01625c2e-06c7-4321-bfd4-9abdc6059025	Gilgamesh		Basic	3	Ally	👊🏾						ETERNAL.
+<card qty="1" id="01625c2e-06c7-4321-bfd4-9abdc6059026">Ancient Rivalry</card>	01625c2e-06c7-4321-bfd4-9abdc6059026	Ancient Rivalry		Basic	1	Event	✨						ASGARD. OLYMPUS.
+<card qty="1" id="01625c2e-06c7-4321-bfd4-9abdc6059028">Evaluate Threat</card>	01625c2e-06c7-4321-bfd4-9abdc6059028	Evaluate Threat		Basic	1	Player Side Scheme	🧪			
